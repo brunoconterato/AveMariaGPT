@@ -1,12 +1,11 @@
 #!/bin/bash
 
-# Script to process a PDF in batches using marker_single, separating output and logs (ATTEMPT 8)
+# Script to process a PDF in batches using marker_single, separating output and logs (ATTEMPT 9)
 
 # --- Configuration ---
 PDF_FILE="$1"            # Path to the PDF file
 BATCH_SIZE="${2:-10}"    # Pages per batch (default: 10)
 OUTPUT_DIR="${3:-output}"  # Output directory (MUST EXIST)
-MARKDOWN_OUTPUT="$OUTPUT_DIR/combined_output.md" # Combined Markdown output file
 LOG_FILE="$OUTPUT_DIR/process_log.txt" # Log file
 # --- End Configuration ---
 
@@ -37,11 +36,12 @@ if [ ! -f "$LOG_FILE" ]; then touch "$LOG_FILE"; fi
 if ! command -v marker_single &> /dev/null; then error "marker_single not found in PATH."; fi
 # --- End Validation ---
 
-# Extract the base filename without extension
+# Extract base filename (without .pdf)
 BASE_NAME=$(basename "$PDF_FILE" .pdf)
+FINAL_MARKDOWN="$OUTPUT_DIR/$BASE_NAME.md"
 
-# Ensure markdown output file exists
-: > "$MARKDOWN_OUTPUT"
+# Clear final output file if exists
+: > "$FINAL_MARKDOWN"
 
 # --- Main Script ---
 TOTAL_PAGES=$(get_page_count)
@@ -57,9 +57,9 @@ while [ "$START_PAGE" -lt "$TOTAL_PAGES" ]; do
   log "Processing pages $START_PAGE-$END_PAGE"
   PAGE_RANGE="$START_PAGE-$END_PAGE"
 
-  # Define expected output directory and markdown file path
-  EXPECTED_OUTPUT_DIR="$OUTPUT_DIR/$BASE_NAME"
-  EXPECTED_MARKDOWN_FILE="$EXPECTED_OUTPUT_DIR/${BASE_NAME}.md"
+  # Temp output path from marker_single
+  TEMP_DIR="$OUTPUT_DIR/$BASE_NAME"
+  TEMP_MD="$TEMP_DIR/${BASE_NAME}.md"
 
   # Execute marker_single
   if marker_single \
@@ -70,12 +70,12 @@ while [ "$START_PAGE" -lt "$TOTAL_PAGES" ]; do
       --page_range "$PAGE_RANGE" \
       "$PDF_FILE" >> "$LOG_FILE" 2>&1; then
 
-    # Check if the expected markdown file was created
-    if [ -f "$EXPECTED_MARKDOWN_FILE" ]; then
-      cat "$EXPECTED_MARKDOWN_FILE" >> "$MARKDOWN_OUTPUT"
-      log "Processed pages $START_PAGE-$END_PAGE successfully"
+    if [ -f "$TEMP_MD" ]; then
+      cat "$TEMP_MD" >> "$FINAL_MARKDOWN"
+      log "Appended pages $START_PAGE-$END_PAGE to $FINAL_MARKDOWN"
+      rm -rf "$TEMP_DIR"
     else
-      error "Markdown file not found: $EXPECTED_MARKDOWN_FILE"
+      error "Markdown file not found: $TEMP_MD"
     fi
 
   else
@@ -85,5 +85,5 @@ while [ "$START_PAGE" -lt "$TOTAL_PAGES" ]; do
   START_PAGE=$((END_PAGE + 1))
 done
 
-log "Processing complete."
+log "Processing complete. Output saved to $FINAL_MARKDOWN"
 exit 0

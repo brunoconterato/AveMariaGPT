@@ -108,17 +108,14 @@ O script `process_pdf_batches.sh` processa o PDF em lotes (batches) para evitar 
 Para processar o PDF da Bíblia em lotes de 50 páginas, execute o seguinte comando:
 
 ```bash
-bash process_pdf_batches.sh \
-    ../data/raw/biblia/Bíblia\ Sagrada\ O\ Antigo\ e\ Novo\ Testamento\ -\ 4\ volumes\ -\ Vulgata\ Latina\ por\ Pe.\ Matos\ Soares\ 1927-1950.pdf \
-    50 \
-    ../data/raw/biblia/pdf_to_markdown_output
+bash process_pdf_batches.sh ../../data/raw/biblia/Bíblia\ Sagrada\ O\ Antigo\ e\ Novo\ Testamento\ -\ 4\ volumes\ -\ Vulgata\ Latina\ por\ Pe.\ Matos\ Soares\ 1927-1950.pdf 100 ../../data/processed/biblia/pdf_to_markdown_using_marker-pdf
 ```
 
 ### Explicação
 
-- **`../data/raw/biblia/Bíblia Sagrada...pdf`**: Caminho para o PDF da Bíblia.
-- **`50`**: Tamanho do lote (50 páginas por vez).
-- **`../data/raw/biblia/pdf_to_markdown_output`**: Diretório onde os arquivos Markdown e logs serão salvos.
+- **`../../data/raw/biblia/Bíblia\ Sagrada...pdf`**: Caminho para o PDF da Bíblia.
+- **`100`**: Tamanho do lote (100 páginas por vez).
+- **`../../data/processed/biblia/pdf_to_markdown_using_marker-pdf`**: Diretório onde os arquivos Markdown e logs serão salvos.
 
 ---
 
