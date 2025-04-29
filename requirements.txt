@@ -87,7 +87,7 @@ llvmlite==0.44.0
 lm-format-enforcer==0.10.11
 markdown-it-py==3.0.0
 markdown2==2.5.3
-markdownify==0.13.1
+markdownify==0.14.1
 marker-pdf==1.6.2
 MarkupSafe==3.0.2
 marshmallow==3.26.1
