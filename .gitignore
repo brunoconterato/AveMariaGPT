@@ -178,9 +178,5 @@ cython_debug/
 
 #
 **/process_log.txt
-src/Bíblia VectorStore/biblia_vectorstore/chroma.sqlite3
-src/Bíblia VectorStore/biblia_vectorstore/02eb0b07-2227-4a60-ae8d-295c5e29e200/data_level0.bin
-src/Bíblia VectorStore/biblia_vectorstore/02eb0b07-2227-4a60-ae8d-295c5e29e200/header.bin
-src/Bíblia VectorStore/biblia_vectorstore/02eb0b07-2227-4a60-ae8d-295c5e29e200/index_metadata.pickle
-src/Bíblia VectorStore/biblia_vectorstore/02eb0b07-2227-4a60-ae8d-295c5e29e200/length.bin
-src/Bíblia VectorStore/biblia_vectorstore/02eb0b07-2227-4a60-ae8d-295c5e29e200/link_lists.bin
+src/Bíblia VectorStore/biblia_vectorstore/
+src/Bíblia VectorStore/biblia.db

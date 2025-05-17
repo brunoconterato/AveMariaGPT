@@ -1,0 +1,12 @@
+{
+    "CodeGPT.apiKey": "Ollama",
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:MariaGPT}/src/Bíblia VectorStore/biblia.db",
+            "name": "Biblia"
+        }
+    ]
+}
