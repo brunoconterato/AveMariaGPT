@@ -73,7 +73,16 @@ Esta é a funcionalidade central do MariaGPT, utilizando os dados preparados.
         3.  `generate`: Gera a resposta final usando o LLM e o contexto recuperado, seguindo as instruções do prompt.
     *   **Arquivos:** `src/1. Preprocessing/2. Data Ingestion for RAG.ipynb` (células `a111732f`, `a80d317d`, `bb4a367b`)
 
-### 4. Processamento de Conteúdo Específico (Lives do Frei Gilson)
+### 4. Generalização da Ingestão de Conhecimento
+
+Esta funcionalidade visa permitir a adição contínua de novos materiais (livros, documentos, etc.) para expandir a base de conhecimento do sistema sobre a fé católica.
+
+*   **Processo de Ingestão de Novos Materiais**
+    *   **Status:** Em progresso (conceitual, baseando-se em ferramentas existentes).
+    *   **Descrição:** Define e refina o processo para converter novos livros ou documentos (em vários formatos como PDF, EPUB, TXT) em um formato estruturado (Markdown), extrair seus conteúdos e metadados, e indexá-los no vector store principal. Isso inclui a adaptação de ferramentas de pré-processamento para lidar com diferentes layouts e estruturas de documentos, e a criação de uma pipeline para extração de metadados específicos de cada tipo de material.
+    *   **Arquivos:** `src/1. Preprocessing/process_pdf_batches.sh` (base para PDF), `src/1. Preprocessing/2. Data Ingestion for RAG.ipynb` (base para splitting e ingestão em vector store), (Necessidade de novos scripts/ferramentas e refatoração para generalização).
+
+### 5. Processamento de Conteúdo Específico (Lives do Frei Gilson)
 
 Esta seção visa processar transcrições de lives católicas para extrair ensinamentos.
 
@@ -114,3 +123,8 @@ As funcionalidades se interligam para construir o agente RAG e para processar co
     *   Ele *reutiliza* a `biblia_vectorstore` criada em `src/Bíblia VectorStore/2. Vector database.ipynb` para a detecção de versículos.
     *   A sumarização e extração de informações das lives é uma funcionalidade paralela ao agente conversacional principal, mas que visa enriquecer o conhecimento sobre os ensinamentos do Frei Gilson.
     *   **Não é uma dependência direta** para o funcionamento do agente RAG principal, mas é uma funcionalidade que agrega valor ao projeto.
+
+5.  **Generalização da Ingestão de Conhecimento:**
+    *   Esta funcionalidade é um processo contínuo e iterativo que permite a expansão da base de conhecimento do MariaGPT. Ela se baseia diretamente nas ferramentas e metodologias estabelecidas nas fases de **Preparação da Bíblia Matos Soares e Catecismo** (ponto 1) e utiliza a lógica de **Quebra de Texto Estruturado** e a **Criação da Vector Store Unificada** (pontos 0.4, 0.5 e 0.6 do roadmap, e seções correspondentes no mapeamento).
+    *   Sua execução permite que novos materiais sejam processados e adicionados ao vector store principal, enriquecendo a capacidade do **Agente Conversacional (RAG)** de responder a uma gama mais ampla de perguntas.
+    *   **Dependência:** Requer que as ferramentas de pré-processamento de PDF (`process_pdf_batches.sh`) e a lógica de quebra de texto e ingestão (`2. Data Ingestion for RAG.ipynb`) estejam funcionando, além de uma vector store persistente (`Fase 2.1` do roadmap) para que os novos dados sejam salvos e consultáveis.

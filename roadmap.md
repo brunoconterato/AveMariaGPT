@@ -188,7 +188,14 @@ Estas são as etapas para expandir as capacidades do MariaGPT após a versão in
     *   **Descrição:** Pesquisar e, se viável, treinar um modelo LLM open-source com um corpus de dados católicos ainda mais específico para melhorar a precisão e profundidade das respostas.
     *   **Estimativa:** 80 horas (P&D intenso)
 
-**Total Estimado para Fase 5:** 165 horas
+*   **5.5. Generalização da Ingestão de Novos Livros e Materiais**
+    *   **Descrição:** Desenvolver um processo robusto e flexível para ingestão contínua de novos documentos (livros, encíclicas, documentos conciliares, escritos de santos, etc.) em diferentes formatos (PDF, EPUB, TXT, HTML). Isso incluirá:
+        *   Análise e adaptação das ferramentas existentes para lidar com a variedade de formatos e estruturas de documentos.
+        *   Desenvolvimento de lógicas de "splitting" e extração de metadados configuráveis para cada tipo de material.
+        *   Criação de um pipeline automatizado para ingestão e indexação desses novos conhecimentos na vector store principal do MariaGPT, garantindo a atualização e expansão contínua da base de conhecimento.
+    *   **Estimativa:** 60 horas
+
+**Total Estimado para Fase 5:** 225 horas
 
 ---
 
