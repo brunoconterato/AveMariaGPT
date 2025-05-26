@@ -80,39 +80,66 @@ dependencies:
       - annotated-types==0.7.0
       - anthropic==0.46.0
       - anyio==4.9.0
+      - argon2-cffi==23.1.0
+      - argon2-cffi-bindings==21.2.0
+      - arrow==1.3.0
+      - asgiref==3.8.1
       - astor==0.8.1
+      - async-lru==2.0.5
       - attrs==25.3.0
+      - babel==2.17.0
+      - backoff==2.2.1
+      - bcrypt==4.3.0
       - beautifulsoup4==4.13.3
       - blake3==1.0.4
+      - bleach==6.2.0
+      - build==1.2.2.post1
       - cachetools==5.5.2
       - certifi==2025.1.31
+      - cffi==1.17.1
       - cfgv==3.4.0
+      - chardet==5.2.0
       - charset-normalizer==3.4.1
+      - chroma-hnswlib==0.7.6
+      - chromadb==0.6.3
       - click==8.1.8
       - cloudpickle==3.1.1
+      - coloredlogs==15.0.1
       - compressed-tensors==0.9.2
+      - cryptography==44.0.3
       - cupy-cuda12x==13.4.1
       - dataclasses-json==0.6.7
+      - defusedxml==0.7.1
+      - deprecated==1.2.18
       - depyf==0.18.0
       - dill==0.3.9
       - diskcache==5.6.3
       - distlib==0.3.9
       - distro==1.9.0
       - dnspython==2.7.0
+      - durationpy==0.9
       - einops==0.8.1
       - email-validator==2.2.0
-      - fastapi==0.115.12
+      - fastapi==0.115.9
       - fastapi-cli==0.0.7
+      - fastjsonschema==2.21.1
       - fastrlock==0.8.3
       - filelock==3.18.0
       - filetype==1.2.0
+      - flatbuffers==25.2.10
+      - fqdn==1.5.1
       - frozenlist==1.5.0
       - fsspec==2025.3.2
       - ftfy==6.3.1
       - gguf==0.10.0
+      - google-ai-generativelanguage==0.6.17
+      - google-api-core==2.24.2
       - google-auth==2.38.0
       - google-genai==1.9.0
+      - googleapis-common-protos==1.70.0
       - greenlet==3.1.1
+      - grpcio==1.72.0rc1
+      - grpcio-status==1.72.0rc1
       - h11==0.14.0
       - hf-xet==1.0.2
       - httpcore==1.0.7
@@ -120,23 +147,38 @@ dependencies:
       - httpx==0.28.1
       - httpx-sse==0.4.0
       - huggingface-hub==0.30.1
+      - humanfriendly==10.0
       - identify==2.6.9
       - idna==3.10
+      - importlib-resources==6.5.2
       - interegular==0.3.3
       - ipywidgets==8.1.5
+      - isoduration==20.11.0
       - jinja2==3.1.6
       - jiter==0.9.0
       - joblib==1.4.2
+      - json5==0.12.0
       - jsonpatch==1.33
       - jsonpointer==3.0.0
       - jsonschema==4.23.0
       - jsonschema-specifications==2024.10.1
+      - jupyter-events==0.12.0
+      - jupyter-lsp==2.2.5
+      - jupyter-server==2.15.0
+      - jupyter-server-terminals==0.5.3
+      - jupyterlab==4.4.1
+      - jupyterlab-pygments==0.3.0
+      - jupyterlab-server==2.27.3
       - jupyterlab-widgets==3.0.13
-      - langchain==0.3.23
-      - langchain-community==0.3.21
-      - langchain-core==0.3.51
+      - kubernetes==32.0.1
+      - langchain==0.3.25
+      - langchain-chroma==0.2.3
+      - langchain-community==0.3.23
+      - langchain-core==0.3.58
+      - langchain-google-genai==2.1.3
       - langchain-huggingface==0.1.2
       - langchain-ollama==0.3.1
+      - langchain-openai==0.3.12
       - langchain-text-splitters==0.3.8
       - langgraph==0.3.25
       - langgraph-checkpoint==2.0.24
@@ -156,15 +198,22 @@ dependencies:
       - mdurl==0.1.2
       - mermaid-py==0.7.1
       - mistral-common==1.5.4
+      - mistune==3.1.3
+      - mmh3==5.1.0
       - mpmath==1.3.0
       - msgpack==1.1.0
       - msgspec==0.19.0
       - multidict==6.3.2
       - mypy-extensions==1.0.0
       - nanobind==2.6.1
+      - nbclient==0.10.2
+      - nbconvert==7.16.6
+      - nbformat==5.10.4
       - networkx==3.4.2
       - ninja==1.11.1.4
       - nodeenv==1.9.1
+      - notebook==7.4.1
+      - notebook-shim==0.2.4
       - numba==0.61.0
       - numpy==2.1.3
       - nvidia-cublas-cu12==12.4.5.8
@@ -180,29 +229,50 @@ dependencies:
       - nvidia-nccl-cu12==2.21.5
       - nvidia-nvjitlink-cu12==12.4.127
       - nvidia-nvtx-cu12==12.4.127
+      - oauthlib==3.2.2
       - ollama==0.4.7
+      - onnxruntime==1.21.1
       - openai==1.71.0
       - opencv-python-headless==4.11.0.86
+      - opentelemetry-api==1.32.1
+      - opentelemetry-exporter-otlp-proto-common==1.32.1
+      - opentelemetry-exporter-otlp-proto-grpc==1.32.1
+      - opentelemetry-instrumentation==0.53b1
+      - opentelemetry-instrumentation-asgi==0.53b1
+      - opentelemetry-instrumentation-fastapi==0.53b1
+      - opentelemetry-proto==1.32.1
+      - opentelemetry-sdk==1.32.1
+      - opentelemetry-semantic-conventions==0.53b1
+      - opentelemetry-util-http==0.53b1
       - orjson==3.10.16
       - ormsgpack==1.9.1
       - outlines==0.1.11
       - outlines-core==0.1.26
+      - overrides==7.7.0
+      - pandocfilters==1.5.1
       - partial-json-parser==0.2.1.1.post5
+      - pdfminer-six==20250327
+      - pdfplumber==0.11.6
       - pdftext==0.6.2
       - pillow==10.4.0
+      - posthog==4.0.1
       - pre-commit==4.2.0
       - prometheus-client==0.21.1
       - prometheus-fastapi-instrumentator==7.1.0
       - propcache==0.3.1
-      - protobuf==6.30.2
+      - proto-plus==1.26.1
+      - protobuf==5.29.4
       - py-cpuinfo==9.0.0
       - pyasn1==0.6.1
       - pyasn1-modules==0.4.2
       - pycountry==24.6.1
+      - pycparser==2.22
       - pydantic==2.11.2
       - pydantic-core==2.33.1
       - pydantic-settings==2.8.1
       - pypdfium2==4.30.0
+      - pypika==0.48.9
+      - pyproject-hooks==1.2.0
       - python-dotenv==1.1.0
       - python-json-logger==3.3.0
       - python-multipart==0.0.20
@@ -212,7 +282,10 @@ dependencies:
       - referencing==0.36.2
       - regex==2024.11.6
       - requests==2.32.3
+      - requests-oauthlib==2.0.0
       - requests-toolbelt==1.0.0
+      - rfc3339-validator==0.1.4
+      - rfc3986-validator==0.1.1
       - rich==14.0.0
       - rich-toolkit==0.14.1
       - rpds-py==0.24.0
@@ -220,38 +293,47 @@ dependencies:
       - safetensors==0.5.3
       - scikit-learn==1.6.1
       - scipy==1.15.2
-      - sentence-transformers==4.0.2
+      - send2trash==1.8.3
+      - sentence-transformers==4.1.0
       - sentencepiece==0.2.0
       - setuptools==78.1.0
       - shellingham==1.5.4
       - sniffio==1.3.1
       - soupsieve==2.6
       - sqlalchemy==2.0.40
-      - starlette==0.46.1
+      - starlette==0.45.3
       - surya-ocr==0.13.1
       - sympy==1.13.1
       - tenacity==9.1.2
+      - terminado==0.18.1
       - threadpoolctl==3.6.0
       - tiktoken==0.9.0
+      - tinycss2==1.4.0
       - tokenizers==0.21.1
       - torch==2.6.0
       - torchaudio==2.6.0
       - torchvision==0.21.0
       - tqdm==4.67.1
-      - transformers==4.51.0
+      - transformers==4.51.3
       - triton==3.2.0
       - typer==0.15.2
+      - types-python-dateutil==2.9.0.20241206
       - typing-extensions==4.13.1
       - typing-inspect==0.9.0
       - typing-inspection==0.4.0
+      - uri-template==1.3.0
       - urllib3==2.3.0
       - uvicorn==0.34.0
       - uvloop==0.21.0
       - virtualenv==20.30.0
       - vllm==0.8.3
       - watchfiles==1.0.4
+      - webcolors==24.11.1
+      - webencodings==0.5.1
+      - websocket-client==1.8.0
       - websockets==15.0.1
       - widgetsnbextension==4.0.13
+      - wrapt==1.17.2
       - xformers==0.0.29.post2
       - xgrammar==0.1.17
       - xxhash==3.5.0
