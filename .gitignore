@@ -176,6 +176,10 @@ cython_debug/
 
 ##### Bruno Ignore #####
 
+# Files for external functionality
+all_code.py
+all.txt
+
 #
 **/process_log.txt
 src/Bíblia VectorStore/biblia_vectorstore/
