@@ -1,71 +1,91 @@
 # ✅ Checklist Completo para o Projeto MariaGPT
 
-## 🏗️ 1. Coleta e Preparação de Dados  
+## 🏗️ 1. Coleta e Preparação de Dados
+
 ### 📖 1.1. Seleção de Fontes de Conhecimento
+
 - [x] Obter uma versão **livre** da Bíblia Católica (ex.: Bíblia Matos Soares 1927-1950)
 - [x] Obter o **Catecismo da Igreja Católica** em formato reutilizável (ex.: EPUB, PDF, TXT)
 - [ ] Buscar documentos adicionais relevantes (ex.: encíclicas, concílios, santos)
 
-### 📂 1.2. Processamento dos Dados  
-- [ ] Extrair o texto limpo das fontes disponíveis (EPUB, PDF, HTML, TXT)  
-- [ ] Estruturar a Bíblia em versículos e capítulos indexáveis  
-- [ ] Indexar o Catecismo por parágrafos e tópicos  
-- [ ] Normalizar a formatação do texto (remoção de caracteres indesejados, espaçamentos, etc.)  
-- [ ] Criar uma base vetorial para **Recuperação Aumentada por Geração (RAG)**  
+### 📂 1.2. Processamento e Estruturação dos Dados Iniciais (Bíblia e Catecismo)
+
+- [x] Extrair e estruturar texto das fontes (PDF para Markdown, TXT)
+- [x] Estruturar a Bíblia em versículos/seções e o Catecismo por parágrafos/tópicos (indexáveis)
+- [x] Normalizar a formatação do texto (remoção de caracteres indesejados, espaçamentos, etc.)
+- [~] Criar e persistir uma base vetorial (Vector Store) para **Recuperação Aumentada por Geração (RAG)** (Atual: `InMemoryVectorStore` em uso, precisa de persistência)
+
+### 💡 1.3. Processamento e Indexação das Lives do Frei Gilson
+
+- [~] Aprimorar e testar a detecção de versículos bíblicos em transcrições das lives
+- [~] Refinar o prompt para sumarização e extração de ensinamentos das lives
+- [~] Implementar e executar o pipeline de processamento em lotes das transcrições das lives
+- [ ] Armazenar e indexar o conhecimento extraído das lives no Vector Store principal
 
 ---
 
-## 🏗️ 2. Construção do Agente Conversacional  
-### 🧠 2.1. Implementação do RAG com Langchain  
-- [ ] Configurar **Langchain** para consulta eficiente às fontes de dados  
-- [ ] Escolher e configurar um **Vector Store** (ex.: FAISS, ChromaDB, Weaviate)  
-- [ ] Criar um **retriever** otimizado para busca eficiente na Bíblia e Catecismo  
-- [ ] Implementar um **pipeline de RAG** para alimentar a LLM com dados relevantes  
+## 🏗️ 2. Construção e Refinamento do Agente Conversacional
 
-### 🤖 2.2. Configuração da LLM Local  
-- [ ] Instalar e configurar **Ollama** para rodar uma LLM localmente  
-- [ ] Testar diferentes modelos **open-source** (ex.: Mistral, Llama 3)  
-- [ ] Ajustar o prompt engineering para respostas mais alinhadas com o contexto católico  
-- [ ] Implementar **memory management** para conversas mais naturais  
+### 🧠 2.1. Configuração de LLM e Embeddings
 
----
+- [x] Instalar e configurar **Ollama** para rodar LLMs e modelos de embedding localmente
+- [x] Testar diferentes modelos **open-source** (ex.: Mistral, Llama 3) no Ollama
 
-## 🌐 3. Desenvolvimento do Front-end  
-### 💬 3.1. Escolha e Implementação do Chatbot  
-- [ ] Selecionar uma interface pré-programada de chatbot (ex.: **Botpress**, **React chatbot kit**)  
-- [ ] Implementar um front-end minimalista (ex.: React, Next.js ou HTML/CSS puro)  
-- [ ] Criar comunicação entre o front-end e o back-end do agente via API REST  
+### 🤖 2.2. Implementação e Otimização do RAG
 
-### 🚀 3.2. Deploy e Infraestrutura  
-- [ ] Criar um **Dockerfile** para o agente conversacional  
-- [ ] Configurar **docker-compose** para rodar a aplicação completa  
-- [ ] Testar o sistema em ambiente local antes do deploy  
-- [ ] Opcional: Configurar um serviço de hospedagem (ex.: VPS, Railway, Fly.io)  
+- [x] Configurar **Langchain/LangGraph** para consulta eficiente às fontes de dados
+- [~] Ajustar o prompt engineering para respostas mais alinhadas com o contexto católico e citações explícitas
+- [~] Otimizar o **retriever** para busca eficiente e precisa na base de conhecimento unificada
+- [x] Implementar o **pipeline de RAG** com decomposição de query (ex: LangGraph)
+- [ ] Implementar **memory management** para conversas mais naturais
 
 ---
 
-## 🧪 4. Testes e Ajustes  
-### ✅ 4.1. Testes de Qualidade  
-- [ ] Validar a qualidade das respostas da LLM  
-- [ ] Ajustar recuperação de trechos bíblicos e catequéticos para precisão teológica  
-- [ ] Implementar logging para monitoramento de conversas  
+## 🌐 3. Desenvolvimento do Front-end
 
-### 📢 4.2. Testes com Usuários  
-- [ ] Criar um **MVP** para feedback inicial  
-- [ ] Melhorar a interface com base no feedback dos usuários  
-- [ ] Iterar na curadoria das fontes de conhecimento  
+### 💬 3.1. Escolha e Implementação do Chatbot
+
+- [ ] Selecionar uma interface pré-programada de chatbot (ex.: **Botpress**, **React chatbot kit**)
+- [ ] Implementar um front-end minimalista (ex.: React, Next.js ou HTML/CSS puro)
+- [ ] Criar comunicação entre o front-end e o back-end do agente via API REST
+
+### 🚀 3.2. Deploy e Infraestrutura
+
+- [ ] Criar um **Dockerfile** para o agente conversacional
+- [ ] Configurar **docker-compose** para rodar a aplicação completa
+- [ ] Testar o sistema em ambiente local antes do deploy
+- [ ] Opcional: Configurar um serviço de hospedagem (ex.: VPS, Railway, Fly.io)
 
 ---
 
-## 🎯 5. Melhorias Futuras (Versão 2.0)  
-- [ ] Implementar suporte a **voz (TTS e STT)** para acessibilidade  
-- [ ] Criar **resumos** automáticos para explicações mais concisas  
-- [ ] Adicionar **modo devocional** com leituras diárias e orações guiadas  
-- [ ] Explorar modelos **fine-tuned** com conhecimento católico específico  
+## 🧪 4. Testes e Ajustes
+
+### ✅ 4.1. Testes de Qualidade Internos
+
+- [ ] Validar a qualidade das respostas da LLM (acurácia teológica, formatação)
+- [~] Ajustar recuperação de trechos bíblicos e catequéticos para precisão teológica
+- [ ] Implementar logging para monitoramento de conversas e depuração
+- [ ] Desenvolver testes unitários e de integração para os componentes do RAG
+
+### 📢 4.2. Testes com Usuários e Iteração
+
+- [ ] Criar um **MVP** para feedback inicial
+- [ ] Melhorar a interface com base no feedback dos usuários
+- [ ] Iterar na curadoria e expansão das fontes de conhecimento
+
+---
+
+## 🎯 5. Melhorias Futuras (Versão 2.0)
+
+- [ ] Implementar suporte a **voz (TTS e STT)** para acessibilidade
+- [ ] Criar **resumos** automáticos para explicações mais concisas
+- [ ] Adicionar **modo devocional** com leituras diárias e orações guiadas
+- [ ] Explorar modelos **fine-tuned** com conhecimento católico específico
+- [ ] Generalizar o processo de ingestão de novos livros e materiais (PDF, EPUB, TXT, HTML)
 
 ---
 
 💡 **Meta:** Criar um chatbot funcional e útil para responder dúvidas sobre a fé católica, utilizando fontes confiáveis e garantindo respostas precisas.  
-📌 **Tecnologias-chave:** Langchain, Ollama, FAISS/ChromaDB, React/HTML, Docker.  
+📌 **Tecnologias-chave:** Langchain, Ollama, FAISS/ChromaDB, React/HTML, Docker.
 
-🚀 **Próximo Passo:** Implementação do pipeline de RAG e configuração do Ollama.  
+🚀 **Próximo Passo:** Concluir o processamento e indexação das lives do Frei Gilson.
