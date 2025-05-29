@@ -3,7 +3,9 @@
 ## 🏗️ 1. Coleta e Preparação de Dados
 
 ### 📖 1.1. Seleção de Fontes de Conhecimento
-- [x] Obter uma versão livre da Bíblia Católica (Matos Soares ou Ave Maria)
+- [x] Obter uma versão livre da Bíblia Católica
+  - [x] Matos Soares
+  - [x] Bíblia Ave Maria
 - [x] Obter o Catecismo da Igreja Católica em formato estruturado (EPUB, PDF ou TXT)
 - [ ] Buscar documentos adicionais (encíclicas, concílios, escritos dos santos) → **Mover para Fase 5.5**
 
