@@ -25,7 +25,7 @@ A estrutura atual do projeto, com foco nos arquivos essenciais à etapa de pré-
 │       │   └── ...
 ├── src
 │   └── 1. Preprocessing
-│       ├── process_pdf_batches.sh
+│       ├── pdf_to_markdown_convert_in_batches.sh
 │       ├── 1. Preprocessing.ipynb
 │       └── README.md
 └── ...
@@ -46,7 +46,7 @@ A estrutura atual do projeto, com foco nos arquivos essenciais à etapa de pré-
 - **`src`**: Diretório contendo os scripts e notebooks relacionados ao pré-processamento.
 
   - **`1. Preprocessing`**: Subdiretório específico para a etapa de pré-processamento.
-    - **`process_pdf_batches.sh`**: Script Bash para processar o PDF em lotes e convertê-lo para Markdown.
+    - **`pdf_to_markdown_convert_in_batches.sh`**: Script Bash para processar o PDF em lotes e convertê-lo para Markdown.
     - **`1. Preprocessing.ipynb`**: Notebook Jupyter para análises e testes relacionados ao pré-processamento.
     - **`README.md`**: Documento explicativo sobre a etapa de pré-processamento.
 
@@ -91,7 +91,7 @@ sudo apt install poppler-utils
 
 ## Movendo-se para a Pasta Correta no Terminal
 
-Para executar o script `process_pdf_batches.sh`, é necessário navegar até o diretório correto no terminal. Utilize o seguinte comando:
+Para executar o script `pdf_to_markdown_convert_in_batches.sh`, é necessário navegar até o diretório correto no terminal. Utilize o seguinte comando:
 
 ```bash
 cd src/1.\ Preprocessing
@@ -99,24 +99,24 @@ cd src/1.\ Preprocessing
 
 ## Configuração de Permissões
 
-Antes de executar o script `process_pdf_batches.sh`, é necessário garantir que ele tenha permissões de execução. Para isso, utilize o comando `chmod`:
+Antes de executar o script `pdf_to_markdown_convert_in_batches.sh`, é necessário garantir que ele tenha permissões de execução. Para isso, utilize o comando `chmod`:
 
 ```bash
-chmod +x process_pdf_batches.sh
+chmod +x pdf_to_markdown_convert_in_batches.sh
 ```
 
 ### Explicação
 
 - **`chmod +x`**: Adiciona permissão de execução ao arquivo.
-- **`process_pdf_batches.sh`**: Nome do script que será configurado.
+- **`pdf_to_markdown_convert_in_batches.sh`**: Nome do script que será configurado.
 
 Esse passo é essencial para evitar erros de permissão ao tentar executar o script.
 
 ---
 
-## Explicação do Script `process_pdf_batches.sh`
+## Explicação do Script `pdf_to_markdown_convert_in_batches.sh`
 
-O script `process_pdf_batches.sh` processa o PDF em lotes (batches) para evitar estouro de memória. Ele utiliza o `marker_single` (parte do `marker-pdf`) para converter páginas específicas do PDF em arquivos Markdown.
+O script `pdf_to_markdown_convert_in_batches.sh` processa o PDF em lotes (batches) para evitar estouro de memória. Ele utiliza o `marker_single` (parte do `marker-pdf`) para converter páginas específicas do PDF em arquivos Markdown.
 
 ### Parâmetros do Script
 
@@ -135,9 +135,9 @@ O script `process_pdf_batches.sh` processa o PDF em lotes (batches) para evitar 
 
 ---
 
-## Uso do Ollama no Script `process_pdf_batches.sh`
+## Uso do Ollama no Script `pdf_to_markdown_convert_in_batches.sh`
 
-O script `process_pdf_batches.sh` suporta o uso do **Ollama**, um serviço de LLM (Large Language Model) que melhora a qualidade do processamento de PDFs. O Ollama pode ser habilitado ou desabilitado, e o modelo utilizado pode ser configurado diretamente ao chamar o script.
+O script `pdf_to_markdown_convert_in_batches.sh` suporta o uso do **Ollama**, um serviço de LLM (Large Language Model) que melhora a qualidade do processamento de PDFs. O Ollama pode ser habilitado ou desabilitado, e o modelo utilizado pode ser configurado diretamente ao chamar o script.
 
 ### Parâmetros Relacionados ao Ollama
 
@@ -155,19 +155,19 @@ Ao executar o script, você pode passar os valores para `USE_OLLAMA` e `OLLAMA_M
 #### Exemplo 1: Habilitar o Ollama com o modelo padrão
 
 ```bash
-bash process_pdf_batches.sh ../../data/raw/biblia/Bíblia\ Sagrada\ O\ Antigo\ e\ Novo\ Testamento\ -\ 4\ volumes\ -\ Vulgata\ Latina\ por\ Pe.\ Matos\ Soares\ 1927-1950.pdf 100 ../../data/processed/biblia/pdf_to_markdown_using_marker-pdf true
+bash pdf_to_markdown_convert_in_batches.sh ../../data/raw/biblia/Bíblia\ Sagrada\ O\ Antigo\ e\ Novo\ Testamento\ -\ 4\ volumes\ -\ Vulgata\ Latina\ por\ Pe.\ Matos\ Soares\ 1927-1950.pdf 100 ../../data/processed/biblia/pdf_to_markdown_using_marker-pdf true
 ```
 
 #### Exemplo 2: Habilitar o Ollama com um modelo personalizado
 
 ```bash
-bash process_pdf_batches.sh ../../data/raw/biblia/Bíblia\ Sagrada\ O\ Antigo\ e\ Novo\ Testamento\ -\ 4\ volumes\ -\ Vulgata\ Latina\ por\ Pe.\ Matos\ Soares\ 1927-1950.pdf 100 ../../data/processed/biblia/pdf_to_markdown_using_marker-pdf true custom-model-name
+bash pdf_to_markdown_convert_in_batches.sh ../../data/raw/biblia/Bíblia\ Sagrada\ O\ Antigo\ e\ Novo\ Testamento\ -\ 4\ volumes\ -\ Vulgata\ Latina\ por\ Pe.\ Matos\ Soares\ 1927-1950.pdf 100 ../../data/processed/biblia/pdf_to_markdown_using_marker-pdf true custom-model-name
 ```
 
 #### Exemplo 3: Desabilitar o Ollama
 
 ```bash
-bash process_pdf_batches.sh ../../data/raw/biblia/Bíblia\ Sagrada\ O\ Antigo\ e\ Novo\ Testamento\ -\ 4\ volumes\ -\ Vulgata\ Latina\ por\ Pe.\ Matos\ Soares\ 1927-1950.pdf 100 ../../data/processed/biblia/pdf_to_markdown_using_marker-pdf false
+bash pdf_to_markdown_convert_in_batches.sh ../../data/raw/biblia/Bíblia\ Sagrada\ O\ Antigo\ e\ Novo\ Testamento\ -\ 4\ volumes\ -\ Vulgata\ Latina\ por\ Pe.\ Matos\ Soares\ 1927-1950.pdf 100 ../../data/processed/biblia/pdf_to_markdown_using_marker-pdf false
 ```
 
 ### Vantagens do Uso do Ollama
@@ -188,7 +188,7 @@ bash process_pdf_batches.sh ../../data/raw/biblia/Bíblia\ Sagrada\ O\ Antigo\ e
 Para processar o PDF da Bíblia em lotes de 50 páginas, sem utilizar o Ollama, execute o seguinte comando:
 
 ```bash
-bash process_pdf_batches.sh ../../data/raw/biblia/Bíblia\ Sagrada\ O\ Antigo\ e\ Novo\ Testamento\ -\ 4\ volumes\ -\ Vulgata\ Latina\ por\ Pe.\ Matos\ Soares\ 1927-1950.pdf 100 ../../data/processed/biblia/pdf_to_markdown_using_marker-pdf
+bash pdf_to_markdown_convert_in_batches.sh ../../data/raw/biblia/Bíblia\ Sagrada\ O\ Antigo\ e\ Novo\ Testamento\ -\ 4\ volumes\ -\ Vulgata\ Latina\ por\ Pe.\ Matos\ Soares\ 1927-1950.pdf 100 ../../data/processed/biblia/pdf_to_markdown_using_marker-pdf
 ```
 
 ### Explicação
@@ -216,4 +216,4 @@ Após a execução do script, os seguintes arquivos serão gerados no diretório
 
 ## Conclusão
 
-A etapa de pré-processamento é fundamental para transformar o conteúdo da Bíblia em um formato adequado para o agente RAG. Com o uso do `marker-pdf` e do script `process_pdf_batches.sh`, é possível realizar essa conversão de forma eficiente e organizada.
+A etapa de pré-processamento é fundamental para transformar o conteúdo da Bíblia em um formato adequado para o agente RAG. Com o uso do `marker-pdf` e do script `pdf_to_markdown_convert_in_batches.sh`, é possível realizar essa conversão de forma eficiente e organizada.
