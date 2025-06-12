@@ -4,9 +4,10 @@ FROM versiculos
 GROUP BY book
 ORDER BY MIN(id);
 
--- @block Count chapters in each book
+-- @block Count chapters and verses in each book
 SELECT book,
-    COUNT(DISTINCT(chapter)) as chapter_count
+    COUNT(DISTINCT(chapter)) as chapter_count,
+    COUNT(*) as verse_count
 FROM versiculos
 GROUP BY book
 ORDER BY MIN(id);
@@ -16,9 +17,45 @@ SELECT book,
     chapter,
     COUNT(verse) AS verse_count
 FROM versiculos
-GROUP BY book, chapter
+GROUP BY book,
+    chapter
 ORDER BY MIN(id);
 
 -- @block Count total verses in the Bible
 SELECT COUNT(*) AS total_verses
 FROM versiculos;
+
+-- @block Check for duplicate verses (same book, chapter, verse)
+SELECT book,
+    chapter,
+    verse,
+    COUNT(*) as count
+FROM versiculos
+GROUP BY book,
+    chapter,
+    verse
+HAVING count > 1;
+
+-- @block Check for missing verse numbers in each chapter
+SELECT book,
+    chapter,
+    MIN(verse) as first_verse,
+    MAX(verse) as last_verse
+FROM versiculos
+GROUP BY book,
+    chapter;
+
+-- To check for missing verses, you may need to export the verse numbers and compare with a sequence in your analysis tool.
+-- @block Check for NULLs in required fields
+SELECT *
+FROM versiculos
+WHERE book IS NULL
+    OR chapter IS NULL
+    OR verse IS NULL
+    OR text IS NULL;
+
+-- @block Check for negative or zero chapter/verse numbers
+SELECT *
+FROM versiculos
+WHERE chapter <= 0
+    OR verse <= 0;
