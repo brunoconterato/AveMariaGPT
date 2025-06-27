@@ -26,21 +26,13 @@
   - Focar no conteúdo da oração do Santo Rosário
   - Gerar relatório estruturado em Markdown
 - [x] Implementar detecção de versículos bíblicos (`get_bible_passages`)
-- [ ] Melhorar robustez da detecção de versículos:
-  - Lidar com linguagem informal e parafraseada
-  - Evitar falsos positivos e negativos
+- [ ] Melhorar robustez da detecção de versículos: [Ver `src/Rosários Quaresma Frei Gilson 2025/todo.md`](./src/Rosários%20Quaresma%20Frei%20Gilson%202025/todo.md)
 
 ### 🔍 2.2. Pipeline de Processamento das Transcrições
 - [x] Criar lógica de carregamento dos arquivos
 - [~] Implementar loop de processamento em lotes (`for i in tqdm(range(13, 41))`)
   - [x] Leitura dos arquivos
   - [x] Teste para um arquivo
-  - [ ] Remover `assert False` que bloqueia o loop
-  - [ ] Ativar salvamento automático dos resultados (Markdown ou JSON)
-- [ ] Implementar tratamento para:
-  - Arquivos vazios
-  - Arquivos não encontrados
-  - Logs claros de processamento
 
 ### 💾 2.3. Armazenamento e Indexação
 - [ ] Armazenar resumos e metadados extraídos das lives:
