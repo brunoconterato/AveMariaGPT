@@ -3,6 +3,7 @@
 ## 🏗️ 1. Coleta e Preparação de Dados
 
 ### 📖 1.1. Seleção de Fontes de Conhecimento
+
 - [x] Obter uma versão livre da Bíblia Católica
   - [x] Matos Soares
   - [x] Bíblia Ave Maria
@@ -10,6 +11,7 @@
 - [ ] Buscar documentos adicionais (encíclicas, concílios, escritos dos santos) → **Mover para Fase 5.5**
 
 ### 📂 1.2. Processamento e Estruturação dos Dados
+
 - [x] Conversão dos PDFs para Markdown
 - [x] Quebra dos textos em chunks com cabeçalhos e metadados
 - [x] Criação da Vector Store temporária (InMemoryVectorStore)
@@ -20,6 +22,7 @@
 ## 💡 2. Processamento das Lives do Frei Gilson (Quaresma 2025) → **Prioridade Atual**
 
 ### 🔧 2.1. Preparação e Refinamento dos Dados das Lives
+
 - [x] Definir e validar prompts para sumarização e extração dos ensinamentos
 - [x] Refinar prompt para:
   - Ignorar a parte da reflexão
@@ -29,18 +32,21 @@
 - [ ] Melhorar robustez da detecção de versículos: [Ver `src/Rosários Quaresma Frei Gilson 2025/todo.md`](./src/Rosários%20Quaresma%20Frei%20Gilson%202025/todo.md)
 
 ### 🔍 2.2. Pipeline de Processamento das Transcrições
+
 - [x] Criar lógica de carregamento dos arquivos
 - [~] Implementar loop de processamento em lotes (`for i in tqdm(range(13, 41))`)
   - [x] Leitura dos arquivos
   - [x] Teste para um arquivo
 
 ### 💾 2.3. Armazenamento e Indexação
+
 - [ ] Armazenar resumos e metadados extraídos das lives:
   - Arquivos Markdown estruturados
   - E/ou banco (ChromaDB ou SQLite) junto com Bíblia e Catecismo
 - [ ] Indexar versículos, temáticas e ensinamentos das lives no vector store principal
 
 ### 🧪 2.4. Testes e Validação Específicos das Lives
+
 - [x] Testar diferentes modelos (Llama3, Mistral, Qwen, Gemma)
 - [x] Validar qualidade dos modelos na detecção de versículos
 - [ ] Validar se o split correto entre oração e reflexão funciona
@@ -52,10 +58,12 @@
 ## 🤖 3. Construção e Refinamento do Agente Conversacional
 
 ### 🧠 3.1. Configuração de Modelos e Embeddings
+
 - [x] Instalar e configurar Ollama (LLMs + embeddings locais)
 - [x] Testar modelos open-source (Gemma, Mistral, Llama 3)
 
 ### 🔍 3.2. Implementação do Pipeline RAG
+
 - [x] Implementar pipeline RAG básico (LangChain + LangGraph)
 - [ ] Otimizar o retriever com:
   - MultiQueryRetriever
@@ -69,11 +77,13 @@
 ## 🌐 4. Desenvolvimento do Front-end e API
 
 ### 💬 4.1. Interface de Chat
+
 - [ ] Escolher stack de front-end (React + Tailwind, Next.js ou HTML/CSS)
 - [ ] Implementar UI minimalista do chatbot
 - [ ] Criar API REST (Flask ou FastAPI) para comunicação com backend
 
 ### 🚀 4.2. Deploy e Infraestrutura
+
 - [ ] Criar Dockerfile do backend (API + RAG)
 - [ ] Criar docker-compose.yml para orquestração (backend + frontend)
 - [ ] Testar aplicação localmente (frontend + backend)
@@ -84,6 +94,7 @@
 ## 🧪 5. Testes e Validação Geral
 
 ### 🔍 5.1. Testes Técnicos
+
 - [ ] Implementar testes unitários e de integração para:
   - Pipelines de RAG
   - Recuperação de documentos
@@ -91,6 +102,7 @@
 - [ ] Implementar logging robusto para monitoramento e depuração
 
 ### 👥 5.2. Testes com Usuários
+
 - [ ] Criar MVP funcional para feedback
 - [ ] Coletar feedback dos usuários
 - [ ] Iterar e ajustar com base no feedback
@@ -108,7 +120,9 @@
 ---
 
 ## 🚩 Próximo Passo Imediato:
-➡️ **Finalizar a Fase 2 (Processamento das Lives do Frei Gilson)**:  
-- Refinar detecção de versículos  
-- Ativar pipeline completo em lotes  
+
+➡️ **Finalizar a Fase 2 (Processamento das Lives do Frei Gilson)**:
+
+- Refinar detecção de versículos
+- Ativar pipeline completo em lotes
 - Iniciar armazenamento e indexação no vector store principal
