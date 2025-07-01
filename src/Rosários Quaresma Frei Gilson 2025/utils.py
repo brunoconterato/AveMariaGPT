@@ -140,3 +140,8 @@ ORDERED_BOOKS = [
     BookEnum.ZACARIAS,
     BookEnum.MALAQUIAS,
 ]
+
+
+class BinaryResponse(Enum):
+    YES = "Sim."
+    NO = "Não."
