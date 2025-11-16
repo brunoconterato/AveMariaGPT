@@ -13,6 +13,7 @@ Este arquivo detalha as tarefas para o pré-processamento e análise das transcr
 - [x] Criar função utilitária para limpar texto (`remove_starting_tabs`).
 - [x] Desenvolver um prompt de sistema detalhado para guiar o LLM na tarefa de sumarização e extração de informações do Santo Rosário.
 - [x] Refinar o prompt do sistema para ser mais robusto e funcionar melhor com LLMs menores, utilizando uma estrutura clara e instruções diretas.
+  - [ ] Solicitar que a LLM traga todas as citações relevantes, de outras pessoas ou por meio de suas obras, que são relevantes às temáticas específicas do dia.
 
 ## 3. Detecção de Versículos Bíblicos (RAG)
 
