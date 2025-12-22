@@ -132,7 +132,7 @@ markdown2==2.5.3
 markdownify==0.13.1
 marker-pdf==1.6.2
 MarkupSafe==3.0.2
-marshmallow==3.26.1
+marshmallow==3.26.2
 matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1733416936468/work
 mdurl==0.1.2
 mermaid-py==0.7.1
