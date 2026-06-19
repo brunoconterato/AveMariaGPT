@@ -122,7 +122,7 @@ langgraph==0.3.25
 langgraph-checkpoint==2.0.24
 langgraph-prebuilt==0.1.8
 langgraph-sdk==0.1.61
-langsmith==0.3.24
+langsmith==0.8.18
 lark==1.2.2
 llguidance==0.7.13
 llvmlite==0.44.0
