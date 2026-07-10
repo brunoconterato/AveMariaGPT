@@ -25,6 +25,40 @@ ORDER BY MIN(id);
 SELECT COUNT(*) AS total_verses
 FROM versiculos;
 
+-- @block Count average characters per
+SELECT book, chapter, AVG(LENGTH(text))
+FROM versiculos
+GROUP BY book, chapter
+
+-- @block Count average characters per
+SELECT AVG(LENGTH(text))
+FROM versiculos
+
+-- @block Percentiles of verse text length
+WITH lengths AS (
+    SELECT LENGTH(TRIM(text)) AS len
+    FROM versiculos
+    WHERE text IS NOT NULL
+),
+r AS (
+    SELECT
+        len,
+        ROW_NUMBER() OVER (ORDER BY len) AS rn,
+        COUNT(*) OVER () AS cnt
+    FROM lengths
+)
+SELECT
+    MIN(CASE WHEN rn = CAST(0.0 * (cnt - 1) + 1 AS INT) THEN len END) AS p0,
+    MIN(CASE WHEN rn = CAST(0.1 * (cnt - 1) + 1 AS INT) THEN len END) AS p10,
+    MIN(CASE WHEN rn = CAST(0.25 * (cnt - 1) + 1 AS INT) THEN len END) AS p25,
+    MIN(CASE WHEN rn = CAST(0.5 * (cnt - 1) + 1 AS INT) THEN len END) AS p50,
+    MIN(CASE WHEN rn = CAST(0.75 * (cnt - 1) + 1 AS INT) THEN len END) AS p75,
+    MIN(CASE WHEN rn = CAST(0.9 * (cnt - 1) + 1 AS INT) THEN len END) AS p90,
+    MIN(CASE WHEN rn = CAST(0.95 * (cnt - 1) + 1 AS INT) THEN len END) AS p95,
+    MIN(CASE WHEN rn = CAST(0.99 * (cnt - 1) + 1 AS INT) THEN len END) AS p99,
+    MIN(CASE WHEN rn = CAST(1.0 * (cnt - 1) + 1 AS INT) THEN len END) AS p100
+FROM r;
+
 -- @block Check for duplicate verses (same book, chapter, verse)
 SELECT book,
     chapter,

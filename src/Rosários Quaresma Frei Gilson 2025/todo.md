@@ -32,6 +32,10 @@ Este arquivo detalha as tarefas para o pré-processamento e análise das transcr
   - [x] Testar: `get_bible_passages` enviando os versículos de contexto
   - [x] Testar: `get_bible_passages` enviando os capítulos inteiros de contexto
   - [ ] Testar: `get_bible_passages` obtendo os versículos apenas a partir da anunciação, sem nenhum contexto (apenas com a query)
+- [ ] [2026] Tornar o processo de procurar trechos da bíblia mais agêntico:
+  - [ ] Agente: identificar trechos candidatos a serem versículos bíblicos. Trechos candidatos geralmente são antes anunciados por expressões como "leitura da bíblia", "leitura do evangelho", "leitura do livro de", "leitura do capítulo", "leitura do versículo", etc, etc, etc.
+  - [ ] Fazer RAG para cada trecho candidato, trazendo os versículos mais similares da bíblia
+  - [ ] Agente: identificar se o trecho candidato é realmente um versículo bíblico, com base nos versículos mais similares encontrados
 
 ## 4. Pipeline de Processamento em Lote
 
