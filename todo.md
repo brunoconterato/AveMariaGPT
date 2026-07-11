@@ -28,8 +28,13 @@
   - Ignorar a parte da reflexão
   - Focar no conteúdo da oração do Santo Rosário
   - Gerar relatório estruturado em Markdown
-- [x] Implementar detecção de versículos bíblicos (`get_bible_passages`)
-- [ ] Melhorar robustez da detecção de versículos: [Ver `src/Rosários Quaresma Frei Gilson 2025/todo.md`](./src/Rosários%20Quaresma%20Frei%20Gilson%202025/todo.md)
+- [ ] [P0] Reconstruir e certificar a base bíblica e o índice Chroma: corrigir referências corrompidas/duplicadas, criar IDs canônicos, separar `id`/`line_number`, versionar base/embedding/índice e validar a correspondência SQLite–Chroma.
+- [ ] [P0] Definir o contrato de extração e o gold set: o LLM só seleciona candidatos oferecidos, a aplicação materializa a referência pela base, e `NONE`/`NEEDS_REVIEW` são respostas válidas.
+- [ ] [P1] Implementar catálogo de aliases e parser determinístico para livros, capítulos, versículos, intervalos e continuações; segmentar ocorrências com offsets/timestamps, marcadores, janela adaptativa e separação oração/reflexão.
+- [ ] [P1] Resolver referências explicitamente anunciadas diretamente na base e encaminhar endereços ambíguos ou inexistentes para revisão.
+- [ ] [P2] Substituir geração livre de coordenadas e tool choice autônoma por seleção estruturada de 3–5 candidatos, validação de allow-list/existência/consecutividade e consolidação de intervalos por ocorrência.
+- [ ] [P3] Implementar detecção de citações sem endereço e comparar BM25, embeddings multilíngues/BGE-M3, busca híbrida, reranking e abstinência calibrada.
+- [ ] [P4] Avaliar Gemma quantizado, GPT 5.* e Gemini 3.*, implementar revisão humana/provenance e executar ablações e regressões sem permitir violação das invariantes de integridade.
 
 ### 🔍 2.2. Pipeline de Processamento das Transcrições
 
@@ -47,11 +52,11 @@
 
 ### 🧪 2.4. Testes e Validação Específicos das Lives
 
-- [x] Testar diferentes modelos (Llama3, Mistral, Qwen, Gemma)
-- [x] Validar qualidade dos modelos na detecção de versículos
-- [ ] Validar se o split correto entre oração e reflexão funciona
-- [ ] Testar pipeline completo em lotes
-- [ ] Validar se todos os versículos e ensinamentos são corretamente extraídos
+- [ ] [P4] Avaliar Gemma quantizado, GPT 5.* e Gemini 3.* com métricas comparáveis de qualidade, estabilidade, latência, memória e abstinência.
+- [ ] Validar o gold set com métricas de ocorrência (precision, recall, F1, IoU), recuperação (Recall@k, MRR/nDCG) e ligação por versículo.
+- [ ] Testar integridade: zero referência inexistente, intervalo invertido, ID técnico tratado como versículo ou divergência entre base e índice.
+- [ ] Validar o split entre oração/reflexão, a deduplicação técnica, a preservação de repetições reais e a ordem temporal/provenance.
+- [ ] Testar o pipeline completo em lotes e executar a suíte de regressão após mudanças de base, parser, embedding, reranker ou modelo.
 
 ---
 
@@ -123,6 +128,6 @@
 
 ➡️ **Finalizar a Fase 2 (Processamento das Lives do Frei Gilson)**:
 
-- Refinar detecção de versículos
+- Executar a reconstrução P0 e implementar os caminhos P1–P4 da extração confiável de referências
 - Ativar pipeline completo em lotes
 - Iniciar armazenamento e indexação no vector store principal
