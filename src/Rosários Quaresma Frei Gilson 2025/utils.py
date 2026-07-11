@@ -1,4 +1,20 @@
 from enum import Enum  # Add import for Enum
+import re
+
+
+def clean_tags(text: str) -> str:
+    """Remove bracketed and parenthesized tags from ``text``.
+
+    Both the delimiters and their contents are removed.  For example,
+    ``"Olá [Música] mundo (aplausos)!"`` becomes ``"Olá  mundo !"``.
+
+    Args:
+        text: Text containing tags such as ``[anything]`` or ``(anything)``.
+
+    Returns:
+        The text with bracketed and parenthesized segments removed.
+    """
+    return re.sub(r"\[[^\]]*\]|\([^)]*\)", "", text)
 
 
 class BookEnum(Enum):
