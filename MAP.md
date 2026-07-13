@@ -19,6 +19,7 @@ Mapa rápido do repositório AveMariaGPT, organizado por finalidade e pelos arqu
 - `roadmap.md`: planejamento de evolução do projeto.
 - `TODO.md`: pendências gerais.
 - `conda_env.yaml` e `requirements.txt`: dependências do ambiente.
+- `Biblia.session.sql`: sessão/exportação SQL auxiliar.
 - `all.txt` e `all_code.py`: arquivos auxiliares agregados.
 
 ## `data/raw`
@@ -89,6 +90,10 @@ Mapa rápido do repositório AveMariaGPT, organizado por finalidade e pelos arqu
 - `biblia_vectorstore/`: dados persistidos do ChromaDB.
 - `biblia_vectorstore_bkp/`: cópia de segurança do vector store.
 
+### `src/Bíblia VectorStore`
+
+- Diretório legado que ainda contém uma cópia do banco `biblia.db`; o fluxo de desenvolvimento atual está em `src/bible_vectorstore`.
+
 ## `src/rosarios_quaresma_frei_gilson`
 
 - `01_preprocessing.ipynb`: notebook de desenvolvimento para limpar transcrições, identificar referências bíblicas e gerar análises estruturadas.
@@ -116,4 +121,3 @@ Mapa rápido do repositório AveMariaGPT, organizado por finalidade e pelos arqu
 - As saídas processadas dos rosários são análises em Markdown; as transcrições brutas permanecem em `data/raw`.
 - O vector store e o banco SQLite são artefatos gerados, não código-fonte.
 - Os notebooks de `src/rosarios_quaresma_frei_gilson` ainda representam um pipeline em desenvolvimento, conforme as pesquisas e listas de tarefas do diretório.
-
