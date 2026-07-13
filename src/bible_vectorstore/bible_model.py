@@ -4,6 +4,24 @@ from enum import Enum
 from pydantic import BaseModel, Field, ValidationInfo, field_validator
 
 
+class Verse:
+    """
+    Class to represent a verse.
+    """
+
+    def __init__(
+        self, book: str, chapter: int, verse: int, text: str, line_number: int = None
+    ):
+        self.book = book
+        self.chapter = chapter
+        self.verse = verse
+        self.text = text
+        self.line_number = line_number
+
+    def __repr__(self):
+        return f"{self.book} {self.chapter}:{self.verse} {self.text}"
+
+
 class BookEnum(Enum):
     """_summary_
 
