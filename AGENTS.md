@@ -26,6 +26,12 @@ source /home/bruno/anaconda3/etc/profile.d/conda.sh && conda activate mariagpt
 - Toda documentação criada ou atualizada em `docs/` deve iniciar pela seção `# Visão geral`, antes de detalhes técnicos, instruções ou referências.
 - Cada script deve ser documentado em `docs/` com um arquivo Markdown de mesmo nome, alterando apenas a extensão para `.md`.
 
+## Mapa do repositório
+
+- `MAPS.md` é o mapa oficial do repositório e deve mostrar a organização das pastas e onde estão os arquivos relevantes.
+- Sempre que arquivos forem criados, removidos, movidos ou tiverem sua finalidade alterada, atualize o `MAPS.md` na mesma tarefa.
+- Mantenha o mapa conciso: registre pastas, arquivos de referência e artefatos importantes, sem listar arquivos gerados em massa individualmente.
+
 ## Commits
 
 - Faça commits somente quando o usuário solicitar explicitamente.
