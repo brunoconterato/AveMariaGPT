@@ -1,109 +1,119 @@
 # MAP
 
-Mapa rápido do teor das pastas do repositório, com base nos arquivos presentes e nos notebooks/scripts que os processam.
+Mapa rápido do repositório AveMariaGPT, organizado por finalidade e pelos arquivos atualmente presentes.
 
-## Visão Geral
+## Visão geral
 
-- `data/raw`: fontes originais e transcrições brutas.
-- `data/processed`: saídas já tratadas, convertidas ou sumarizadas.
-- `src`: notebooks, scripts e utilitários que fazem o pré-processamento e a ingestão.
+- `data/raw`: fontes originais usadas como base de conhecimento.
+- `data/processed`: textos extraídos, normalizados e estruturados para uso posterior.
+- `src/01_preprocessing`: conversão de PDFs e ingestão genérica para RAG.
+- `src/bible_vectorstore`: estruturação dos versículos e criação do vector store da Bíblia.
+- `src/rosarios_quaresma_frei_gilson`: processamento e investigação das transcrições dos rosários.
+- `docs`: documentação de notebooks e fluxos específicos.
+- `script`: espaço reservado para scripts auxiliares; atualmente não contém arquivos rastreados.
+
+## Arquivos de referência na raiz
+
+- `README.md`: visão geral do projeto, arquitetura RAG, tecnologias e roadmap.
+- `features.md`: funcionalidades, status e relação entre os pipelines.
+- `roadmap.md`: planejamento de evolução do projeto.
+- `TODO.md`: pendências gerais.
+- `conda_env.yaml` e `requirements.txt`: dependências do ambiente.
+- `all.txt` e `all_code.py`: arquivos auxiliares agregados.
 
 ## `data/raw`
 
 ### `data/raw/biblia`
 
-- Contém a Bíblia em diferentes formatos de origem.
-- `Ave Maria`: PDF e TXT da Bíblia Católica Ave-Maria.
-- `Full text of _Bíblia Sagrada O Antigo E Novo Testamento 4 Volumes Vulgata Latina Por Pe. Matos Soares 1927-1950__files`: arquivos auxiliares de uma captura HTML/Internet Archive do texto da Bíblia de Pe. Matos Soares.
+- `Ave Maria/`: PDF e texto extraído da Bíblia Ave-Maria.
+- Bíblia de Pe. Matos Soares: PDF, EPUB e captura HTML acompanhada de arquivos auxiliares.
 
 ### `data/raw/catecismo`
 
-- PDF(s) do Catecismo da Igreja Católica.
-- Material-base para consultas teológicas e RAG.
+- PDFs do Catecismo da Igreja Católica, incluindo versões duplicadas da fonte.
 
 ### `data/raw/missal`
 
 - PDFs do Missal Romano e da Instrução Geral do Missal Romano.
-- Conteúdo litúrgico e normativo da missa.
 
 ### `data/raw/batismo`
 
-- PDF `Baptismo.pdf`.
-- Conteúdo sacramental sobre o Batismo.
+- `Baptismo.pdf`, com conteúdo sacramental sobre o Batismo.
 
 ### `data/raw/Notas do Vaticano`
 
-- Documento do Vaticano sobre títulos marianos e cooperação de Maria.
-- Arquivo focado em mariologia e doutrina.
+- Documento `Mater Populi fidelis`, sobre títulos marianos e a cooperação de Maria.
 
 ### `data/raw/Santo Rosário | Quaresma 2025`
 
-- Transcrições e fontes variadas das lives do Frei Gilson durante a Quaresma de 2025.
-- Subpastas:
-  - `Youtube to Text`: transcrições do YouTube em texto puro, organizadas por dia da quaresma.
-  - `Youtube Transcript`: outra fonte de transcrição do YouTube, possivelmente em formato original/alternativo.
-  - `Tactiq`: transcrições exportadas do Tactiq.
-  - `NoteGPT`: uma transcrição/resumo alternativo para ao menos um dia.
-- O foco é a análise do Santo Rosário das lives de Quaresma, com conteúdo de oração, reflexão e eventuais músicas/intenções.
+- Transcrições brutas das lives do Frei Gilson durante a Quaresma de 2025.
+- `Youtube to Text/`: transcrições principais em `.txt`, incluindo os 40 dias e o show de Páscoa.
+- `Youtube Transcript/`: fonte alternativa de transcrição.
+- `Tactiq/`: transcrições exportadas do Tactiq.
+- `NoteGPT/`: transcrição alternativa do 29º dia.
 
 ### `data/raw/Santo Rosário | Sextas feiras normais`
 
-- Transcrição de lives do Santo Rosário em sextas-feiras comuns, fora da Quaresma.
-- Subpasta `YouTube To Text` contém a transcrição bruta em `.txt`.
+- Transcrição de uma live de sexta-feira fora da Quaresma, em `YouTube To Text/`.
 
 ## `data/processed`
 
 ### `data/processed/biblia`
 
-- Saídas já processadas da Bíblia para formatos úteis ao RAG.
-- `Ave Maria`: texto limpo/extraído da Bíblia Ave-Maria.
-- `pdf_to_markdown_using_marker-pdf`: versão em Markdown da Bíblia de Pe. Matos Soares gerada por conversão automatizada.
+- `Ave Maria/Portugues-Catolica-AVM-All-Bible.txt`: texto extraído da Bíblia Ave-Maria.
+- `Ave Maria/Portugues-Catolica-AVM-All-Bible-verses.csv`: versículos estruturados com metadados de parsing e revisão.
+- `pdf_to_markdown_using_marker-pdf/`: Bíblia de Pe. Matos Soares convertida para Markdown, com `process_log.txt`.
+- `bible-from-pdf-using-pdf-to-text.txt`: saída adicional de extração de texto.
 
 ### `data/processed/catecismo`
 
-- Versões processadas do Catecismo em Markdown.
-- `pdf_to_markdown_using_marker`: saídas geradas a partir do PDF, com variantes como `WithoutLLM` e `WithLLM`.
+- `pdf_to_markdown_using_marker/`: Catecismo convertido para Markdown nas variantes `WithLLM` e `WithoutLLM`, além do log de processamento.
 
 ### `data/processed/Santo Rosário | Quaresma 2025`
 
-- Saídas processadas das transcrições das lives da Quaresma de 2025.
-- `Youtube to Text`: arquivos `.md` com resumo/análise produzidos por LLM a partir das transcrições brutas.
-- O arquivo processado tenta organizar:
-  - temática principal
-  - temáticas secundárias
-  - versículos bíblicos citados
-  - músicas
-  - eventos/intenções mencionadas
+- `Youtube to Text/`: análises em Markdown das transcrições processadas.
+- Os documentos organizam tema central, subtemas, referências bíblicas, músicas e eventos/intenções mencionados.
 
-## `src`
+## `src/01_preprocessing`
 
-### `src/1. Preprocessing`
+- `pdf_to_markdown_convert_in_batches.sh`: converte PDFs grandes para Markdown em lotes usando `marker_single`.
+- `2. Data Ingestion for RAG.ipynb`: divide Markdown em chunks, configura embeddings/LLM via Ollama, cria uma vector store unificada em memória e demonstra o pipeline RAG.
+- `README.md`: documentação do fluxo de pré-processamento.
 
-- Etapa de pré-processamento da Bíblia e ingestão para RAG.
-- `pdf_to_markdown_convert_in_batches.sh`: script de conversão de PDF para Markdown em lotes.
-- `2. Data Ingestion for RAG.ipynb`: notebook para dividir/ingerir Markdown em vector store.
-- `README.md`: documentação do fluxo de pré-processamento da Bíblia.
+## `src/bible_vectorstore`
 
-### `src/Bíblia VectorStore`
+- `01_structure_bible_verses.ipynb`: estrutura o texto da Bíblia Ave-Maria em versículos e exporta os dados processados.
+- `02_vector_database.ipynb`: cria o vector store persistente e o banco SQLite a partir dos versículos.
+- `bible_model.py`: modelos e enumerações para versículos, livros bíblicos e trechos identificados por LLM.
+- `biblia.db`: banco SQLite persistido com os versículos e metadados.
+- `biblia_vectorstore/`: dados persistidos do ChromaDB.
+- `biblia_vectorstore_bkp/`: cópia de segurança do vector store.
 
-- Construção da base vetorial da Bíblia.
-- `1. Format.ipynb`: normalização do texto bíblico e montagem de documentos/versículos.
-- `2. Vector database.ipynb`: criação da ChromaDB e do banco SQLite com os versículos.
+## `src/rosarios_quaresma_frei_gilson`
 
-### `src/Rosários Quaresma Frei Gilson 2025`
+- `01_preprocessing.ipynb`: notebook de desenvolvimento para limpar transcrições, identificar referências bíblicas e gerar análises estruturadas.
+- `utils.py`: enums e utilitários do pipeline, incluindo livros bíblicos e respostas binárias.
+- `README.md`: objetivo, metodologia e estrutura esperada das compilações.
+- `todo.md`: pendências gerais do pipeline.
+- `research-extracao-referencias-biblicas.md`: investigação sobre extração de referências bíblicas.
+- `todo-extracao-confiavel-referencias-biblicas.md`: tarefas para tornar a extração confiável.
+- `research-artifact-saida-defeituosa.md`: registro de problema em uma saída gerada.
 
-- Pipeline de análise das transcrições das lives do Frei Gilson na Quaresma de 2025.
-- `1. Preprocessing.ipynb`: notebook principal que:
-  - limpa texto
-  - detecta possíveis passagens bíblicas
-  - envia a transcrição para LLM
-  - estrutura a resposta em Markdown
-- `utils.py`: enums e utilitários usados no pipeline, incluindo livros bíblicos e respostas binárias.
-- `README.md`: visão geral do objetivo da compilação dos ensinamentos do Frei Gilson.
-- `todo.md`: checklist de evolução do pipeline e pendências.
+## `docs`
+
+- `docs/bible_vectorstore/01_structure_bible_verses.md`: documentação do notebook de estruturação dos versículos.
+
+## Fluxo resumido
+
+1. Fontes em `data/raw` são extraídas e convertidas pelos scripts ou notebooks de `src/01_preprocessing`.
+2. A Bíblia Ave-Maria passa pelo notebook de estruturação e gera o CSV de versículos em `data/processed/biblia/Ave Maria`.
+3. O notebook `02_vector_database.ipynb` usa esses versículos para criar o SQLite e o ChromaDB em `src/bible_vectorstore`.
+4. A ingestão genérica usa a Bíblia de Pe. Matos Soares e o Catecismo em Markdown para montar uma vector store unificada e demonstrar o RAG.
+5. O pipeline de rosários processa as transcrições de Quaresma e produz análises em `data/processed/Santo Rosário | Quaresma 2025`.
 
 ## Observações
 
-- A pasta `data/processed/Santo Rosário | Quaresma 2025/Youtube to Text` não contém transcrições brutas, mas sim análises/sínteses geradas a partir delas.
-- Em `src/Rosários Quaresma Frei Gilson 2025/1. Preprocessing.ipynb`, o salvamento automático do Markdown está comentado no trecho atual do notebook.
-- Os nomes das pastas seguem a origem do conteúdo, então várias classificações acima são inferências confirmadas pelos arquivos internos e pelos notebooks de processamento.
+- As saídas processadas dos rosários são análises em Markdown; as transcrições brutas permanecem em `data/raw`.
+- O vector store e o banco SQLite são artefatos gerados, não código-fonte.
+- Os notebooks de `src/rosarios_quaresma_frei_gilson` ainda representam um pipeline em desenvolvimento, conforme as pesquisas e listas de tarefas do diretório.
+
