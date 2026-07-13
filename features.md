@@ -27,7 +27,7 @@ Esta seção lida com a ingestão e formatação de uma versão específica da B
 - **Criação de Vector Store para a Bíblia (Ave Maria)**
 
   - **Status:** Completa.
-  - **Descrição:** Converte os versículos estruturados da Bíblia em documentos (`langchain.schema.Document`), gera embeddings usando `HuggingFaceEmbeddings` (`sentence-transformers/all-MiniLM-L6-v2`) e os armazena em uma base vetorial `ChromaDB`.
+  - **Descrição:** Converte os versículos estruturados da Bíblia em documentos (`langchain_core.documents.Document`), gera embeddings usando `HuggingFaceEmbeddings` (`sentence-transformers/all-MiniLM-L6-v2`) e os armazena em uma base vetorial `ChromaDB`.
   - **Arquivos:** `src/Bíblia VectorStore/2. Vector database.ipynb` (células `a111732f`, `92a78804`)
 
 - **Criação de Banco de Dados Relacional para a Bíblia (Ave Maria)**
