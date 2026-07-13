@@ -1,7 +1,7 @@
 from typing import List
 from enum import Enum
 
-from pydantic import BaseModel, Field, field_validator
+from pydantic import BaseModel, Field, ValidationInfo, field_validator
 
 
 class BookEnum(Enum):
@@ -194,7 +194,7 @@ class BibleExcerpt(BaseModel):
 
     @field_validator("verse_end", mode="before")
     @classmethod
-    def set_verse_end(cls, v, values):
+    def set_verse_end(cls, v, info: ValidationInfo):
         if v is None:
             return info.data.get("verse_start")
         return v
