@@ -28,6 +28,7 @@ source /home/bruno/anaconda3/etc/profile.d/conda.sh && conda activate mariagpt
 
 ## Commits
 
+- Faça commits somente quando o usuário solicitar explicitamente.
 - Comite apenas modificações dentro do escopo da tarefa atual.
 - Quando houver mais de um subescopo independente, divida as alterações em commits menores.
 - Não faça push sem solicitação explícita do usuário.

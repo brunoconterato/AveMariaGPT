@@ -14,7 +14,7 @@ source /home/bruno/anaconda3/etc/profile.d/conda.sh && conda activate mariagpt
 
 No notebook, `PROCESSAR_PDF` controla a extração do PDF e `PROCESSAR_TXT` controla a estruturação do TXT. Com `PROCESSAR_PDF=False` e `PROCESSAR_TXT=True`, o fluxo reutiliza o texto bruto existente, remove as três primeiras linhas para criar um arquivo temporário e chama `transformar_biblia_versiculo_a_versiculo`.
 
-A função retorna o `DataFrame` `df_verse`. Apesar de receber `caminho_saida`, ela ainda não serializa o DataFrame nesse caminho; a persistência é uma etapa futura.
+A função retorna o `DataFrame` `df_verse` e o serializa em CSV em `data/processed/biblia/Ave Maria/Portugues-Catolica-AVM-All-Bible-verses.csv`. Esse arquivo é a entrada do notebook `2. Vector database.ipynb`.
 
 ## Estrutura do DataFrame
 
