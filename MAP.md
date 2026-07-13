@@ -31,13 +31,13 @@ Mapa rápido para localizar código, dados, documentação e artefatos do reposi
 │   │   ├── pdf_to_markdown_convert_in_batches.sh  Script de conversão
 │   │   ├── 2. Data Ingestion for RAG.ipynb         Pipeline genérico de RAG
 │   │   └── README.md                  Documentação do fluxo
-│   ├── bible_vectorstore/            Pipeline da Bíblia e banco vetorial
+│   ├── bible_vectorstore/            Pipeline atual da Bíblia e banco vetorial
 │   │   ├── 01_structure_bible_verses.ipynb  Estrutura o texto em versículos
-│   │   ├── 02_vector_database.ipynb         Cria SQLite e ChromaDB
+│   │   ├── 02_vector_database.ipynb         Cria SQLite e ChromaDB neste diretório
 │   │   ├── bible_model.py              Modelos e enums bíblicos
 │   │   ├── biblia.db                   Banco SQLite gerado
 │   │   └── biblia_vectorstore*/        Vector store e backup gerados
-│   ├── Bíblia VectorStore/            Diretório legado com biblia.db
+│   ├── Bíblia VectorStore/            Legado preservado; não recriar nem usar para saídas
 │   └── rosarios_quaresma_frei_gilson/ Pipeline das transcrições dos rosários
 │       ├── 01_preprocessing.ipynb     Limpeza, referências e análises
 │       ├── utils.py                    Utilitários e enums
@@ -51,7 +51,8 @@ Mapa rápido para localizar código, dados, documentação e artefatos do reposi
 
 ## Fluxos principais
 
-- **Bíblia:** `data/raw/biblia` → `01_structure_bible_verses.ipynb` → `data/processed/biblia` → `02_vector_database.ipynb` → `src/bible_vectorstore`.
+- **Bíblia:** `data/raw/biblia` → `src/bible_vectorstore/01_structure_bible_verses.ipynb` → `data/processed/biblia` → `src/bible_vectorstore/02_vector_database.ipynb` → artefatos em `src/bible_vectorstore`.
+- **Legado:** `src/Bíblia VectorStore/biblia.db` é um artefato histórico e não faz parte do fluxo de reconstrução.
 - **RAG genérico:** fontes em `data/processed` → `src/01_preprocessing/2. Data Ingestion for RAG.ipynb`.
 - **Rosários:** transcrições em `data/raw/Santo Rosário*` → `src/rosarios_quaresma_frei_gilson` → `data/processed/Santo Rosário | Quaresma 2025`.
 

@@ -13,13 +13,13 @@ Esta fase estabeleceu as bases do projeto, incluindo a extração e estruturaç�
 - **0.2. Pré-processamento e Estruturação da Bíblia (Ave Maria)**
   - **Descrição:** Extração, limpeza e formatação da Bíblia Ave Maria em versículos individualizados.
   - **Status:** ✅ Concluído
-  - **Arquivos Relevantes:** `src/Bíblia VectorStore/1. Format.ipynb`
+  - **Arquivos Relevantes:** `src/bible_vectorstore/01_structure_bible_verses.ipynb`
   - **Estimativa:** 0 horas (já feito)
 
 - **0.3. Criação de Vector Store e DB Relacional da Bíblia (Ave Maria)**
   - **Descrição:** Indexação dos versículos da Bíblia Ave Maria em uma `ChromaDB` e armazenamento em um banco de dados SQLite para consulta detalhada.
   - **Status:** ✅ Concluído
-  - **Arquivos Relevantes:** `src/Bíblia VectorStore/2. Vector database.ipynb`
+  - **Arquivos Relevantes:** `src/bible_vectorstore/02_vector_database.ipynb`
   - **Estimativa:** 0 horas (já feito)
 
 - **0.4. Conversão de PDF para Markdown (Bíblia Matos Soares & Catecismo)**
@@ -54,8 +54,8 @@ Esta fase foca em concluir a extração de conhecimento das transcrições das l
 
 - **1.1. Extração Confiável de Referências Bíblicas em Transcrições**
   - **Descrição:** Executar a implementação em ordem de prioridade P0–P4: (P0) auditar/reconstruir a base bíblica, criar IDs canônicos, certificar SQLite–Chroma, definir o contrato de seleção e o gold set; (P1) implementar aliases, parser determinístico, ocorrências com offsets/timestamps, separação oração/reflexão e resolução direta de referências anunciadas; (P2) limitar a seleção do LLM a 3–5 candidatos estruturados, validar allow-list/existência/consecutividade e consolidar intervalos por ocorrência; (P3) adicionar detector de citações sem endereço, busca BM25+dense/híbrida, reranking, alinhamento ASR, calibração e abstinência; (P4) comparar Gemma quantizado, GPT 5.* e Gemini 3.*, habilitar revisão humana, provenance, ablações e regressões.
-  - **Dependência:** Fonte bíblica licenciada/versionada e `src/Bíblia VectorStore/2. Vector database.ipynb` como referência para reconstrução da base e do índice.
-  - **Arquivos Relevantes:** `src/Rosários Quaresma Frei Gilson 2025/1. Preprocessing.ipynb`, `src/Rosários Quaresma Frei Gilson 2025/utils.py`, `src/Bíblia VectorStore/2. Vector database.ipynb`, `src/Rosários Quaresma Frei Gilson 2025/research-extracao-referencias-biblicas.md` e `src/Rosários Quaresma Frei Gilson 2025/todo-extracao-confiavel-referencias-biblicas.md`
+  - **Dependência:** Fonte bíblica licenciada/versionada e `src/bible_vectorstore/02_vector_database.ipynb` para reconstrução da base e do índice.
+  - **Arquivos Relevantes:** `src/rosarios_quaresma_frei_gilson/01_preprocessing.ipynb`, `src/rosarios_quaresma_frei_gilson/utils.py`, `src/bible_vectorstore/02_vector_database.ipynb`, `src/rosarios_quaresma_frei_gilson/research-extracao-referencias-biblicas.md` e `src/rosarios_quaresma_frei_gilson/todo-extracao-confiavel-referencias-biblicas.md`
   - **Critérios de aceite:** zero referência inexistente, intervalo invertido ou `id`/`line_number` tratado como versículo; deduplicação técnica sem apagar repetições reais; métricas do gold set superiores ao baseline; decisões reproduzíveis por provenance.
   - **Estimativa:** 55 horas
 

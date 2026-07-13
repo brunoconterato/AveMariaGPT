@@ -10,30 +10,30 @@ Esta seção lida com a ingestão e formatação de uma versão específica da B
 
   - **Status:** Completa para a versão específica.
   - **Descrição:** Extrai o texto de um arquivo PDF (`.pdf`) da Bíblia (Ave Maria) para um arquivo de texto limpo (`.txt`). Ignora páginas de cabeçalho/rodapé e corta páginas finais irrelevantes.
-  - **Arquivos:** `src/Bíblia VectorStore/1. Format.ipynb` (célula `9530d1fc`)
+  - **Arquivos:** `src/bible_vectorstore/01_structure_bible_verses.ipynb`
 
 - **Limpeza e Normalização de Texto (Bíblia Ave Maria)**
 
   - **Status:** Completa para a versão específica.
   - **Descrição:** Remove linhas indesejadas (cabeçalhos, direitos autorais) e outros caracteres que podem atrapalhar o processamento.
-  - **Arquivos:** `src/Bíblia VectorStore/1. Format.ipynb` (células `399f989b`, `13d68cc0`)
+  - **Arquivos:** `src/bible_vectorstore/01_structure_bible_verses.ipynb`
 
 - **Estruturação de Versículos da Bíblia (Ave Maria)**
 
   - **Status:** Completa para a versão específica.
   - **Descrição:** Transforma o texto bruto da Bíblia em um formato linha-a-linha, onde cada linha representa um versículo formatado como "Livro Capítulo:Versículo Texto do versículo".
-  - **Arquivos:** `src/Bíblia VectorStore/1. Format.ipynb` (célula `5ec25d1d`)
+  - **Arquivos:** `src/bible_vectorstore/01_structure_bible_verses.ipynb`
 
 - **Criação de Vector Store para a Bíblia (Ave Maria)**
 
   - **Status:** Completa.
   - **Descrição:** Converte os versículos estruturados da Bíblia em documentos (`langchain_core.documents.Document`), gera embeddings usando `HuggingFaceEmbeddings` (`sentence-transformers/all-MiniLM-L6-v2`) e os armazena em uma base vetorial `ChromaDB`.
-  - **Arquivos:** `src/Bíblia VectorStore/2. Vector database.ipynb` (células `a111732f`, `92a78804`)
+  - **Arquivos:** `src/bible_vectorstore/02_vector_database.ipynb` (células `a111732f`, `92a78804`)
 
 - **Criação de Banco de Dados Relacional para a Bíblia (Ave Maria)**
   - **Status:** Completa.
   - **Descrição:** Além do vector store, cria um banco de dados SQLite (`biblia.db`) para armazenar os metadados dos versículos (livro, capítulo, versículo, texto, número da linha), o que pode ser útil para recuperação precisa ou navegação.
-  - **Arquivos:** `src/Bíblia VectorStore/2. Vector database.ipynb` (célula `a80d317d`)
+  - **Arquivos:** `src/bible_vectorstore/02_vector_database.ipynb` (célula `a80d317d`)
 
 ## 2. Aquisição e Preparação de Dados Genéricos (Matos Soares Bible & Catechism)
 
@@ -97,7 +97,7 @@ Esta seção visa processar transcrições de lives católicas para extrair ensi
 - **Detecção de Passagens Bíblicas em Texto Arbitrário**
 
   - **Status:** Em progresso (funcionalidade testada, mas não totalmente integrada ao fluxo principal de summarização).
-  - **Descrição:** Um módulo que utiliza a `ChromaDB` da Bíblia (construída no `src/Bíblia VectorStore/2. Vector database.ipynb`) e um LLM para identificar se trechos de texto (e.g., de uma transcrição) contêm referências ou citações bíblicas, e qual versículo específico é.
+  - **Descrição:** Um módulo que utiliza a `ChromaDB` da Bíblia (construída no `src/bible_vectorstore/02_vector_database.ipynb`) e um LLM para identificar se trechos de texto (e.g., de uma transcrição) contêm referências ou citações bíblicas, e qual versículo específico é.
   - **Arquivos:** `src/Rosários Quaresma Frei Gilson 2025/1. Preprocessing.ipynb` (células `c9acb7d2`, `fb19f6be`)
 
 - **Sumarização e Extração de Informações de Transcrições de Lives (Santo Rosário)**
@@ -117,9 +117,9 @@ As funcionalidades se interligam para construir o agente RAG e para processar co
 
 2.  **Preparação da Bíblia Ave Maria e Vector Store Dedicada:**
 
-    - Em paralelo (ou como uma alternativa/complemento ao Matos Soares), `src/Bíblia VectorStore/1. Format.ipynb` pode ser executado para extrair, limpar e estruturar a Bíblia Ave Maria.
-    - Em seguida, `src/Bíblia VectorStore/2. Vector database.ipynb` utiliza o output do passo anterior para criar um **vector store `ChromaDB` dedicado à Bíblia Ave Maria** (`biblia_vectorstore`) e um banco de dados SQLite (`biblia.db`).
-    - **Dependência:** `src/Rosários Quaresma Frei Gilson 2025/1. Preprocessing.ipynb` (funcionalidade de detecção de passagens bíblicas) depende diretamente do `biblia_vectorstore` criado aqui.
+    - Em paralelo (ou como uma alternativa/complemento ao Matos Soares), `src/bible_vectorstore/01_structure_bible_verses.ipynb` pode ser executado para extrair, limpar e estruturar a Bíblia Ave Maria.
+    - Em seguida, `src/bible_vectorstore/02_vector_database.ipynb` utiliza o output do passo anterior para criar um **vector store `ChromaDB` dedicado à Bíblia Ave Maria** (`biblia_vectorstore`) e um banco de dados SQLite (`biblia.db`) dentro de `src/bible_vectorstore`.
+    - **Dependência:** `src/rosarios_quaresma_frei_gilson/01_preprocessing.ipynb` (funcionalidade de detecção de passagens bíblicas) depende diretamente do `biblia_vectorstore` criado aqui.
 
 3.  **Construção do Agente RAG Principal:**
 
@@ -132,8 +132,8 @@ As funcionalidades se interligam para construir o agente RAG e para processar co
 
 4.  **Processamento das Transcrições das Lives (Funcionalidade Secundária/Especializada):**
 
-    - `src/Rosários Quaresma Frei Gilson 2025/1. Preprocessing.ipynb` é um notebook de desenvolvimento para processar transcrições de lives específicas.
-    - Ele _reutiliza_ a `biblia_vectorstore` criada em `src/Bíblia VectorStore/2. Vector database.ipynb` para a detecção de versículos.
+    - `src/rosarios_quaresma_frei_gilson/01_preprocessing.ipynb` é um notebook de desenvolvimento para processar transcrições de lives específicas.
+    - Ele _reutiliza_ a `biblia_vectorstore` criada em `src/bible_vectorstore/02_vector_database.ipynb` para a detecção de versículos.
     - A sumarização e extração de informações das lives é uma funcionalidade paralela ao agente conversacional principal, mas que visa enriquecer o conhecimento sobre os ensinamentos do Frei Gilson.
     - **Não é uma dependência direta** para o funcionamento do agente RAG principal, mas é uma funcionalidade que agrega valor ao projeto.
 

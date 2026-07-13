@@ -25,23 +25,23 @@ Esta seção foca na ingestão e formatação de uma versão específica da Bíb
 - **Extração de Texto de PDF (Bíblia Ave Maria)**
   - **Status:** ✅ Completa.
   - **Descrição:** Extrai texto de PDF para `.txt`, ignorando cabeçalhos/rodapés.
-  - **Arquivos:** `src/Bíblia VectorStore/1. Format.ipynb`
+  - **Arquivos:** `src/bible_vectorstore/01_structure_bible_verses.ipynb`
 - **Limpeza e Normalização de Texto (Bíblia Ave Maria)**
   - **Status:** ✅ Completa.
   - **Descrição:** Remove linhas indesejadas e caracteres de processamento.
-  - **Arquivos:** `src/Bíblia VectorStore/1. Format.ipynb`
+  - **Arquivos:** `src/bible_vectorstore/01_structure_bible_verses.ipynb`
 - **Estruturação de Versículos da Bíblia (Ave Maria)**
   - **Status:** ✅ Completa.
   - **Descrição:** Formata texto bruto em "Livro Capítulo:Versículo Texto do versículo".
-  - **Arquivos:** `src/Bíblia VectorStore/1. Format.ipynb`
+  - **Arquivos:** `src/bible_vectorstore/01_structure_bible_verses.ipynb`
 - **Criação de Vector Store para a Bíblia (Ave Maria)**
   - **Status:** ✅ Completa.
   - **Descrição:** Gera embeddings com `HuggingFaceEmbeddings` e armazena em `ChromaDB`.
-  - **Arquivos:** `src/Bíblia VectorStore/2. Vector database.ipynb`
+  - **Arquivos:** `src/bible_vectorstore/02_vector_database.ipynb`
 - **Criação de Banco de Dados Relacional para a Bíblia (Ave Maria)**
   - **Status:** ✅ Completa.
   - **Descrição:** Armazena metadados dos versículos em SQLite (`biblia.db`) para recuperação precisa.
-  - **Arquivos:** `src/Bíblia VectorStore/2. Vector database.ipynb`
+  - **Arquivos:** `src/bible_vectorstore/02_vector_database.ipynb`
 
 ### 2. Aquisição e Preparação de Dados Genéricos (Bíblia Matos Soares & Catecismo)
 
@@ -233,9 +233,9 @@ As funcionalidades devem ser executadas em uma ordem específica para preparar a
 
 2.  **Preparação da Bíblia Ave Maria e Vector Store Dedicada:**
     - Abra e execute as células do notebook:
-      `src/Bíblia VectorStore/1. Format.ipynb` (para extração, limpeza e estruturação da Bíblia Ave Maria).
+      `src/bible_vectorstore/01_structure_bible_verses.ipynb` (para extração, limpeza e estruturação da Bíblia Ave Maria).
     - Em seguida, execute o notebook:
-      `src/Bíblia VectorStore/2. Vector database.ipynb` (para criar o `ChromaDB` dedicado (`biblia_vectorstore`) e o `SQLite` (`biblia.db`)).
+      `src/bible_vectorstore/02_vector_database.ipynb` (para criar o `ChromaDB` dedicado (`biblia_vectorstore`) e o `SQLite` (`biblia.db`)).
 
 3.  **Construção do Agente RAG Principal (Unificação de Conhecimento):**
     - Abra e execute todas as células do notebook:
