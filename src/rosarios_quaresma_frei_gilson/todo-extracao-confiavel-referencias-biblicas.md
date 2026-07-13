@@ -1,13 +1,13 @@
 # Extração Confiável de Referências Bíblicas — Lista Única de Tarefas Priorizadas
 
-Checklist revisada contra `research-extracao-referencias-biblicas.md`. As prioridades indicam dependência e risco: P0 bloqueia a confiabilidade; P1 entrega o caminho explícito; P2 fecha a seleção e consolidação; P3 trata citações sem endereço; P4 cobre comparação, operação e evolução.
+Checklist revisada contra `research-extracao-referencias-biblicas.md`. As prioridades indicam dependência e risco: P0 bloqueia a confiabilidade; P1 entrega o caminho explícito; P2 fecha a seleção e consolidação; P3 trata citações sem endereço; P4 cobre comparação, operação e evolução. A avaliação mínima será feita pelas consultas manuais de `Biblia.session.sql`; não fazem parte do escopo gold set, métricas extensivas ou testes automatizados.
 
 ## [P0] Epic — Base de verdade e avaliação mínima
 
-- [ ] [Bug] [P0] Auditar e reconstruir `biblia.db` a partir de fonte católica licenciada/versionada, corrigindo números corrompidos, duplicatas, capítulos/versículos impossíveis e diferenças de versificação.
-- [ ] [Feature] [P0] Criar IDs estáveis por `(tradução, livro, capítulo, versículo)`, separar IDs canônicos de `id`/`line_number`, aplicar unicidade, gerar manifesto/checksum e recriar o Chroma somente com essa base, retornando JSON mínimo (ID, texto, metadados e score) e testando a correspondência SQLite–Chroma.
-- [ ] [Feature] [P0] Definir o contrato do pipeline e criar gold set estratificado, revisado/adjudicado e dividido em desenvolvimento, validação e teste; incluir explícitas, ASR, paráfrases, negativos temáticos, repetições e versificação especial.
-- [ ] [Test] [P0] Bloquear por testes de integridade duplicatas, coordenadas inexistentes, intervalos invertidos, IDs técnicos expostos e qualquer divergência entre a base e o índice.
+- [ ] [Bug] [P0] Auditar `biblia.db` usando `Biblia.session.sql` e a fonte Ave-Maria usada pelo notebook; corrigir duplicatas, números corrompidos, capítulos/versículos impossíveis e diferenças de versificação, mantendo casos não resolvidos explicitamente marcados para revisão.
+- [ ] [Feature] [P0] Documentar que `id` é apenas identificador técnico da linha e que a localização lógica é `(book, chapter, verse_start, verse_end)`; recriar o Chroma a partir do CSV/SQLite vigente e verificar manualmente, com consultas do `Biblia.session.sql`, contagens, coordenadas e textos correspondentes entre SQLite e Chroma. Não criar IDs canônicos nem exigir manifesto de IDs.
+- [ ] [Feature] [P0] Definir o contrato mínimo da extração — referência lógica, texto, metadados, score/confiança e possibilidade de ausência — e registrar exemplos representativos de referências explícitas, ASR, paráfrases, negativos, repetições e versificação especial. Não criar gold set nem divisão de avaliação.
+- [ ] [Test] [P0] Concentrar a verificação de integridade no `Biblia.session.sql`: duplicatas, coordenadas nulas ou inexistentes, intervalos invertidos, campos obrigatórios, casos marcados para revisão e divergências entre a base e o índice. Não criar testes automatizados nem tratar `id` como versículo.
 
 ## [P1] Epic — Detecção explícita e segmentação por ocorrência
 
@@ -36,6 +36,6 @@ Checklist revisada contra `research-extracao-referencias-biblicas.md`. As priori
 
 ## Critérios globais de conclusão
 
-- [ ] [Test] [P0] Toda referência exportada existe na base certificada; nenhum `id`/`line_number` é tratado como versículo.
+- [ ] [Test] [P0] Toda referência exportada existe na base verificada; `id` permanece técnico e nenhum `id`/`line_number` é tratado como versículo.
 - [ ] [Test] [P2] A saída preserva ordem temporal, evidência, provenance e distingue duplicatas técnicas de repetições reais.
-- [ ] [Test] [P4] O pipeline supera o baseline no gold set, abstém-se de casos ambíguos dentro do limite definido e permite auditar cada decisão.
+- [ ] [Test] [P4] O pipeline permite auditar cada decisão, abstém-se de casos ambíguos quando não houver evidência suficiente e mantém as verificações mínimas documentadas no `Biblia.session.sql`.
