@@ -182,5 +182,5 @@ all.txt
 
 #
 **/process_log.txt
-src/Bíblia VectorStore/biblia_vectorstore*
-src/Bíblia VectorStore/biblia.db
+src/bible_vectorstore/biblia_vectorstore*
+src/bible_vectorstore/biblia.db
