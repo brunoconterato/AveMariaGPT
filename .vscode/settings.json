@@ -5,7 +5,7 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "database": "${workspaceFolder:MariaGPT}/src/Bíblia VectorStore/biblia.db",
+            "database": "${workspaceFolder:MariaGPT}/src/bible_vectorstore/biblia.db",
             "name": "Biblia"
         }
     ],
