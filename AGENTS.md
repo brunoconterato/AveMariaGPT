@@ -24,6 +24,7 @@ source /home/bruno/anaconda3/etc/profile.d/conda.sh && conda activate mariagpt
 ## Documentação
 
 - Toda documentação criada ou atualizada em `docs/` deve iniciar pela seção `# Visão geral`, antes de detalhes técnicos, instruções ou referências.
+- Cada script deve ser documentado em `docs/` com um arquivo Markdown de mesmo nome, alterando apenas a extensão para `.md`.
 
 ## Commits
 
