@@ -28,8 +28,8 @@ source /home/bruno/anaconda3/etc/profile.d/conda.sh && conda activate mariagpt
 
 ## Mapa do repositório
 
-- `MAPS.md` é o mapa oficial do repositório e deve mostrar a organização das pastas e onde estão os arquivos relevantes.
-- Sempre que arquivos forem criados, removidos, movidos ou tiverem sua finalidade alterada, atualize o `MAPS.md` na mesma tarefa.
+- `MAP.md` é o mapa oficial do repositório e deve mostrar a organização das pastas e onde estão os arquivos relevantes.
+- Sempre que arquivos forem criados, removidos, movidos ou tiverem sua finalidade alterada, atualize o `MAP.md` na mesma tarefa.
 - Mantenha o mapa conciso: registre pastas, arquivos de referência e artefatos importantes, sem listar arquivos gerados em massa individualmente.
 
 ## Commits
