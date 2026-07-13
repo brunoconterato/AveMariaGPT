@@ -190,7 +190,6 @@ ORDERED_BOOKS: List[BookEnum] = [
 ]
 
 
-
 class BibleExcerpt(BaseModel):
     book: BookEnum = Field(
         ...,
@@ -231,10 +230,10 @@ class BibleExcerpts(BaseModel):
                 x.verse_start,
             )
         )
-        
+
         unique_excerpts = []
         seen = set()
-        
+
         for excerpt in self.bible_excerpts:
             identifier = (
                 excerpt.book,
@@ -245,7 +244,7 @@ class BibleExcerpts(BaseModel):
             if identifier not in seen:
                 seen.add(identifier)
                 unique_excerpts.append(excerpt)
-                
+
         self.bible_excerpts = unique_excerpts
 
     def __str__(self):
