@@ -5,21 +5,37 @@ from pydantic import BaseModel, Field, ValidationInfo, field_validator
 
 
 class Verse:
-    """
-    Class to represent a verse.
-    """
+    """Representa uma linha do DataFrame estruturado de versículos."""
 
     def __init__(
-        self, book: str, chapter: int, verse: int, text: str, line_number: int = None
+        self,
+        book: str,
+        chapter: int,
+        verse_start: int | None,
+        verse_end: int | None,
+        text: str,
+        verse_acc: int | None,
+        pdf_page: int,
+        need_review: bool,
+        raw_verse_marker: str,
+        parse_issue: str | None,
     ):
         self.book = book
         self.chapter = chapter
-        self.verse = verse
+        self.verse_start = verse_start
+        self.verse_end = verse_end
         self.text = text
-        self.line_number = line_number
+        self.verse_acc = verse_acc
+        self.pdf_page = pdf_page
+        self.need_review = need_review
+        self.raw_verse_marker = raw_verse_marker
+        self.parse_issue = parse_issue
 
     def __repr__(self):
-        return f"{self.book} {self.chapter}:{self.verse} {self.text}"
+        return (
+            f"{self.book} {self.chapter}:{self.verse_start}-{self.verse_end} "
+            f"{self.text}"
+        )
 
 
 class BookEnum(Enum):
