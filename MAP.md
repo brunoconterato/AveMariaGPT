@@ -8,7 +8,7 @@ Mapa rápido para localizar código, dados, documentação e artefatos do reposi
 ├── README.md                         Visão geral e arquitetura do projeto
 ├── MAP.md                            Este mapa
 ├── ROADMAP.md / TODO.md              Planejamento e pendências
-├── features.md                       Funcionalidades e status
+├── FEATURES.md                       Funcionalidades e status
 ├── Biblia.session.sql                Sessão/exportação SQL
 ├── conda_env.yaml / requirements.txt Dependências e ambiente
 │
