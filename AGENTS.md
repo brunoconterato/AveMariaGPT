@@ -44,3 +44,4 @@ source /home/bruno/anaconda3/etc/profile.d/conda.sh && conda activate mariagpt
 
 - Este é predominantemente um projeto de aprendizado: a maior parte das implementações fica a cargo do usuário.
 - Não implemente código, salvo quando o usuário solicitar formalmente uma implementação.
+- Implemente estritamente o que for explícitamente solicitado pelo usuário, nada mais.
