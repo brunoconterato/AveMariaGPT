@@ -39,3 +39,8 @@ source /home/bruno/anaconda3/etc/profile.d/conda.sh && conda activate mariagpt
 - Quando houver mais de um subescopo independente, divida as alterações em commits menores.
 - Não faça push sem solicitação explícita do usuário.
 - Use título curto e intuitivo; no corpo, detalhe as alterações relevantes.
+
+## Implementação
+
+- Este é predominantemente um projeto de aprendizado: a maior parte das implementações fica a cargo do usuário.
+- Não implemente código, salvo quando o usuário solicitar formalmente uma implementação.
