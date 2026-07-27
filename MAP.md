@@ -46,7 +46,9 @@ Mapa rápido para localizar código, dados, documentação e artefatos do reposi
 │       └── todo*.md                    Pendências do pipeline
 │
 └── docs/
-    └── bible_vectorstore/             Documentação dos notebooks da Bíblia
+    ├── bible_vectorstore/             Documentação dos notebooks da Bíblia
+    └── research/                      Pesquisas técnicas de referência
+        └── prompts-llms-locais-pequenas.md  Guia de prompts para LLMs locais até 9B
 ```
 
 ## Fluxos principais

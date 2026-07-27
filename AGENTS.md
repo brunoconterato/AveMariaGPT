@@ -21,6 +21,10 @@ source /home/bruno/anaconda3/etc/profile.d/conda.sh && conda activate mariagpt
 - Se `conda activate mariagpt` falhar direto, carregue primeiro `conda.sh` como acima.
 - Evite assumir que o ambiente do shell já está ativo.
 
+## Prompts para LLMs locais
+
+- Ao criar, revisar ou modificar prompts para LLMs locais neste projeto, use `docs/research/prompts-llms-locais-pequenas.md` como base obrigatória de redação. Adapte o prompt ao modelo, à *chat template* e às ferramentas efetivamente usadas; não copie tokens de controle de outro modelo.
+
 ## Documentação
 
 - Toda documentação criada ou atualizada em `docs/` deve iniciar pela seção `# Visão geral`, antes de detalhes técnicos, instruções ou referências.
