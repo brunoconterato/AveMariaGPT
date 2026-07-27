@@ -18,7 +18,7 @@ class Verse:
         pdf_page: int,
         need_review: bool,
         raw_verse_marker: str,
-        parse_issue: str | None,
+        parse_issue: str | None = None,
     ):
         self.book = book
         self.chapter = chapter
