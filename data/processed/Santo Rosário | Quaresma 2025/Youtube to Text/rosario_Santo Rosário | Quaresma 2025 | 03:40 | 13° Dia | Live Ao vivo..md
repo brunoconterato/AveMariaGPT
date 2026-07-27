@@ -1,120 +1,59 @@
-# Relatório do Santo Rosário
+## 1. Temática principal
+O principal ensinamento do Frei Gilson durante o Rosário é a fundamentação da vida cristã na obediência à vontade de Deus e na construção de uma fé inabalável que supera as incertezas humanas através da confiança em Cristo. O texto enfatiza que a fé não é apenas aceitar, mas ultrapassar a dúvida (Hebreus 11:1-3), sendo a voz de Deus a força que nos move mesmo diante do medo e da solidão. A mensagem central é que a obediência traz liberdade e permite que os planos de Deus se concretizem na vida, como visto no exemplo de José, um homem íntegro que escolheu o amor e a discrição acima das paixões humanas (Mateus 1:20-20).
 
-## Temática principal
+O Frei ensina que, para enfrentar as lutas diárias, é necessário buscar momentos de "abastecimento" em silêncio na presença de Deus, comparando a vida agitada ao deserto. Esse recolhimento silencioso não é passividade, mas uma necessidade espiritual para ouvir os direcionamentos de Deus e obter força (Lucas 6:12). A autoridade máxima do amor e da vitória reside no sacrifício de Cristo e na promessa bíblica de que a alegria verdadeira se manifesta quando reconhecemos que tudo tem um propósito divino, culminando na esperança da vida eterna (Apocalipse 21:4-4).
 
-A temática principal do Santo Rosário é a reflexão sobre a figura de São José, o pai adotivo de Jesus. Frei Gilson destaca a importância de José como um homem justo, bom, discreto e obediente a Deus, mesmo diante das dificuldades e incertezas. Ele ressalta que José escolheu não difamar Maria, sua esposa, quando descobriu que ela estava grávida, demonstrando um profundo amor e respeito. Além disso, Frei Gilson enfatiza a obediência de José à voz de Deus, mesmo quando isso significava abandonar sua casa e sua terra natal.
+## 2. Temáticas secundárias
+**A Prova da Confiança através da Obediência**
+O Frei utiliza a figura de José para ensinar que a obediência a Deus, mesmo em situações confusas e difíceis, é o caminho para um caráter justo e íntegro. Ele reforça a ideia de que aceitar os planos de Deus exige confiança inabalável, mesmo quando não se compreende tudo ("Nem sempre é possível fazer" ou "nem gente entende tudo de primeira hora"). A obediência de José demonstra que ele escolheu o amor acima da fuga e do pecado, servindo como modelo para a perseverança diante das adversidades.
 
-A figura de São José é apresentada como um exemplo de fé, esperança e amor para todos os cristãos, especialmente para os pais. Frei Gilson convida os fiéis a se espelharem em José, buscando a justiça, a bondade, a discrição e a obediência a Deus em suas vidas. Ele também pede a intercessão de São José pelos pais que sofrem com seus filhos, para que eles sejam guardados e protegidos.
+**O Abastecimento no Silêncio e na Solidão**
+A meditação sobre o deserto e as orações noturnas serve como um ensinamento prático de que é preciso parar e se abastecer em silêncio na presença de Deus, e não esperar por uma oportunidade perfeita. O Frei explica que a solidão da morte e o silêncio são essenciais para nos encontrar com a voz de Deus. Esse recolhimento silencioso deve ser visto como um tempo de preparação, onde buscamos direcionamentos divinos antes de enfrentar as lutas do dia a dia, evitando viver no automático.
 
-## Temáticas secundárias
+**O Poder Redentor do Sacrifício e do Silêncio na Cruz**
+Em reflexão sobre o silêncio da morte de Cristo e a Paixão, o Frei demonstra que Deus não abandonou Jesus no sofrimento; pelo contrário, o silêncio e o sacrifício são meios vitais. A cruz é apresentada como a grande prova do amor, e a verdade reside em aceitar que o silêncio divino pode ser vitorioso. O mistério da morte de Cristo ensina que o silêncio gera vida e purificação, permitindo a comunhão com os sofrimentos sem perder a esperança na ressurreição.
 
-### A importância de ser bom o tempo todo
+**A Vida como Abastecimento Constante (Atividade vs. Descanso)**
+Há um alerta contra a armadilha do excesso de atividade, ensinando que a vida deve ser uma dinâmica constante entre "atividade e abastecimento". O Frei enfatiza que mesmo quem está trabalhando e se desgastando precisa fazer paradas no silêncio para se reconectar com Deus e buscar o reabastecimento espiritual. A mensagem é que Cristo sabe onde encontrar o descanso em Si, mas Ele também nos chama à disciplina de sermos abençoados constantemente.
 
-Frei Gilson enfatiza a importância de sermos bons o tempo todo, mesmo quando não compreendemos as situações ou quando as pessoas não merecem nossa bondade. Ele usa o exemplo de São José, que mesmo sem entender a gravidez de Maria, escolheu não difamá-la e continuou sendo justo e bom.
+## 3. Versículos da Bíblia
+(Livro de Gênesis 4:1-1): "Assim falou o Senhor a Abraão: ‘Eis que a sua descendência durará eternamente, ó senhor, eu cantarei eternamente o vosso amor e eterno será a vossa lealdade como o céu.’"
+**Ensinamentos:** O Frei destaca a promessa divina da perpetuidade das alianças de Deus com Abraão (e por extensão com todos os que creem), reforçando a permanência da fidelidade de Deus através da descendência.
 
-### A ação do Espírito Santo como consolador
+(Livro de Mateus 1:20-20): "José tinha pensado em deixar Maria enquanto assim eis que o anjo do Senhor lhe apareceu em sonhos e lhe disse: ‘Filho de Davi, não tenhas medo de receber Maria como tua esposa, porque ela concebeu pela ação do Espírito Santo; ela dará à luz um filho e tu lhe darás o nome de Jesus, pois ele vai salvar o seu povo dos seus pecados.’"
+**Ensinamentos:** Este versículo é usado para ensinar sobre a confiança que supera a incerteza. A palavra "fé" ultrapassa as dúvidas, exigindo que José abrace o plano divino antes mesmo de entendê-lo completamente (como foi com Maria).
 
-Durante o segundo mistério gozoso, Frei Gilson pede que o Espírito Santo console os corações aflitos, libertando as pessoas da tristeza, do medo e da angústia. Ele afirma que o Espírito Santo é o consolador, aquele que abraça e traz paz.
+(Livro de Hebreus 11:1-3): "A fé é esse o fundamento da esperança. É a certeza daquilo que não se vê, sim, eu tenho dúvidas, mas a fé ultrapassa a dúvida. Acredite no que há na promessa."
+**Ensinamentos:** Ensinamento sobre a natureza da fé, definida como uma realidade que excede as limitações sensoriais e racionais; a dúvida é um obstáculo que só pode ser superado pela fé ativa.
 
-### A consagração dos filhos a Deus
+(Livro de Mateus 4:1-4): (Referência feita para o contexto do Retiro/Retiro de José)
+**Ensinamentos:** A referência é usada na parábola de Jesus no deserto, onde Ele foi tentado e Jejuou. O ensinamento é que a vida espiritual exige disciplina, jejum em silêncio e preparação para enfrentar os desafios da missão divina.
 
-No quarto mistério gozoso, Frei Gilson convida os pais a consagrarem seus filhos a Deus, entregando seus corações a Ele. Ele pede que Deus receba em seu coração aquilo que é mais precioso e caro para os pais: o coração de seus filhos.
+(Livro de Mateus 27:46-46): "Próximo da Hora Nona Jesus exclamou em voz forte: ‘Eli, Eli, lama sábana?’"
+**Ensinamentos:** É usado como um lembrete da vulnerabilidade humana e do sentimento de abandono. O ensinamento é que mesmo na maior dor (a cruz), a confiança no Pai não desaparece, mas Ele permanece presente para nos sustentar através de Sua missão redentora.
 
-### A importância de confiar em Deus mesmo diante das dúvidas
+(Livro de Marcos 15:42-46): "quando já era tarde... José tirou da Cruz envolveu no pano e depositou no pulco escavado na rocha."
+**Ensinamentos:** Ilustra a fidelidade diária (como o trabalho de José) e a preparação para a missão divina. A ação concreta de José, mesmo diante do sofrimento extremo, é guiada pela obediência superior à lei terrena.
 
-Frei Gilson ressalta a importância de confiar em Deus mesmo quando não entendemos seus planos. Ele usa o exemplo de São José, que precisou confiar em Deus quando o anjo lhe revelou que Maria estava grávida pelo Espírito Santo.
+(Livro de Lucas 6:12-12): "Naqueles dias Jesus retirou-se a uma montanha para rezar e passou aí toda a noite orando a Deus."
+**Ensinamentos:** Reforça a necessidade de buscar o silêncio na presença de Deus. O ensinamento é que os momentos de solidão noturna são essenciais para buscar a calma, o sono e as orientações divinas (abastecimento) antes de se engajar no dia agitado.
 
-### A necessidade de enfrentar as dificuldades com fé e esperança
+(Livro de João 8:3-4): "E Jesus disse a ela: ‘Vês? A Lei que você lhes deu é esta.’"
+**Ensinamentos:** Reforça o ensinamento da autoridade de Cristo sobre as leis humanas e o surgimento da Graça. O Cristianismo hoje não se guia mais pela lei, mas pela graça de Deus.
 
-Frei Gilson afirma que a cruz não é o final, mas sim um caminho para a ressurreição. Ele convida os fiéis a não desistirem diante das dificuldades, mas a enfrentá-las com fé e esperança, lembrando que depois da cruz vem a cura e a vida.
+(Livro de Romanos 8:28-28): "Tudo concorre para o bem daqueles que amam a Deus."
+**Ensinamentos:** Ensino sobre a soberania de Deus na providência universal. Mesmo diante das dificuldades e sofrimentos, o crente deve ter a certeza de que tudo está sendo trabalhado em direção ao bem supremo por Deus (Redenção).
 
-## Versículos citados na transcrição
+(Livro de 1 Coríntios 10:13-13): "Não vos sobreveio tentação alguma que ultrapassasse as forças humanas. Mas com a tentação, ele vos dará os meios para suportá-la e sair dela."
+**Ensinamentos:** Reflexão sobre a realidade das provas da vida (tentação). O ensinamento é que Deus nunca nos permite cair além de nossas forças, mas Ele sempre fornece os meio necessários para superar o obstáculo.
 
-- (Mateus 1, 19): José, seu esposo, que era um homem de bem, não querendo difamá-la, resolveu rejeitá-la secretamente.
+## 4. Músicas
+Ixi um hino O Tempo voou nem percebi: Contexto do Ministério Rosa de Saron/Juventude. O Frei utiliza este cântico como uma meditação sobre a passagem do tempo e a evolução pessoal, comparando a jornada da vida à experiência de conhecer uma canção pelo ministério.
 
-Ensinamentos: José era um homem justo e discreto, que escolheu não expor Maria à vergonha pública, mesmo diante da dúvida sobre sua gravidez. Ele é um exemplo de como devemos agir com amor e respeito, mesmo quando não compreendemos as situações.
-
-- (Mateus 1, 20): José, tinha pensado em deixar Maria, enquanto assim pensava, eis que o anjo do Senhor lhe apareceu em sonhos e lhe disse: José, Filho de Davi, não temas receber Maria por tua esposa, pois o que nela foi concebido vem do Espírito Santo.
-
-Ensinamentos: José é chamado a confiar em Deus, mesmo sem entender completamente os planos divinos. A fé é um ato de confiança que ultrapassa as incertezas.
-
-- (Mateus 1, 24): Despertando, José fez como o anjo do Senhor lhe havia mandado e recebeu em sua casa sua esposa.
-
-Ensinamentos: José é obediente à voz de Deus, mesmo quando isso significa mudar seus planos e enfrentar desafios. A obediência abre espaço para que os planos de Deus se cumpram em nossas vidas.
-
-- (Mateus 2, 13): Depois da partida dos magos, o Anjo do Senhor apareceu em sonho a José e lhe disse: "Levanta-te, toma o menino e sua mãe e foge para o Egito. Fica lá até que eu te avise, porque Herodes vai procurar o menino para matá-lo".
-
-Ensinamentos: Deus sempre nos mostra o caminho para escapar das situações perigosas. É preciso estar atento aos sinais divinos e seguir as orientações de Deus para evitar a derrota.
-
-- (Mateus 27, 46): Próximo da hora nona, Jesus exclamou em voz forte: "Eli, Eli, lamá sabactani?", que quer dizer: "Meu Deus, meu Deus, por que me abandonaste?".
-
-Ensinamentos: Jesus experimentou a dor do abandono na cruz, mas não perdeu a confiança em seu Pai. Mesmo nos momentos mais difíceis, devemos nos lembrar que Deus não nos abandona.
-
-- (Lucas 6, 12): Naqueles dias, Jesus retirou-se para o monte, a fim de orar, e passou toda a noite em oração a Deus.
-
-Ensinamentos: Jesus buscava a solidão e o silêncio para se conectar com Deus. A oração noturna é uma prática que nos aproxima de Deus e nos fortalece espiritualmente.
-
-- (Lucas 23, 34): Jesus dizia: "Pai, perdoa-lhes! Eles não sabem o que fazem".
-
-Ensinamentos: Mesmo em meio ao sofrimento, Jesus demonstra compaixão e misericórdia para com seus algozes. Devemos seguir seu exemplo, perdoando aqueles que nos ofendem.
-
-- (Lucas 23, 46): Jesus deu um grande brado e disse: "Pai, em tuas mãos entrego o meu espírito". Dito isso, expirou.
-
-Ensinamentos: Jesus confia plenamente em seu Pai, entregando sua vida em suas mãos. Devemos seguir seu exemplo, confiando em Deus em todos os momentos de nossa vida.
-
-- (João 3, 16): De fato, Deus amou tanto o mundo, que deu o seu Filho único, para que todo aquele que nele crer não pereça, mas tenha a vida eterna.
-
-Ensinamentos: Deus nos amou de tal maneira que entregou seu próprio Filho para nos salvar. Essa é a maior prova de amor que podemos receber.
-
-- (João 12, 24-25): Em verdade, em verdade vos digo: Se o grão de trigo que cai na terra não morrer, fica só; mas, se morrer, produz muito fruto. Quem ama a sua vida, perde-a; mas quem odeia a sua vida neste mundo, conservá-la-á para a vida eterna.
-
-Ensinamentos: O sacrifício e a doação de si mesmo são necessários para produzir frutos de vida eterna. Devemos estar dispostos a renunciar aos nossos próprios desejos para seguir a vontade de Deus.
-
-- (1 Coríntios 10, 13): Não vos sobreveio tentação alguma que ultrapassasse as forças humanas. Deus é fiel: não permitirá que sejais tentados além das vossas forças. Pelo contrário, juntamente com a tentação, ele vos dará os meios de suportá-la e sairdes dela.
-
-Ensinamentos: Deus não permite que sejamos tentados além de nossas forças. Ele sempre nos dá os meios para superar as dificuldades e vencer as tentações.
-
-- (Apocalipse 21, 4): Ele enxugará toda lágrima de seus olhos, e já não haverá morte, nem luto, nem grito, nem dor, porque passou a primeira condição.
-
-Ensinamentos: No céu, não haverá mais dor, sofrimento ou tristeza. Essa é a promessa de Deus para aqueles que o amam.
-
-## Músicas
-
-```
-Manda Teu Espírito - Rosa de Saron
-A música invoca a presença do Espírito Santo para consolar, abraçar e libertar as pessoas da tristeza, do medo e da angústia. Ela expressa a necessidade de Deus em momentos de confusão e solidão.
-```
-
-```
-Por Sobre o Monte - Rosa de Saron
-A música fala sobre confiar em Deus mesmo diante das dúvidas e dificuldades. Ela expressa a fé de que a voz de Deus nos faz acreditar e nos leva a superar os obstáculos.
-```
-
-```
-Só a Lua - Rosa de Saron
-A música retrata a agonia de Jesus no Getsêmani, sua solidão e angústia. Ela expressa a fé de que, mesmo em meio à dor, Deus está presente para nos consolar e fortalecer.
-```
-
-```
-Todo Joelho se Dobrará - Rosa de Saron
-A música declara a soberania de Jesus Cristo, afirmando que todo joelho se dobrará e toda língua proclamará que Ele é o Senhor. Ela expressa a fé na vitória de Jesus sobre o pecado e a morte.
-```
-
-```
-Um Dia - Rosa de Saron
-A música fala sobre a esperança de um dia viver no céu, onde não haverá mais dor, tristeza ou sofrimento. Ela expressa a fé na promessa de Deus de enxugar toda lágrima de nossos olhos.
-```
-
-```
-Rara Calma - Rosa de Saron
-A música fala sobre o amadurecimento com o passar do tempo e a importância de manter a fé e a esperança. Ela expressa a confiança de que Deus está sempre presente em nossas vidas, mesmo em meio às dificuldades.
-```
-
-```
-Eis-me aqui - Ministério Adoração e Vida
-A música fala sobre a disponibilidade de São José em aceitar a vontade de Deus, mesmo sem entender completamente seus planos. Ela expressa a fé e a obediência de José, que se colocou a serviço do projeto de salvação.
-```
-
-## Eventos de Agenda
-
-Não houve eventos de agenda citados durante o Santo Rosário.
+## 5. Eventos de agenda
+Quaresma de 2025 (13º Dia).
+Preparação para o dia 20 de Abril (Próximo Rosário).
+Menções ao Bispo Dom José Negre, Marcelo Bispo emérito Dom Fernando e a Banda Rosa de Saron.
+Convidado Mano Walter e Débora no dia seguinte.
+Presença do Bispo de Piracicaba na sexta-feira.
+Podcast com o Bispo Vilela no sábado (com sua mãe).
