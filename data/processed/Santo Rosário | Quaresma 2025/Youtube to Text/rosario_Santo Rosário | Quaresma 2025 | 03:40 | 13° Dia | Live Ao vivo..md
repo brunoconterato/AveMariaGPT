@@ -1,59 +1,56 @@
 ## 1. Temática principal
-O principal ensinamento do Frei Gilson durante o Rosário é a fundamentação da vida cristã na obediência à vontade de Deus e na construção de uma fé inabalável que supera as incertezas humanas através da confiança em Cristo. O texto enfatiza que a fé não é apenas aceitar, mas ultrapassar a dúvida (Hebreus 11:1-3), sendo a voz de Deus a força que nos move mesmo diante do medo e da solidão. A mensagem central é que a obediência traz liberdade e permite que os planos de Deus se concretizem na vida, como visto no exemplo de José, um homem íntegro que escolheu o amor e a discrição acima das paixões humanas (Mateus 1:20-20).
+O ensinamento central do Frei Gilson durante o Rosário da Quaresma de 2025 foca na busca por uma transformação interior através do amor, da humildade e da fidelidade inabalável à vontade de Deus, especialmente em tempos de sofrimento. O Frei enfatiza que a fé é um fundamento de esperança que ultrapassa as incertezas, ensinando os fiéis a confiar nos planos divinos mesmo quando as situações são difíceis ou desconhecidas.
 
-O Frei ensina que, para enfrentar as lutas diárias, é necessário buscar momentos de "abastecimento" em silêncio na presença de Deus, comparando a vida agitada ao deserto. Esse recolhimento silencioso não é passividade, mas uma necessidade espiritual para ouvir os direcionamentos de Deus e obter força (Lucas 6:12). A autoridade máxima do amor e da vitória reside no sacrifício de Cristo e na promessa bíblica de que a alegria verdadeira se manifesta quando reconhecemos que tudo tem um propósito divino, culminando na esperança da vida eterna (Apocalipse 21:4-4).
+Um dos pilares da mensagem é o convite ao silêncio e à oração na presença de Deus, contrastando o ritmo agitado do mundo com a necessidade vital de "abastecer-se" espiritualmente através do retiro em silêncio e da contemplação profunda. Ele enfatiza que a verdadeira força não está na própria capacidade humana ou na superação dos problemas isolados, mas no abastecimento constante e na comunhão com Deus.
+
+A temática se desdobra na necessidade de ser um "homem de bem", discreto e justo, rejeitando o egoísmo, a inveja e a ganância das coisas terrenas. O Frei orienta que o amor não se expressa apenas por palavras, mas através da doação e da entrega, como demonstrado no sacrifício de Jesus na cruz, onde o amor supera qualquer tentativa de vingança ou desentendimento pessoal.
 
 ## 2. Temáticas secundárias
-**A Prova da Confiança através da Obediência**
-O Frei utiliza a figura de José para ensinar que a obediência a Deus, mesmo em situações confusas e difíceis, é o caminho para um caráter justo e íntegro. Ele reforça a ideia de que aceitar os planos de Deus exige confiança inabalável, mesmo quando não se compreende tudo ("Nem sempre é possível fazer" ou "nem gente entende tudo de primeira hora"). A obediência de José demonstra que ele escolheu o amor acima da fuga e do pecado, servindo como modelo para a perseverança diante das adversidades.
+### A Fé como Fundamento da Esperança
+O Frei estabelece a fé como uma certeza a respeito do que não se vê, sendo o fundamento essencial para enfrentar as dúvidas e incertezas da vida. Ele incentiva os fiéis a confiar em Deus, entendendo que a confiança divina é capaz de ultrapassar obstáculos intransponíveis.
 
-**O Abastecimento no Silêncio e na Solidão**
-A meditação sobre o deserto e as orações noturnas serve como um ensinamento prático de que é preciso parar e se abastecer em silêncio na presença de Deus, e não esperar por uma oportunidade perfeita. O Frei explica que a solidão da morte e o silêncio são essenciais para nos encontrar com a voz de Deus. Esse recolhimento silencioso deve ser visto como um tempo de preparação, onde buscamos direcionamentos divinos antes de enfrentar as lutas do dia a dia, evitando viver no automático.
+### A Obediência Humilde
+A mensagem secundária trata da importância de José como modelo de homem justo: um ser discreto, honesto e obediente à vontade de Deus. O Frei ressalta que Deus pode colocar "testes" (como a rejeição secretas) para que os humanos aprendam a confiar e a se abandonar aos planos divinos, mesmo sem compreender imediatamente a razão divina por trás das ações.
 
-**O Poder Redentor do Sacrifício e do Silêncio na Cruz**
-Em reflexão sobre o silêncio da morte de Cristo e a Paixão, o Frei demonstra que Deus não abandonou Jesus no sofrimento; pelo contrário, o silêncio e o sacrifício são meios vitais. A cruz é apresentada como a grande prova do amor, e a verdade reside em aceitar que o silêncio divino pode ser vitorioso. O mistério da morte de Cristo ensina que o silêncio gera vida e purificação, permitindo a comunhão com os sofrimentos sem perder a esperança na ressurreição.
+### A Força do Espírito Santo como Consolo
+Durante os Mistérios Gloriosos, o Frei destaca o papel do Espírito Santo como Consolador. Ele ensina que, diante da solidão, angústia e tristeza, o Espírito Santo é quem deve abraçar, consolar e trazer paz, sendo a fonte de força necessária para enfrentar as lutas cotidianas com coragem e perseverança.
 
-**A Vida como Abastecimento Constante (Atividade vs. Descanso)**
-Há um alerta contra a armadilha do excesso de atividade, ensinando que a vida deve ser uma dinâmica constante entre "atividade e abastecimento". O Frei enfatiza que mesmo quem está trabalhando e se desgastando precisa fazer paradas no silêncio para se reconectar com Deus e buscar o reabastecimento espiritual. A mensagem é que Cristo sabe onde encontrar o descanso em Si, mas Ele também nos chama à disciplina de sermos abençoados constantemente.
+### O Silêncio de Deus como Abastecimento
+Uma reflexão crucial aborda a lógica do deserto: ter momentos de silêncio na presença de Deus não é ausência, mas um ato de abastecimento espiritual. O Frei alerta contra o "piloto automático" da vida agitada, ensinando que paradas em silêncio permitem ouvir os direcionamentos de Deus para fortalecer a jornada e enfrentar as dificuldades.
+
+### A Importância do Amor Incondicional
+A meditação sobre a Cruz e a solidão ressalta que o amor de Deus não se expressa apenas por palavras ou exigências, mas pelo sofrimento voluntário. O verdadeiro ensinamento é aceitar a cruz como prova da vontade de Deus e buscar a entrega total à Sua paixão redentora, aprendendo a encontrar força no despojamento pessoal pela fé.
 
 ## 3. Versículos da Bíblia
-(Livro de Gênesis 4:1-1): "Assim falou o Senhor a Abraão: ‘Eis que a sua descendência durará eternamente, ó senhor, eu cantarei eternamente o vosso amor e eterno será a vossa lealdade como o céu.’"
-**Ensinamentos:** O Frei destaca a promessa divina da perpetuidade das alianças de Deus com Abraão (e por extensão com todos os que creem), reforçando a permanência da fidelidade de Deus através da descendência.
+**1 Coríntios 10:13-13**: "Não vos sobreveio tentação alguma que ultrapassasse as forças humanas. Deus é fiel: não permitirá que sejais tentados além das vossas forças, mas com a tentação, ele vos dará os meios de suportá-la e sairdes dela."
+**Ensinamentos:** Este versículo reforça o ensinamento sobre como Deus opera nas nossas lutas: Ele permite as provações, mas fornece o meio de suportá-las para que possamos sair delas. Reforça a ideia de confiar na fidelidade divina mesmo diante das adversidades humanas.
 
-(Livro de Mateus 1:20-20): "José tinha pensado em deixar Maria enquanto assim eis que o anjo do Senhor lhe apareceu em sonhos e lhe disse: ‘Filho de Davi, não tenhas medo de receber Maria como tua esposa, porque ela concebeu pela ação do Espírito Santo; ela dará à luz um filho e tu lhe darás o nome de Jesus, pois ele vai salvar o seu povo dos seus pecados.’"
-**Ensinamentos:** Este versículo é usado para ensinar sobre a confiança que supera a incerteza. A palavra "fé" ultrapassa as dúvidas, exigindo que José abrace o plano divino antes mesmo de entendê-lo completamente (como foi com Maria).
+**Hebreus 11:1-1**: "A fé é o fundamento da esperança, é uma certeza a respeito do que não se vê."
+**Ensinamentos:** Esta passagem reforça o ensino de que Deus manifesta Sua palavra através da fé em coisas invisíveis. A fé não depende da compreensão lógica das situações atuais, mas sim na certeza daquilo que Deus prometeu.
 
-(Livro de Hebreus 11:1-3): "A fé é esse o fundamento da esperança. É a certeza daquilo que não se vê, sim, eu tenho dúvidas, mas a fé ultrapassa a dúvida. Acredite no que há na promessa."
-**Ensinamentos:** Ensinamento sobre a natureza da fé, definida como uma realidade que excede as limitações sensoriais e racionais; a dúvida é um obstáculo que só pode ser superado pela fé ativa.
+**Apocalipse 21:4-4**: "Enxugará toda lágrima de seus olhos e já não haverá morte, nem luto, nem grito, nem dor, porque passou a primeira condição".
+**Ensinamentos:** Relacionado ao Mistério da Ressurreição. O ensinamento é que a promessa final do Dia do Senhor trará o fim definitivo dos sofrimentos humanos — morte, luto e dor — inaugurando um estado de alegria e harmonia eterna.
 
-(Livro de Mateus 4:1-4): (Referência feita para o contexto do Retiro/Retiro de José)
-**Ensinamentos:** A referência é usada na parábola de Jesus no deserto, onde Ele foi tentado e Jejuou. O ensinamento é que a vida espiritual exige disciplina, jejum em silêncio e preparação para enfrentar os desafios da missão divina.
+**São Lucas 6:12-12**: "Naqueles dias, Jesus retirou-se a uma montanha para rezar, e passou aí toda a noite orando a Deus."
+**Ensinamentos:** Este versículo ilustra o ensinamento do "abastecimento em silêncio". Mostra que, mesmo na vida agitada de Jesus, havia um tempo intencional para buscar a solidão e a calma na oração noturna.
 
-(Livro de Mateus 27:46-46): "Próximo da Hora Nona Jesus exclamou em voz forte: ‘Eli, Eli, lama sábana?’"
-**Ensinamentos:** É usado como um lembrete da vulnerabilidade humana e do sentimento de abandono. O ensinamento é que mesmo na maior dor (a cruz), a confiança no Pai não desaparece, mas Ele permanece presente para nos sustentar através de Sua missão redentora.
+**São Mateus 1:19-19**: "José, seu esposo, que era homem de bem, não querendo difamá-la, resolveu rejeitá-la secretamente."
+**Ensinamentos:** Relacionado ao Mistério da Anunciação (João 1). O ensinamento é sobre a humildade e a confiança: Deus coloca José em uma prova de fé, mostrando que ele deve escolher o amor e a fidelidade, mesmo antes do plano divino ser completamente compreendido.
 
-(Livro de Marcos 15:42-46): "quando já era tarde... José tirou da Cruz envolveu no pano e depositou no pulco escavado na rocha."
-**Ensinamentos:** Ilustra a fidelidade diária (como o trabalho de José) e a preparação para a missão divina. A ação concreta de José, mesmo diante do sofrimento extremo, é guiada pela obediência superior à lei terrena.
-
-(Livro de Lucas 6:12-12): "Naqueles dias Jesus retirou-se a uma montanha para rezar e passou aí toda a noite orando a Deus."
-**Ensinamentos:** Reforça a necessidade de buscar o silêncio na presença de Deus. O ensinamento é que os momentos de solidão noturna são essenciais para buscar a calma, o sono e as orientações divinas (abastecimento) antes de se engajar no dia agitado.
-
-(Livro de João 8:3-4): "E Jesus disse a ela: ‘Vês? A Lei que você lhes deu é esta.’"
-**Ensinamentos:** Reforça o ensinamento da autoridade de Cristo sobre as leis humanas e o surgimento da Graça. O Cristianismo hoje não se guia mais pela lei, mas pela graça de Deus.
-
-(Livro de Romanos 8:28-28): "Tudo concorre para o bem daqueles que amam a Deus."
-**Ensinamentos:** Ensino sobre a soberania de Deus na providência universal. Mesmo diante das dificuldades e sofrimentos, o crente deve ter a certeza de que tudo está sendo trabalhado em direção ao bem supremo por Deus (Redenção).
-
-(Livro de 1 Coríntios 10:13-13): "Não vos sobreveio tentação alguma que ultrapassasse as forças humanas. Mas com a tentação, ele vos dará os meios para suportá-la e sair dela."
-**Ensinamentos:** Reflexão sobre a realidade das provas da vida (tentação). O ensinamento é que Deus nunca nos permite cair além de nossas forças, mas Ele sempre fornece os meio necessários para superar o obstáculo.
+**São Mateus 27:46-46**: "Próximo da hora nona, Jesus exclamou em voz forte: “Eli, Eli, lammá sabactáni?” – o que quer dizer: “Meu Deus, meu Deus, por que me abandonaste?”"
+**Ensinamentos:** Este texto é fundamental para a reflexão sobre a Cruz. O ensinamento é que mesmo no momento de maior dor e abandono aparente de Deus (o silêncio da cruz), Jesus manteve Sua confiança plena no Pai, ilustrando o amor redentor supremo.
 
 ## 4. Músicas
-Ixi um hino O Tempo voou nem percebi: Contexto do Ministério Rosa de Saron/Juventude. O Frei utiliza este cântico como uma meditação sobre a passagem do tempo e a evolução pessoal, comparando a jornada da vida à experiência de conhecer uma canção pelo ministério.
+**O Tempo voou - [Artistas não mencionados explicitamente como nomes completos]**: O Frei usou a canção para reflexão sobre o passar do tempo e a passagem das gerações. Ele incentivou os fiéis a se conectarem com as mensagens, mesmo em momentos de escuridão ou no despertar da madrugada.
 
 ## 5. Eventos de agenda
-Quaresma de 2025 (13º Dia).
-Preparação para o dia 20 de Abril (Próximo Rosário).
-Menções ao Bispo Dom José Negre, Marcelo Bispo emérito Dom Fernando e a Banda Rosa de Saron.
-Convidado Mano Walter e Débora no dia seguinte.
-Presença do Bispo de Piracicaba na sexta-feira.
-Podcast com o Bispo Vilela no sábado (com sua mãe).
+**Santo Rosário | Quaresma 2025 | 13° Dia**: O evento principal do dia (Live Ao vivo). Foi um momento de acolhimento e partilha entre o Frei Gilson e a banda Rosa de Sarão, marcando o início da jornada com a comunidade.
+
+**Missas/Retiros Futuros (Mencionado na conclusão da pregação)**:
+*   **Dia 20 de Abril**: Mencionado como um dia especial onde se deseja que muitos rezenem para encontrar alegria e paz.
+*   **Encontro no próximo domingo**: Convidado a rezar junto com o Santo Rosário (13° dia). A mensagem final reforça o propósito do dia: ter esperança eterna, pois "não haverá dor lá".
+
+**Eventos de Apoio à Pastoral/Banda:**
+*   **Apoio da Banda Rosa de Sarão**: O Frei agradeceu a presença da banda e mencionou que faria uma pregação e cantaria. Ele pediu para que os fiéis apoiassem o ministério, pedindo por proteção aos integrantes.
+
+**(Nota: Não foram mencionadas datas exatas ou locais específicos além do contexto geral da Quaresma de 2025.)**
