@@ -1,111 +1,49 @@
-# Relatório do Santo Rosário
+## 1. Temática principal
+O ensinamento central do Frei durante o Rosário e a reflexão subsequente reside na compreensão do mistério do silêncio de Deus diante das catástrofes humanas, e como essa experiência nos leva à necessidade da fé para compreender essa realidade. O Frei enfatiza que o sofrimento e o mal no mundo não são obra de Deus, mas resultam da liberdade humana e da escolha livre, um ponto que exige uma profunda reflexão sobre a responsabilidade humana.
 
-## Temática principal
+O ensinamento se desdobra na ideia de que Deus é um ser em perigo, mas que escolheu permitir o sofrimento para que a humanidade encontre o caminho da verdadeira liberdade. O silêncio de Deus diante do mal e das tragédias não é abandono, mas um mistério profundo que exige fé para ser compreendido.
 
-A temática principal do Santo Rosário é a busca por uma conexão mais profunda com Deus em meio aos desafios e sofrimentos do mundo.
-É um convite para refletir sobre o silêncio de Deus, não como ausência, mas como uma forma de comunicação que exige fé e aprofundamento espiritual.
-Além disso, o Santo Rosário busca fortalecer a fé, a esperança e o amor, incentivando a oração, a conversão e a prática do bem, mesmo diante das dificuldades.
+A mensagem final aponta que a verdade reside em reconhecer que Deus não é o autor do mal, e que ao aceitar essa realidade – mesmo em meio ao sofrimento – podemos encontrar um bem maior, pois Deus está agindo para nos levar à verdadeira liberdade.
 
-## Temáticas secundárias
+## 2. Temáticas secundárias
+**O Poder da Fé na Compreensão do Silêncio de Deus**
+O Frei argumenta que a dificuldade humana em aceitar o silêncio de Deus diante das catástrofes é um obstáculo à fé. Ele ensina que para entender esse mistério, é necessário confiar na fé, pois a razão sozinha não alcança essa verdade. O silêncio divino é uma forma de comunicação e exige uma postura de entrega e confiança.
 
-### A importância dos Anjos
+**A Liberdade Humana e a Responsabilidade**
+Durante a reflexão final, o Frei aborda a origem do mal, afirmando que Deus não é o autor dele. Ele enfatiza que a liberdade humana, embora traga o risco do mal, é um presente divino. A responsabilidade reside em escolher o bem, e isso exige que os indivíduos assumam seu livre arbítrio, entendendo que Deus escolheu permitir o sofrimento para que o homem possa buscar a verdadeira liberdade.
 
-Os anjos são seres espirituais enviados por Deus para proteger, guardar e revelar os mistérios divinos.
-Durante a oração do Santo Rosário, é importante invocar a presença dos anjos em nossas casas e em nossas vidas, buscando sua proteção e auxílio para louvar e glorificar a Deus.
+**A Transformação Pessoal pela Queda e Ressurreição**
+As testemunhas de cura durante a Quaresma (relacionadas aos Mistérios Gozosos) ilustram a capacidade da oração e da fé em transformar realidades dolorosas. O relato sobre a experiência pessoal de cura demonstra que o desespero se transforma em profunda entrega, permitindo que Deus realize seus planos, trazendo alívio e renovação.
 
-### A Visitação de Nossa Senhora
+## 3. Versículos da Bíblia
+`(Eclesiástico 15:14-14)`: No princípio Deus criou o homem, e o entregou ao seu próprio juízo;
+**Ensinamentos:** O homem foi colocado ao seu próprio juízo, indicando a liberdade de escolha que lhe foi dada.
 
-A visitação de Nossa Senhora à sua prima Santa Isabel é um momento de graça e bênção.
-É um convite para que Nossa Senhora visite cada pessoa que está rezando, levando cura, consolo e esperança em meio às aflições.
+`(Eclesiástico 17:8-8)`: a fim de que celebrassem a santidade do seu nome, e o glorificassem por suas maravilhas, apregoando a magnificência de suas obras.
+**Ensinamentos:** Deus colocou Seus olhos nos corações humanos para mostrar a majestade de Suas obras.
 
-### A Quaresma como tempo de transformação
+`(Eclesiástico 17:10-10)`: concluiu com eles um pacto eterno, e revelou-lhes a justiça de seus preceitos.
+**Ensinamentos:** Deus estabeleceu um pacto eterno e revelou a justiça de Seus mandamentos.
 
-A Quaresma é um tempo propício para a transformação interior, para abandonar os caminhos do mundo e se aproximar de Deus.
-É um tempo de renovação da vida, de conversão do coração e de busca pela santidade.
+`(Efésios 4:17-17)`: Portanto, eis o que digo e conjuro no Senhor: não persistais em viver como os pagãos, que andam à mercê de suas ideias frívolas.
+**Ensinamentos:** É preciso abandonar as ideias frívolas e viver de acordo com a vontade de Deus.
 
-### A importância da oração e da fé
+`(Gênesis 3:1-1)`: A serpente era o mais astuto de todos os animais do campo que o Senhor Deus tinha formado. Ela disse à mulher: “É verdade que Deus vos proibiu comer do fruto de toda árvore do jardim?”.
+**Ensinamentos:** O mal e a tentação são introduzidos pela desobediência, sendo a origem da separação entre o homem e Deus.
 
-A oração é um meio poderoso de alcançar graças e bênçãos de Deus.
-A fé é o fundamento da esperança e a certeza daquilo que não se vê.
-Através da oração e da fé, é possível experimentar a cura, a libertação e a transformação em todas as áreas da vida.
+`(Gênesis 3:19-19)`: Comerás o teu pão com o suor do teu rosto, até que voltes à terra de que foste tirado; porque és pó, e pó te hás de tornar”.
+**Ensinamentos:** O ser humano é feito de pó e deve retornar ao pó, refletindo a fragilidade da existência terrena.
 
-### O poder da intercessão de Nossa Senhora de Guadalupe
+`(Hebreus 11:1-1)`: A fé é o fundamento da esperança, é uma certeza a respeito do que não se vê.
+**Ensinamentos:** A fé é essencial para compreender as realidades espirituais e confiar no que não é visível.
 
-Nossa Senhora de Guadalupe é uma mãe amorosa que intercede por seus filhos junto a Jesus.
-Através de sua intercessão, é possível alcançar a cura, a libertação e a realização de sonhos, como o de ter um filho.
+`(Romanos 8:28-28)`: Aliás, sabemos que todas as coisas concorrem para o bem daqueles que amam a Deus daqueles que são os eleitos, segundo os seus desígnios.
+**Ensinamentos:** Mesmo nas adversidades, há um plano divino que conduz ao bem dos eleitos.
 
-## Versículos citados na transcrição
+## 4. Músicas
+**Invocando os Anjos:** O Frei pediu para todos invocarem os anjos de Deus, enfatizando a presença espiritual ao redor.
+**Cantar (Música do Início):** Uma música foi cantada no início e no final, associada à ideia da transformação pessoal pela graça divina ("Eu sou novo em Ti").
+**"Se você pode soltar a sua voz na sua casa":** Esta música foi mencionada durante o momento de convite para que as pessoas se sentissem livres.
 
-- Efésios 6: <Não transcrito na transcrição>
-
-Ensinamentos: Fala dos demônios, anjos decaídos, que estão espalhados nos ares. Mas se há demônios, há muito mais anjos.
-
-- Hebreus 11, 1: A fé é o fundamento da esperança, é uma certeza a respeito do que não se vê.
-
-Ensinamentos: A fé é o fundamento da esperança e a certeza daquilo que não se vê.
-É preciso crer sem ver, confiar em Deus mesmo quando não se compreende seus planos.
-
-- Efésios 4, 17: Portanto, eis que vos digo e conjuro no Senhor: não persistais em viver como os pagãos, que andam à mercê de suas ideias frívolas.
-
-Ensinamentos: Não persistir em viver como os pagãos, que andam à mercê de suas ideias frívolas.
-Não andar de acordo com as suas ideias, mas com as ideias de Deus.
-
-- Gênesis 3, 19: Comerás o teu pão com o suor do teu rosto, até que voltes à terra de que foste tirado, porque és pó e ao pó hás de tornar.
-
-Ensinamentos: Nunca se esqueça que você é pó e para o pó você vai voltar.
-
-- Salmo 102, 14-16: Porque ele sabe de que é que somos feitos e não se esquece de que somos pó. Os dias do homem são semelhante à erva; ele floresce como a flor dos campos; apenas sopra o vento, já não existe e nem se conhece mais o seu lugar.
-
-Ensinamentos: A vida é frágil, não se esqueça disso.
-
-- Lucas 19, 40: Eu vos digo que, se eles se calarem, as pedras gritarão.
-
-Ensinamentos: A criação também é capaz de cantar louvores a Deus.
-
-- Efésios 4, 20 em diante: Vós, porém, não foi para isso que vos tornastes discípulos de Cristo.
-
-Ensinamentos: Renunciar à vida passada, despojar-se do homem velho e revestir-se do homem novo, criado à imagem de Deus em verdadeira justiça e santidade.
-
-- Eclesiástico 17, 1: Deus criou o homem da terra, formou-o segundo a sua própria imagem e o fez de novo voltar à terra.
-
-Ensinamentos: Deus criou o homem e lhe deu uma companheira, inteligência, língua, olhos, ouvidos e juízo para pensar.
-Deus colocou os seus olhos em nosso coração para mostrar-lhes a majestade de suas obras, a fim de que celebrassem a santidade do seu nome e glorificar por suas Maravilhas.
-
-- Eclesiástico 15, 11-22: Não digas: É por causa de Deus que ela me falta, pois cabe a ti não fazer o que ele abomina.
-
-Ensinamentos: Deus criou o homem e o entregou ao seu próprio juízo, dando-lhe os mandamentos e os preceitos.
-Deus não deu ordem a ninguém para fazer o mal e a ninguém deu licença para pecar.
-
-- João 3, 16: Deus amou tanto o mundo, que enviou o seu Filho unigênito, para que todo o que nele crê não pereça, mas tenha a vida eterna.
-
-Ensinamentos: Deus amou o mundo e enviou seu filho para nos salvar.
-
-- Romanos 8, 28: Aliás, sabemos que todas as coisas concorrem para o bem daqueles que amam a Deus, daqueles que são os eleitos, segundo os seus desígnios.
-
-Ensinamentos: Todas as coisas concorrem para o bem daqueles que amam a Deus.
-
-- Salmo 139, 11-12: Se eu dissesse: Ao menos as trevas me ocultarão, e a noite como se fora luz há de me envolver, as próprias trevas não são escuras para vós, a noite vos é transparente como o dia, e a escuridão clara como a luz.
-
-Ensinamentos: Fortalecer a fé em momentos de dificuldade.
-
-## Músicas
-
-- Manda Teus Anjos - <Não especificado>
-  Ensinamento sobre pedir a proteção dos anjos para o lar e a família, para que ajudem a rezar e louvar a Deus.
-
-- Não Posso Mais Conter em Mim - Fraternidade São João Paulo II
-  Ensinamento sobre o desejo crescente de Deus no coração e a transformação que Ele opera em nós, renovando nossa vida e mentalidade.
-
-- Teu Perfume - Fraternidade São João Paulo II
-  Ensinamento sobre o desejo de ser um canal de Deus no mundo, exalando o perfume de Cristo e ofertando o coração a Ele.
-
-- Somente em Ti - Fraternidade São João Paulo II
-  Ensinamento sobre a necessidade de construir a vida e a esperança em Deus, encontrando descanso e refrigério em sua presença.
-
-## Eventos de Agenda
-
-- Let's Go - 20 de novembro - Santuário Mãe de Deus Padre Marcelo
-  Evento da Fraternidade São João Paulo I com Dom José no Santuário Mãe de Deus Padre Marcelo. Não paga nada, não precisa fazer inscrição e é feriado.
-
-- Acampamento da Fraternidade São João Paulo I - Uma semana antes do Let's Go - Canção Nova
-  Segundo acampamento da Fraternidade São João Paulo I na Canção Nova.
+## 5. Eventos de agenda
+Nenhuma missa, encontro ou evento específico com data e local foi mencionado como parte da oração do Rosário, apenas referências a um "Live Ao vivo" e à continuidade dos encontros semanais.
