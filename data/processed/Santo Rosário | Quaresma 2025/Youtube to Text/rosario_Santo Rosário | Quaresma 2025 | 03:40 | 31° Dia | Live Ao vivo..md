@@ -1,119 +1,52 @@
-# Relatório do Santo Rosário
+## 1. Temática principal
+O principal ensinamento transmitido pelo Frei durante o Rosário da Quaresma de 2025 é a importância do **silêncio e da permanência com Cristo**. O Frei explica que buscar intimidade profunda com Deus exige momentos de silêncio, assim como Jesus viveu seus 30 anos em Nazaré. A verdadeira vida espiritual não se baseia no ruído ou na quantidade de atividades religiosas, mas sim em um tempo dedicado à contemplação e ao recolhimento pessoal, o que ele define como "colher os mistérios" de Deus.
 
-## Temática principal
+Além disso, a Quaresma é apresentada como um período preparatório para a Semana Santa através da permanência total em Jesus. Ele ensina que abandonar o silêncio equivale a se esquecer do nosso próprio ser e dignidade, pois só quando nos abrimos completamente a Deus podemos conhecer nossa essência e encontrar a verdadeira fonte de vida.
 
-A temática principal do Santo Rosário é a bênção da casa e da família, com orações e invocações específicas para cada membro e cômodo do lar. Durante toda a oração, o Frei Gilson conduz os fiéis em uma jornada espiritual, abençoando cada aspecto do lar, desde a porta de entrada até a lavanderia, e intercedendo por cada membro da família, desde os pais até os filhos, incluindo os idosos e as mulheres grávidas.
+Por fim, esta busca pela intimidade divina deve ter repercussão na esfera doméstica. O Rosário não é apenas uma oração individual; ele serve como um convite para que cada família decida permanecer com Jesus, tornando o lar um santuário onde Deus seja "servido" diariamente. Assim, a vida familiar se torna parte ativa da missão de testemunhar silenciosamente o amor de Cristo no mundo moderno.
 
-O objetivo central é consagrar a casa a Deus, protegendo-a de todo mal e abrindo espaço para a paz, o amor e a provisão divina. A oração busca fortalecer os laços familiares, promover a união e o respeito entre os membros, e garantir que a casa seja um refúgio seguro e um lugar de encontro com o sagrado.
+## 2. Temáticas secundárias
+**Sanctificação e Proteção do Lar:** O Frei dedica grande parte da sua fala à bênção completa de cada espaço doméstico. Ele enfatiza que esta é uma "bênção da casa", onde se deve invocar os anjos para proteger as portas, quartos, banheiros, garagens e veículos. A proteção divina garante a paz em todos os cômodos, impedindo todo mal, acidentes ou invasões, seja física ou espiritual.
 
-## Temáticas secundárias
+**O Poder dos Anjos Guardiões:** Os santos anjos mencionados (São Miguel, São Gabriel, São Rafael) são apresentados como "soldados de Deus" concedidos à nossa proteção. Ele ensina que podemos apelar ao socorro destes anjos para serem o escudo e a espada da casa, guardando cada porta, pessoa do lar e protegendo os membros contra as trevas e as ciladas do inimigo.
 
-### A importância dos anjos na proteção do lar
+**Valor da Família e dos Laços de Parentesco:** Várias bênçãos são especificamente dirigidas aos vínculos familiares: mães que sofrem com filhos distantes ou enfermos, idosos (para dar força e saúde) e pais (que precisam de Jesus para sustento e obediência). O Frei reforça a importância do casal como alicerce da casa e apela pelo fortalecimento dos laços conjugais por meio do perdão mútuo.
 
-Durante o primeiro mistério gozoso, o Frei Gilson enfatiza a importância de invocar os anjos para proteger e abençoar o lar, pedindo que eles adentrem as casas e tragam boas novas. Acredita-se que os anjos são mensageiros de Deus e protetores enviados para auxiliar e guiar os fiéis, e sua presença no lar é vista como uma fonte de segurança e paz.
+**Renovação das Promessas Batismais:** Durante o segundo mistério luminoso, ele aborda a necessidade de renovar as promessas batismais dentro do lar. Isso é visto como um ato prático que reconecta os membros da família à graça recebida no Crisma e Sacramentos, fortalecendo a identidade cristã no ambiente familiar.
 
-### A visita de Nossa Senhora e a bênção para as mães
+## 3. Versículos da Bíblia
+**(Josué 24:15)**: Porém, se vos desagrada servir o Senhor, escolhei hoje a quem quereis servir: se aos deuses, a quem serviram os vossos pais além do rio, se aos deuses dos amorreus, em cuja terra habitais. Porque, quanto a mim, eu e minha casa serviremos o Senhor”.
+**Ensinamentos:** O Frei utiliza esta passagem para fazer um convite direto às famílias: eles devem tomar uma decisão consciente de servir ao Senhor e comprometer sua casa com essa dedicação, reforçando o propósito do Rosário.
 
-No segundo mistério gozoso, a visitação de Nossa Senhora a Santa Isabel é lembrada para pedir que a Virgem Maria visite os lares, especialmente para abençoar as mães, que são figuras centrais na família. A oração busca fortalecer o coração das mães, protegê-las de sofrimentos e dificuldades, e garantir que elas sejam um exemplo de fé e amor para seus filhos.
+**(Hebreus 13:4)**: Vós todos considerai o matrimônio com respeito e conservai o leito conjugal imaculado, porque Deus julgará os impuros e os adúlteros.
+**Ensinamentos:** No momento da bênção dos casais (2º mistério luminoso), ele enfatiza a santidade do compromisso conjugal e apela para que todos mantenham respeito pelo matrimônio como um leito imaculado, lembrando que Deus julgará aqueles que o profanam.
 
-### O acolhimento de Jesus no lar
+**(Josué 24:15)**: Porém, se vos desagrada servir o Senhor, escolhei hoje a quem quereis servir: se aos deuses, a quem serviram os vossos pais além do rio, se aos deuses dos amorreus, em cuja terra habitais. Porque, quanto a mim, eu e minha casa serviremos o Senhor”.
+**Ensinamentos:** (Repetição intencional no texto) O Frei usa este versículo como um chamado à coragem de escolher servir ao Senhor e fazer com que essa escolha se reflita na dedicação da própria casa.
 
-No terceiro mistério gozoso, o nascimento de Jesus é lembrado para convidar os fiéis a abrirem as portas de suas casas para o menino Jesus, reconhecendo-o como o centro de suas vidas. O gesto simbólico de abrir a porta da casa representa a disposição de acolher a presença divina no lar e permitir que Jesus transforme e abençoe cada aspecto da vida familiar.
+**(São João 6:56)**: Quem come a minha carne e bebe o meu sangue permanece em mim e eu nele.
+**Ensinamentos:** Ao abordar os Sacramentos, Frei Gilson destaca que esta passagem expressos no Discurso do Pão da Vida revela o desejo máximo de Cristo: permanência. Ele ensina que não basta visitar ou louvar; Jesus quer que permanecemos nEle para receber Sua verdade, que é a única capacidade de nos libertar e nos conduzir à eternidade.
 
-### A bênção para os pais e a importância da presença paterna
+## 4. Músicas
+**Manda teus anjos - Artista:** Contexto: Invocação dos Anjos no Primeiro Mistério Gozoso (Anunciação). O Frei explica que o anjo Gabriel trouxe boas novas, e pede então a Jesus para enviar os seus próprios anjos ao lar de cada um.
 
-No quarto mistério gozoso, a apresentação de Jesus no templo é lembrada para pedir a bênção para os pais, figuras de liderança e proteção na família. A oração busca fortalecer os pais, protegê-los de medos e inseguranças, e inspirá-los a serem exemplos de fé e obediência a Deus. É enfatizada a importância da presença paterna no lar e o papel do pai no desenvolvimento espiritual e emocional dos filhos.
+**Noite feliz - Artista:** Contexto: Celebrando o Nascimento do Menino Jesus em Belém (3º Mistério Gozoso). Ele usa essa canção como convite simbólico para que toda a família vá até a porta da casa e abra-a, declarando que "tem lugar" para acolher Jesus no lar.
 
-### A renovação das promessas do batismo
+**E vem cantando entre nós - Artista:** Contexto: Visitação de Nossa Senhora à Santa Isabel (2º Mistério Gozoso). É utilizada como um convite musical para que a Virgem Maria visite cada casa e abençoe o lar, pedindo por proteção especial à mãe da casa.
 
-No primeiro mistério luminoso, o batismo de Jesus é lembrado para convidar os fiéis a renovarem as promessas do batismo, reafirmando seu compromisso com Deus e renunciando ao pecado. A renovação das promessas do batismo é vista como uma oportunidade de fortalecer a fé e renovar a aliança com Cristo.
+**Noites traiçoeiras - Artista:** Contexto: Bênção do Casal na Visita de Nossa Senhora (7º Mistério Gozoso). O Frei instrui os casais a irem ao quarto ou abençoarem a porta, pedindo que Jesus traga "vinho novo" e destrua todo espírito de briga e desrespeito.
 
-## Versículos citados na transcrição
+**Bendita será tua casa - Artista:** Contexto: Benção dos Quarto Mistério Doloroso (Via Sacra). O canto é repetido para abençoar a sala, tornando-a um lugar de convivência fraterna, paz e dique onde Deus engrandeceria o nome da família.
 
-- João 19: <João a partir de agora ela é tua mãe.>
+**Bendita será tua casa - Artista:** Contexto: Quarto Mistério Doloroso (Jesus Carregando a Cruz). O Frei usa esta música para abençoar toda a parte externa do lar, incluindo jardins e veículos, pedindo proteção contra assaltos e perigos de trânsito.
 
-Ensinamentos: Frei Gilson utiliza este versículo para enfatizar a importância de Maria como mãe espiritual e protetora dos lares, pedindo que ela visite e abençoe as famílias.
+**Bendita será tua casa - Artista:** Contexto: Quarto Mistério Doloroso (Crucificação e Morte). O cântico é usado como inspiração para que as pessoas levem a cruz por suas casas, fazendo uma procissão silenciosa com ela e pedindo libertação de vícios e dependências.
 
-- Hebreus 13, 4: <Vós todos considerai o matrimônio com respeito e conservai o leito conjugal imaculado porque Deus julgará os impuros e adúlteros>
+**Acalma o meu coração - Artista:** Contexto: Momento Final/Momento da Paz após os ritos religiosos. O Frei convida todos à oração pela família e busca acalmar qualquer aflição, medo ou tempestade que agita o coração individual em meio ao caos do mundo.
 
-Ensinamentos: Este versículo é citado durante a bênção do quarto do casal, com o objetivo de reforçar a importância da fidelidade e do respeito no casamento, pedindo a Deus que afaste toda impureza e adultério do relacionamento.
+## 5. Eventos de agenda
+**Evento Especial em Brasília:** Dia 04/05 (Data mencionada no discurso), haverá um grande evento da comunidade Canção Nova com Frei Gilson no Pavilhão da Cidade. É recomendado que os inscritos sigam a organização para participar deste encontro.
 
-- Josué 24:15: <Quanto a mim e a minha casa serviremos ao Senhor>
+**Visita à África:** Em sua agenda, o Frei anunciou viagens de três dias: dia 26/04 (Angola) e dia 27/04 (Moçambique), realizando uma viagem pioneira ao continente africano.
 
-Ensinamentos: Frei Gilson usa este versículo para incentivar as famílias a se comprometerem a servir a Deus juntas, participando da missa aos domingos e buscando a santidade em todos os aspectos da vida familiar.
-
-- João 14: <Eu vou preparar uma casa>
-
-Ensinamentos: Este versículo é citado durante o segundo mistério glorioso, para lembrar que a verdadeira casa da família é no céu, incentivando os fiéis a buscarem a vida eterna e a se prepararem para a morada celestial.
-
-- Colossenses 3:3: <E agora vivem uma vida escondida com Cristo em Deus>
-
-Ensinamentos: Este versículo é citado durante o quinto mistério doloroso, para transmitir a ideia de que a vida dos mártires é um exemplo de fé e entrega a Deus, mesmo diante do sofrimento e da perseguição.
-
-- Primeira Pedro capítulo 5 versículo de 5-6: <Revestiv-vos de humildade em vosso múto tratamento porque Deus resiste aos soberbos mas dá sua graça aos humildes Humilhai-vos pois debaixo da poderosa mão de Deus para que ele vos exalte no tempo oportuno>
-
-Ensinamentos: A humildade é essencial para se aproximar de Deus e receber sua graça, e o silêncio é um caminho para cultivar a humildade e a confiança em Deus.
-
-- João 6, 56: <Quem come a minha carne e bebe meu sangue permanece em mim e eu nele>
-
-Ensinamentos: Frei Gilson usa este versículo para explicar o desejo de Jesus de ter permanência com os fiéis.
-
-- Ellastes 3 versículo 7: <Há tempo para calar e tempo para falar>
-
-Ensinamentos: A importância de saber discernir o momento certo para o silêncio e para a palavra, buscando a sabedoria divina para se expressar de forma adequada e eficaz.
-
-## Músicas
-
-- *Manda teus anjos*
-
-Ensinamentos: Esta música é cantada para invocar a presença dos anjos no lar, pedindo sua proteção e orientação.
-
-- *E vem cantando entre nós* - Maria de Deus Senhora da Paz
-
-Ensinamentos: Esta música é cantada para pedir a presença de Nossa Senhora no lar, buscando sua intercessão e proteção.
-
-- *Noite Feliz*
-
-Ensinamentos: Esta música é cantada para celebrar o nascimento de Jesus e acolhê-lo nos lares, reconhecendo-o como o centro da vida familiar.
-
-- *Tantas vezes vi meu pai chegar cansado*
-
-Ensinamentos: Esta música é cantada para abençoar os pais e fortalecer os laços familiares, valorizando a presença paterna no lar.
-
-- *Eu navegarei*
-
-Ensinamentos: Esta música é cantada durante a renovação das promessas do batismo, expressando o desejo de viver no Espírito Santo e adorar a Deus.
-
-- *Noites Traiçoeiras*
-
-Ensinamentos: Esta música é cantada durante a bênção do quarto do casal, pedindo a proteção divina para o relacionamento e a superação de dificuldades.
-
-- *Não este não pode ser teu fim*
-
-Ensinamentos: Esta música é cantada durante a bênção dos quartos, com o objetivo de transmitir uma mensagem de esperança e fé, afirmando que Deus tem um plano para cada um e que é possível superar os desafios.
-
-- *Bendita será tua casa*
-
-Ensinamentos: Esta música é cantada para abençoar cada cômodo do lar, proclamando a bênção de Deus sobre a casa e a família.
-
-- *O inimigo pode até tentar*
-
-Ensinamentos: Esta música é cantada durante a consagração da casa a Nossa Senhora, pedindo sua proteção e intercessão.
-
-- *Não quero interromper o teu silêncio ó Pai*
-
-Ensinamentos: Esta música é cantada para expressar a importância da oração e do silêncio para encontrar a paz e a direção divina.
-
-## Eventos de Agenda
-
-- **Show do Frei Gilson em Barretos** - 25 de agosto, 20:30 - Festa do Peão de Barretos
-
-Descrição: Show musical do Frei Gilson na Festa do Peão de Barretos. O horário foi alterado para 20:30 para facilitar a participação do público.
-
-- **Evento da Comunidade Canção Nova em Brasília** - 4 de maio - Pavilhão da cidade (local a confirmar)
-
-Descrição: Evento da Comunidade Canção Nova em Brasília, com a presença do Frei Gilson e outros membros da comunidade. É necessário se inscrever para participar.
-
-- **Viagem missionária para África (Angola e Moçambique)** - 26 e 27 de abril
-
-Descrição: Viagem missionária do Frei Gilson para Angola (26 de abril) e Moçambique (27 de abril).
+**Show em Barretos:** Dia 25/08 às 20h30, será realizado um show no evento do peão em Barretos. O horário foi ajustado de 19h30 para acomodar melhor a chegada dos participantes.

@@ -1,145 +1,160 @@
-# Relatório do Santo Rosário
+## 1. Temática principal
+A providência de Deus é o ensinamento central que permeia a celebração do Santo Rosário e suas reflexões subsequentes. O Frei Gilson enfatiza repetidamente que Deus é um Provedor ativo, cuida das necessidades físicas (saúde, alimentação, sustento) e materiais de seus filhos, manifestando Seu amor através dos cuidados diários. Seja na escassez do deserto ou nas dificuldades financeiras da vida moderna, o fiel deve confiar que "Deus vai fazer chover pão do alto do céu", garantindo a manutenção de sua jornada.
+
+Essa providência divina não se limita ao físico; ela abrange também a proteção contra os perigos e o apoio na superação dos desafios existenciais. O ensinamento convida o fiel a mudar sua perspectiva, passando de uma visão focada em suas preocupações e medos (o que é típico do "pagão") para um reconhecimento da fidelidade inabalável de Deus. Diante das dificuldades materiais – como processos parados na justiça ou contas apertadas –, a resposta bíblica é clara: não há nada que Deus não providencia para aqueles que O amam, desde que haja fé e confiança em Seu tempo perfeito.
+
+Além do cuidado material, o Frei aponta que a verdadeira riqueza está nos bens espirituais. A vida deve ser guiada pela entrega ao Reino de Deus, entendendo que os sofrimentos presentes nesta Terra têm um propósito redentor e purificador para levar à glória futura. Portanto, a providência divina é vista como uma jornada dupla: o cuidado com as necessidades materiais aqui e a certeza da plenitude na eternidade.
+
+## 2. Temáticas secundárias
+### O Combate às Trevas por Meio dos Anjos
+O início do Rosário foi dedicado à invocação e súplica aos Santos Anjos (São Miguel, São Gabriel e São Rafael), pedindo auxílio para a vida espiritual. Os ensinamentos focaram em buscar a humildade de coração, manter a fidelidade contínua à vontade de Deus, desenvolver a fortaleza no sofrimento e defender-se das "covardias" internas — como o egoísmo, a vaidade ou a tibieza. A intercessão dos anjos é fundamental para nos guiar na busca do caminho que conduz à vida.
+
+### O Sentido da Providência nas Necessidades Materiais
+Durante os Mistérios Gozos e Luminosos, o foco foi colocado em casos de necessidade e provisão divina. Foi ensinado que as situações difíceis ou períodos de escassez são provas feitas por Deus para testar nossa confiança e determinar se "andaremos segundo as Suas ordens". A palavra enfatiza que a providência não garante a ausência de dificuldades, mas sim o cuidado contínuo com cada dia do fiel.
+
+### O Desafio da Mentalidade Materialista
+Na reflexão pós-Rosário, foi alertado contra o apego excessivo aos bens materiais, a vaidade e a cobiça. O ensinamento bíblico (1 Tim 6:7) serve de base para questionar se somos verdadeiros donos do que possuímos ou meros administradores temporários. É necessário promover uma "limpeza espiritual" ao doar o excedente e olhar para os bens como algo que Deus confiou, nunca nos tornando escravos dele.
+
+### A Esperança na Eternidade
+A pregação subsequente (focada no Mistério Insondável do Silêncio de Deus) transmitiu a visão cristã de que todo sofrimento nesta Terra é temporário e possui um propósito redentor. O mistério não pode ser compreendido sem a chave da vida eterna, pois no céu "enxugará toda lágrima de seus olhos". A fé, portanto, deve residir na esperança dessa transformação futura e plenitude espiritual.
+
+## 3. Versículos da Bíblia
+(Mateus 6:26) Olhai as aves do céu não semeiam nem ceifam recolhem nos celeiros e vosso Pai celeste as alimenta Não valeis vós muito mais que elas
+**Ensinamentos:** O versículo é usado para ensinar que Deus cuida de todas as criaturas, especialmente o ser humano. Devemos reconhecer a Providência divina em todo o cuidado manifestado por Ele na vida de cada um.
+
+(Êxodo 16:4–) O Senhor disse a Moisés Vou fazer chover pão do alto do céu Sairá o povo e colherá diariamente a porção de cada dia Eu o porei desse modo à prova para ver se andará ou não segundo minhas ordens
+**Ensinamentos:** O ensinamento foca na providência diária. Deus assegura o sustento através de uma ação direta, mas também utiliza situações difíceis (o deserto) como forma de testar a fé e obediência do povo.
+
+(Deuteronômio 2:7–) Porque o Senhor teu Deus te abençoou em todas as tuas empresas e velou sobre ti durante a tua marcha através deste vasto deserto Eis já quarenta anos que o Senhor teu Deus está contigo e nada te faltou
+**Ensinamentos:** Este texto é aplicado para encorajar o fiel, lembrando que mesmo em "períodos de deserto" ou solidão na vida pessoal, Deus tem sido constante e nunca deixou a mão sobre Seus filhos.
+
+(Gênesis 22:14–) Abraão chamou a este lugar O Senhor proverá De onde se diz até o dia de hoje Sobre o monte de O Senhor proverá
+**Ensinamentos:** Utilizado para reforçar que Deus provê na hora certa, mas enfatiza que é preciso ter paciência e confiança em Seu tempo, não desistindo nem desanimando antes da bênção.
+
+(Primeira Reis 17:14–) Porque eis o que diz o Senhor Deus de Israel a farinha que está na panela não se acabará e a ânfora de azeite não se esvaziará até o dia em que o Senhor fizer chover sobre a face da terra
+**Ensinamentos:** Este ensinamento aplica-se à Providência divina, mostrando que Deus garante suprimentos essenciais mesmo diante de necessidades. Serve também como lição para quem doa: quando damos com o que temos (mesmo pouco), Deus nunca nos deixará faltar.
+
+(Primeira Reis 17:6–) Os corvos traziam-lhe pão e carne pela manhã e pela tarde e ele bebia a água da torrente
+**Ensinamentos:** Esta passagem demonstra como Deus cuida de Seus escolhidos através de meios inesperados, garantindo que Ele provê alimento tanto para as necessidades materiais quanto para os momentos espirituais.
+
+(Neemias 9:21–) Durante quarenta anos provestes as necessidades deles no deserto sem que nada lhes faltasse Suas vestes não se estragaram e nem seus pés incharam
+**Ensinamentos:** A mensagem principal é que Deus cuida dos detalhes de nossa vida, desde o sustento mais básico (roupas, alimentação) enquanto caminhamos em nosso percurso terreno.
+
+(Filipenses 4:19–) O meu Deus suprirá todas as vossas necessidades segundo a sua glória em Jesus Cristo
+**Ensinamentos:** Este versículo é apresentado como uma promessa de que Deus proverá magnificamente todas as carências do fiel, sendo Ele o provedor supremo.
+
+(Mateus 6:31–) Não vos aflijais nem digais Que comeremos? Que beberemos? Com que nos vestiremos?
+**Ensinamentos:** O ensinamento aqui é contra a ansiedade e a preocupação excessiva com o amanhã. Devemos confiar em Deus, pois Ele sabe exatamente do que precisamos.
+
+(Mateus 6:33–) Buscai em primeiro lugar o Reino de Deus e a sua justiça e todas estas coisas vos serão dadas em acréscimo
+**Ensinamentos:** Esta é a chave para entender como viver sob providência. Devemos priorizar buscar os valores do céu, pois, ao fazer isso, Deus garante que Suas necessidades materiais serão supridas adicionalmente.
+
+(Filipenses 4:19–) O meu Deus há de prover magnificamente a todas as vossas necessidades segundo a sua glória em Jesus Cristo
+**Ensinamentos:** Enfatiza a crença no provimento divino, pedindo que o fiel apresentem suas preocupações e apresentem suas necessidades ao Senhor, pois Ele é capaz de suprir tudo.
+
+(Primeira Reis 17:6–) Os corvos traziam-lhe pão e carne pela manhã e pela tarde e ele bebia a água da torrente
+**Ensinamentos:** Reforça o conceito de providência em meio à escassez, mostrando que Deus age através de caminhos inesperados para prover.
+
+(Primeira Reis 17:14–) Porque eis o que diz o Senhor Deus de Israel a farinha que está na panela não se acabará e a ânfora de azeite não se esvaziará até o dia em que o Senhor fizer chover sobre a face da terra
+**Ensinamentos:** A passagem é usada para ensinar que, mesmo quando parece faltar absolutamente tudo (farinha ou azeite), Deus garante que o suprimento será renovado.
+
+(Deuteronômio 2:7–) Porque o Senhor teu Deus te abençoou em todas as tuas empresas e velou sobre ti durante a tua marcha através deste vasto deserto Eis já quarenta anos que o Senhor teu Deus está contigo e nada te faltou
+**Ensinamentos:** Utilizado como uma declaração pessoal de fé, lembrando o fiel de que sua história com Deus até hoje tem sido marcada por Sua fidelidade.
+
+(2 Coríntios 9:10–) Aquele que dá a semente ao semeador e o pão para comer vos dará rica sementeira e aumentará os frutos da vossa justiça
+**Ensinamentos:** Este texto relaciona a Providência de Deus à nossa responsabilidade de sermos justos e ativos. Para receber fartura, precisamos semear em justiça.
+
+(1 Timóteo 6:7–) Porque nada trouxemos ao mundo como tampouco nada poderemos levar
+**Ensinamentos:** É um ensinamento sobre a transitoriedade dos bens materiais e o perigo de dar importância excessiva aos ganhos terrenos, incentivando a simplicidade.
+
+(1 Timóteo 6:8–) Tendo alimento e vestuário contentemo-nos com isso
+**Ensinamentos:** O chamado é para um viver em contentamento com o essencial ("o necessário"), sendo uma virtude espiritual contra a avareza.
+
+## 4. Músicas
+Não falo sozinho - Ramon e Rafael: Contexto na celebração do Rosário, cantaram esta música para transmitir a sensação de que nunca estamos sozinhos no caminho da fé, pois Jesus nos acompanha constantemente. O Frei disse que Ele ouve nossos passos, sentimos Seu fluir por nossa casa e não resolvemos nada por conta própria; tudo é contado ao nosso Jesus.
+
+Era só mais um dia difícil - Ramon e Rafael: Contexto usado para motivar a perseverança em meio à angústia e aos medos. O Frei afirmou que Deus tem coisas maravilhosas para fazer em nossas vidas, convidando o fiel a "subir no barco" com fé, pois Ele é quem nos guia.
+
+Meu barco - (Artista não especificado): Contexto de aplicação das dificuldades na vida cotidiana. Sobre esta canção, o Frei reflete que Deus está acalmando muitas tempestades e ordenando para que as questões agitadas em nossa vida encontrem a paz e a tranquilidade. O ensinamento é proclamar a confiança de que, estando com Ele, "o mar se acalmará".
+
+## 5. Eventos de agenda
+**Bênção da Casa - Amanhã (Dia seguinte à live)**: Será realizada uma bênção em todos os cômodos das casas. O Frei aconselhou os fiéis a se prepararem traendo objetos que representem seus bens e pertences. Ele fez questão de frisar que é preciso ter pontualidade, pois as orações são realizadas sequencialmente para cada cômodo. Para convencer os moradores da família, sugere-se fazer uma "comidinha" (bolinho, pãozinho) após a bênção, transformando o momento em algo agradável e familiar.
 
 ## Temática principal
+A providência de Deus é o ensinamento central que permeia a celebração do Santo Rosário e suas reflexões subsequentes. O Frei Gilson enfatiza que Deus é um Provedor ativo, cuida das necessidades físicas (saúde, alimentação, sustento) e materiais de seus filhos, manifestando Seu amor através dos cuidados diários. Seja na escassez do deserto ou nas dificuldades financeiras da vida moderna, o fiel deve confiar que "Deus vai fazer chover pão do alto do céu", garantindo a manutenção de sua jornada.
 
-A temática principal deste Santo Rosário é a providência divina em relação às necessidades materiais e espirituais dos fiéis. Frei Gilson, junto aos demais freis, conduz os fiéis em oração, intercalando os mistérios do Rosário com passagens bíblicas que ilustram como Deus sempre cuidou e continua a cuidar de seu povo, provendo o necessário em momentos de dificuldade e deserto.
+Essa providência divina não se limita ao físico; ela abrange também a proteção contra os perigos e o apoio na superação dos desafios existenciais. O ensinamento convida o fiel a mudar sua perspectiva, passando de uma visão focada em suas preocupações e medos (o que é típico do "pagão") para um reconhecimento da fidelidade inabalável de Deus. Diante das dificuldades materiais – como processos parados na justiça ou contas apertadas –, a resposta bíblica é clara: não há nada que Deus não providencia para aqueles que O amam, desde que haja fé e confiança em Seu tempo perfeito.
 
-O ensinamento central é que, apesar dos desafios e provações da vida, os fiéis devem confiar na providência de Deus, buscando em primeiro lugar o Reino de Deus e a Sua justiça, com a certeza de que todas as outras coisas lhes serão acrescentadas. A importância de não dar excessiva importância aos bens materiais, mas sim valorizar os bens espirituais e praticar a caridade, também é enfatizada.
+Além do cuidado material, o Frei aponta que a verdadeira riqueza está nos bens espirituais. A vida deve ser guiada pela entrega ao Reino de Deus, entendendo que os sofrimentos presentes nesta Terra têm um propósito redentor e purificador para levar à glória futura. Portanto, a providência divina é vista como uma jornada dupla: o cuidado com as necessidades materiais aqui e a certeza da plenitude na eternidade.
 
 ## Temáticas secundárias
+### O Combate às Trevas por Meio dos Anjos
+O início do Rosário foi dedicado à invocação e súplica aos Santos Anjos (São Miguel, São Gabriel e São Rafael), pedindo auxílio para a vida espiritual. Os ensinamentos focaram em buscar a humildade de coração, manter a fidelidade contínua à vontade de Deus, desenvolver a fortaleza no sofrimento e defender-se das "covardias" internas — como o egoísmo, a vaidade ou a tibieza. A intercessão dos anjos é fundamental para nos guiar na busca do caminho que conduz à vida.
 
-### A importância da fé e da confiança em Deus
+### O Sentido da Providência nas Necessidades Materiais
+Durante os Mistérios Gozos e Luminosos, o foco foi colocado em casos de necessidade e provisão divina. Foi ensinado que as situações difíceis ou períodos de escassez são provas feitas por Deus para testar nossa confiança e determinar se "andaremos segundo Suas ordens". A palavra enfatiza que a providência não garante a ausência de dificuldades, mas sim o cuidado contínuo com cada dia do fiel.
 
-A fé é apresentada como um alicerce fundamental para superar os momentos de dificuldade e provação. Frei Gilson enfatiza que, mesmo quando as circunstâncias são adversas, a fé em Deus e em Sua providência permite aos fiéis manterem a esperança e a certeza de que Ele está cuidando deles.
+### O Desafio da Mentalidade Materialista
+Na reflexão pós-Rosário, foi alertado contra o apego excessivo aos bens materiais, a vaidade e a cobiça. O ensinamento bíblico (1 Tim 6:7) serve de base para questionar se somos verdadeiros donos do que possuímos ou meros administradores temporários. É necessário promover uma "limpeza espiritual" ao doar o excedente e olhar para os bens como algo que Deus confiou, nunca nos tornando escravos dele.
 
-### A necessidade de viver sem avareza e com contentamento
+### A Esperança na Eternidade
+A pregação subsequente (focada no Mistério Insondável do Silêncio de Deus) transmitiu a visão cristã de que todo sofrimento nesta Terra é temporário e possui um propósito redentor para levar à glória futura. O mistério não pode ser compreendido sem a chave da vida eterna, pois no céu "enxugará toda lágrima de seus olhos". A fé, portanto, deve residir na esperança dessa transformação futura e plenitude espiritual.
 
-Frei Gilson exorta os fiéis a viverem sem avareza, ou seja, sem um amor desordenado ao dinheiro e aos bens materiais. Ele os convida a se contentarem com o que têm, reconhecendo que tudo o que possuem é um dom de Deus e que o mais importante é buscar os bens espirituais.
+## 3. Versículos da Bíblia
+(Salmo 23): Não há transcrição integral fornecida para este salmo conhecido durante o Rosário.
+**Ensinamentos:** O Frei convida a abrir a Bíblia neste mistério, usando-o como ponto de partida para rezar pela providência de Deus em nossas necessidades materiais e conduzido pelo Senhor como pastor.
 
-### A importância da oração e da súplica a Deus
+(Deuteronômio 2:7–) Porque o Senhor teu Deus te abençoou em todas as tuas empresas e velou sobre ti durante a tua marcha através deste vasto deserto Eis já quarenta anos que o Senhor teu Deus está contigo e nada te faltou
+**Ensinamentos:** É utilizado para encorajar o fiel, lembrando-o de que Deus tem cuidado de seus caminhos até hoje.
 
-A oração é apresentada como um meio essencial para os fiéis se conectarem com Deus e apresentarem a Ele suas necessidades e preocupações. Frei Gilson incentiva os fiéis a orarem com fé e confiança, sabendo que Deus é um Pai amoroso que os ouve e que provê o necessário em Seu tempo.
+(Êxodo 16:4–) O Senhor disse a Moisés Vou fazer chover pão do alto do céu Sairá o povo e colherá diariamente a porção de cada dia Eu o porei desse modo à prova para ver se andará ou não segundo minhas ordens
+**Ensinamentos:** A mensagem central é sobre a providência diária. Deus assegura o sustento através de uma ação direta, mas utiliza situações difíceis (o deserto) como forma de testar a fé e obediência do povo.
 
-### O valor do sofrimento e da provação na vida cristã
+(Gênesis 22:14–) Abraão chamou a este lugar O Senhor proverá De onde se diz até o dia de hoje Sobre o monte de O Senhor proverá
+**Ensinamentos:** Este texto é usado para reforçar que Deus provê na hora certa, mas enfatiza que precisamos ter paciência e confiança em Seu tempo.
 
-O sofrimento e a provação são apresentados como elementos que podem contribuir para o crescimento espiritual e a santificação dos fiéis. Frei Gilson explica que, quando unidos a Cristo, o sofrimento pode se tornar redentor e purificador, fortalecendo a fé e a esperança na vida eterna.
+(Primeira Reis 17:14–) Porque eis o que diz o Senhor Deus de Israel a farinha que está na panela não se acabará e a ânfora de azeite não se esvaziará até o dia em que o Senhor fizer chover sobre a face da terra
+**Ensinamentos:** A passagem é usada para ensinar que, mesmo quando parece faltar absolutamente tudo (farinha ou azeite), Deus garante que o suprimento será renovado.
 
-### A importância da caridade e da partilha com os necessitados
+(Primeira Reis 17:6–) Os corvos traziam-lhe pão e carne pela manhã e pela tarde e ele bebia a água da torrente
+**Ensinamentos:** Demonstra como Deus cuida de Seus escolhidos através de meios inesperados, garantindo que Ele provê alimento tanto para as necessidades materiais quanto para os momentos espirituais.
 
-A caridade e a partilha com os necessitados são apresentadas como expressões concretas do amor a Deus e ao próximo. Frei Gilson exorta os fiéis a não serem indiferentes à pobreza e ao sofrimento dos outros, mas a praticarem a caridade, doando o que possuem e ajudando aqueles que mais precisam.
+(Neemias 9:21–) Durante quarenta anos provestes as necessidades deles no deserto sem que nada lhes faltasse Suas vestes não se estragaram e nem seus pés incharam
+**Ensinamentos:** A mensagem principal é que Deus cuida dos detalhes de nossa vida, desde o sustento mais básico (roupas, alimentação) enquanto caminhamos em nosso percurso terreno.
 
-## Versículos citados na transcrição
+(Primeira Reis 17:6–) Os corvos traziam-lhe pão e carne pela manhã e pela tarde e ele bebia a água da torrente
+**Ensinamentos:** Reforça o conceito de providência em meio à escassez, mostrando que Deus age através de caminhos inesperados para prover.
 
-- (Livro do Apocalipse, 21, 4): Ele enxugará toda lágrima de seus olhos, e não haverá mais morte, nem pranto, nem clamor, nem dor, pois as primeiras coisas já passaram.
+(Mateus 6:26–) Olhai as aves do céu não semeiam nem ceifam recolhem nos celeiros e vosso Pai celeste as alimenta Não valeis vós muito mais que elas
+**Ensinamentos:** Utilizado para ensinar que Deus cuida de todas as criaturas, especialmente o ser humano. Devemos reconhecer a Providência divina em todo o cuidado manifestado por Ele na vida.
 
-Ensinamentos: Este versículo traz a certeza de que todo o sofrimento vai acabar. O cristão tem uma esperança de que todo o sofrimento vai acabar. A chave para compreender os planos de Deus é a vida eterna.
+(Mateus 6:31–) Não vos aflijais nem digais Que comeremos? Que beberemos? Com que nos vestiremos?
+**Ensinamentos:** O ensinamento aqui é contra a ansiedade e a preocupação excessiva com o amanhã, incentivando a confiança na providência de Deus.
 
-- (Romanos, 8, 18): Tenho para mim que os sofrimentos da presente vida não têm proporção alguma com a glória futura que nos deve ser manifestada.
+(Mateus 6:33–) Buscai em primeiro lugar o Reino de Deus e a sua justiça e todas estas coisas vos serão dadas em acréscimo
+**Ensinamentos:** Esta é a chave para entender como viver sob providência: devemos priorizar buscar os valores do céu, pois, ao fazer isso, Deus garante que Suas necessidades materiais serão supridas adicionalmente.
 
-Ensinamentos: O cristão vive nessa certeza de que o sofrimento do tempo presente não tem comparação com o que eu vou viver na eternidade. O sofrimento começa a fazer sentido.
+(Filipenses 4:19–) O meu Deus há de prover magnificamente a todas as vossas necessidades segundo a sua glória em Jesus Cristo
+**Ensinamentos:** É apresentado como uma promessa de que Deus provê magnificamente, sendo o Provedor supremo e capaz de suprir tudo.
 
-- (Romanos, 8, 28): Aliás, sabemos que todas as coisas concorrem para o bem daqueles que amam a Deus, daqueles que são os eleitos, segundo os seus desígnios.
+(Primeira Reis 17:6–) Os corvos traziam-lhe pão e carne pela manhã e pela tarde e ele bebia a água da torrente
+**Ensinamentos:** Reforça o conceito de providência em meio à escassez, mostrando que Deus age através de caminhos inesperados para prover.
 
-Ensinamentos: As piores coisas chegam ao fim quando passamos para o reino de Deus.
+(Deuteronômio 2:7–) Porque o Senhor teu Deus te abençoou em todas as tuas empresas e velou sobre ti durante a tua marcha através deste vasto deserto Eis já quarenta anos que o Senhor teu Deus está contigo e nada te faltou
+**Ensinamentos:** É usado como uma declaração pessoal de fé, lembrando o fiel de que sua história com Deus tem sido marcada por Sua fidelidade.
 
-- (Mateus, 5, 6): Bem-aventurados os que têm fome e sede de justiça, porque serão saciados.
+(Mateus 6:31–) Não vos aflijais nem digais Que comeremos? Que beberemos? Com que nos vestiremos?
+**Ensinamentos:** Este ensinamento foca em evitar a ansiedade e a preocupação excessiva com o futuro, incentivando a confiança na Providência de Deus.
 
-Ensinamentos: Se você tem fome e sede de justiça você será saciado completamente de justiça na eternidade.
+## 4. Músicas
+Não falo sozinho - Ramon e Rafael: Contexto na celebração do Rosário, cantaram esta música para transmitir a sensação de que nunca estamos sozinhos no caminho da fé. O Frei disse que Jesus ouve nossos passos, Seu fluir está por nossa casa e contamos tudo a Ele; não agimos por nós mesmos.
 
-- (Segunda Carta de Pedro, 3, 8): Mas há uma coisa, caríssimos, de que não vos deveis esquecer: um dia diante do Senhor é como mil anos e mil anos como um dia.
+Era só mais um dia difícil - Ramon e Rafael: Contexto usado para motivar a perseverança em meio à angústia e aos medos. O Frei afirma que Deus tem coisas maravilhosas para fazer na vida, convidando o fiel a "subir no barco" com fé, pois Ele é quem nos guia através das tempestades da vida.
 
-Ensinamentos: O tempo de Deus não é o nosso, não está preso ao tempo. A gente não compreende o tempo de Deus.
+Meu barco - (Artista não especificado): Contexto de aplicação das dificuldades na vida cotidiana. Sobre esta canção, o Frei reflete que Deus está acalmando muitas tempestades e ordenando para que as questões agitadas encontrem a paz. O ensinamento é proclamar a confiança de que, estando com Ele, "o mar se acalmará".
 
-- (Apocalipse, 7, 13-14): Então, um dos anciãos falou comigo e perguntou-me: "Esses que estão revestidos de vestes brancas, quem são e de onde vêm?" Respondi-lhe: "Meu Senhor, tu o sabes". E ele me disse: "Esses são os sobreviventes da grande tribulação. Lavaram as suas vestes e as alvejaram no sangue do Cordeiro."
+## 5. Eventos de agenda
+**Bênção da Casa - Amanhã (Dia seguinte à live)**: Será realizada uma bênção em todos os cômodos das casas. O Frei orientou que este será um momento especial para a família, e aconselhou a ser pontual na chegada para não perder as orações específicas dedicadas aos diferentes ambientes. Para facilitar a participação de todos, sugeriu levar uma comidinha após o Rosário, criando um ambiente familiar e agradável para unir os membros da casa durante a bênção do imóvel.
 
-Ensinamentos: Esta terra é de tribulação. No mundo vocês terão aflições. Coragem, eu venci o mundo. Quem são esses que conseguiram chegar ao céu? Esses são os sobreviventes da grande tribulação.
-
-- (Marcos, 10, 29-30): Respondeu-lhe Jesus: "Em verdade vos digo, ninguém há que tenha deixado casa, ou irmãos, ou irmãs, pai, mãe, filhos ou terras por causa de mim e do evangelho, que não receba já neste século cem vezes mais casas, irmãos, irmãs, mães, filhos e terras com perseguições, e no século vindouro a vida eterna."
-
-Ensinamentos: Jesus promete felicidade terrena, mas com perseguições. Não existe felicidade nessa terra sem dificuldade.
-
-- (Mateus, 7, 11): Se vós, pois, que sois maus, sabeis dar boas coisas a vossos filhos, quanto mais vosso Pai celeste dará boas coisas aos que lhe pedirem.
-
-Ensinamentos: Deus é o nosso Pai, Ele é o nosso pai. E por isso eu posso ter confiança quando eu faço o meu pedido, quando eu faço a minha súplica, quando olho para as minhas necessidades e apresento diante do Senhor, pois ele é nosso Pai providente que cuida de nós e que nos ama.
-
-- (Primeira Carta aos Coríntios, 6, 7-8): Porque nada trouxemos ao mundo, como tampouco nada poderemos levar. Tendo alimento e vestuário, contentemo-nos com isso.
-
-Ensinamentos: Cuidado para não dar a importância demais a bens materiais. Você não trouxe nada e você não vai levar nada. Cuidemos para que demos importância exagerada aos bens materiais. Contentemo-nos com o necessário.
-
-- (Hebreus, 13, 5): Vivei sem avareza, contentai-vos com o que tendes, pois Deus mesmo disse: "Não te deixarei nem desampararei."
-
-Ensinamentos: Não podemos amar o dinheiro, ser escravo do dinheiro. O desejo desordenado por coisas materiais sufoca a alma, atrapalha a visão espiritual. Deus não vai deixar faltar nada para você.
-
-- (Mateus, 7, 11): Se vós, pois, que sois maus, sabeis dar boas coisas a vossos filhos, quanto mais vosso Pai celeste dará boas coisas aos que lhe pedirem!
-
-Ensinamentos: Deus é um Pai que cuida e providencia. Temos que ter essa certeza na oração e no diálogo com Deus.
-
-- (Primeira Carta de Pedro, 1, 8): Esse Jesus, vós o amais sem o terdes visto, credes nele sem o verdes ainda, e isto é para vós a fonte de uma alegria inefável e gloriosa, porque vós estais certos de obter, como preço da vossa fé, a salvação de vossas almas.
-
-Ensinamentos: Eu não vejo Deus, mas eu amo. Eu não compreendo o mistério, mas eu creio.
-
-- (Segunda Carta aos Coríntios, 9, 10): Aquele que dá a semente ao semeador e o pão para comer vos dará rica sementeira e aumentará os frutos da vossa justiça.
-
-Ensinamentos: Deus é aquele que multiplica.
-
-- (Primeira Carta a Timóteo, 6, 7): Porque nada trouxemos ao mundo, como tampouco nada poderemos levar.
-
-Ensinamentos: O propósito do dia é olhar na sua casa tudo que você tem de supérfluo, aquilo que você não precisa e você vai doar essas coisas.
-
-- (João, 15, 20-21): Lembrai-vos da palavra que vos disse: O servo não é maior do que seu senhor. Se me perseguiram, também vos hão de perseguir. Se guardaram a minha palavra, hão de guardar também a vós.
-
-Ensinamentos: Quando a fé cristã é perseguida, ela torna-se mais forte.
-
-- (Romanos, 5, 12): Por isso, como por um só homem entrou o pecado no mundo, e pelo pecado a morte, assim a morte passou a todo o gênero humano, porque todos pecaram.
-
-Ensinamentos: Em Adão e Eva, todos nós morremos.
-
-- (Romanos, 3, 23): Nascemos privados da glória de Deus.
-
-Ensinamentos: Nascemos privados da glória de Deus.
-
-- (João, 3, 16): De fato, Deus amou tanto o mundo, que deu o seu Filho único, para que todo o que nele crer não pereça, mas tenha a vida eterna.
-
-Ensinamentos: Deus amou o mundo e enviou seu filho para que todo o que nele crê tenha a vida eterna.
-
-- (João, 3, 17): Pois Deus enviou o seu Filho ao mundo, não para condenar o mundo, mas para que o mundo seja salvo por ele.
-
-Ensinamentos: Jesus não veio para condenar o mundo, mas para que o mundo seja salvo por ele.
-
-- (Romanos, 10, 17): Logo, a fé provém da pregação, e a pregação se exerce em razão da palavra de Cristo.
-
-Ensinamentos: A fé provém da pregação e a pregação se exerce em razão da palavra de Cristo.
-
-- (Hebreus, 11, 1): A fé é o fundamento da esperança, é uma certeza a respeito do que não se vê.
-
-Ensinamentos: A fé é o fundamento da esperança, é uma certeza a respeito do que não se vê.
-
-- (Eclesiástico, 2, 1-5): Meu filho, se entrares para o serviço de Deus, permanece firme na justiça e no temor, prepara a tua alma para a provação. Humilha teu coração, espera com paciência, dá ouvidos e acolhe as palavras de sabedoria. Não te perturbes no tempo da infelicidade, sofre as demoras de Deus, dedica-te a Deus, espera com paciência, a fim de que, no derradeiro momento, tua vida se enriqueça. Aceita tudo o que te acontecer, na dor permanece firme, na humilhação tem paciência, pois é pelo fogo que se experimentam o ouro e a prata, e os homens agradáveis a Deus, pelo cadinho da humilhação.
-
-Ensinamentos: É pelo fogo que se experimentam o ouro e a prata, e os homens agradáveis a Deus, pelo cadinho da humilhação.
-
-## Músicas
-
-```
-Eu não falo sozinho - Não informado
-Descrição do ensinamento: A música reforça a ideia de que os fiéis nunca estão sozinhos, pois sempre podem contar com a presença e o auxílio de Jesus.
-```
-
-```
-Por que temer - Não informado
-Descrição do ensinamento: A música transmite a mensagem de que, mesmo em meio às dificuldades e tempestades da vida, os fiéis não devem temer, pois Jesus está presente para acalmar o mar e trazer a tranquilidade.
-```
-
-```
-Você vai chegar - Não Informado
-Descrição do ensinamento: A música fala sobre a importância de não desistir diante das dificuldades e de confiar que, com a ajuda de Deus, os fiéis alcançarão os seus objetivos e o lugar que Ele lhes prometeu.
-```
-
-```
-Meu Barco - Não Informado
-Descrição do ensinamento: A música fala sobre a importância de confiar em Deus nos momentos de dificuldade, pois Ele acalmará as tempestades e guiará os fiéis em segurança.
-```
-
-## Eventos de Agenda
-
-Não há eventos de agenda citados na transcrição.
+## 6. Proposta do dia
+**Propósito (Limpeza Espiritual)**: O Frei recomendou que se olhe na casa tudo o que é supérfluo ou desnecessário e que esse excesso seja usado para doar aos necessitados, promovendo uma limpeza espiritual em cada lar antes da bênção das propriedades.

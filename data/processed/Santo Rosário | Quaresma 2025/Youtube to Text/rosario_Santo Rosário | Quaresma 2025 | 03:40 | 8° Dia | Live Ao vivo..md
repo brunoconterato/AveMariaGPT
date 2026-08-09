@@ -1,110 +1,46 @@
-# Relatório do Santo Rosário
+## 1 Temática principal
+A temática central do Rosário de Quaresma é o encontro da fé em meio ao sofrimento, enfatizando que Jesus é o Pai amoroso e o Salvador que está constantemente presente. O Frei Gilson ensina que a oração não é um mero exercício formal, mas um processo profundo de interioridade onde se busca viver a verdadeira comunhão com Deus e buscar a santidade através da conversão pessoal. Os mistérios são apresentados como reflexões sobre as etapas da vida de Cristo que nos convidam a adotar posturas específicas—seja aceitando a nossa realidade ou oferecendo a nossa dor em troca da cura alheia.
 
-## Temática principal
+O Rosário é, fundamentalmente, uma jornada para encontrar uma "família" de fé onde o Espírito Santo e a alegria de Deus se manifestam (como no encontro dos Amigos de Deus). É um chamado para que os fiéis abracem essa família espiritual e utilizem suas orações como arma contra as forças das trevas.
 
-A temática principal do Santo Rosário do dia 8 da Quaresma de 2025 é a importância da oração e da fé em Deus, especialmente em momentos de dificuldade. Durante a reza do Rosário, Frei Gilson e Dom José Negre enfatizam que Deus está sempre pronto a ouvir e atender as preces de seus filhos, e que a fé em Jesus Cristo é o caminho para a salvação e a vida eterna.
+Em suma, o Rosário é o caminho da entrega total: primeiro ao amor do Pai, depois através da cruz em Cristo, e finalmente no silêncio contemplativo, pois é ali que a essência de Deus se revela e onde deixamos de lado nosso orgulho e egoísmo para sermos verdadeiramente preenchidos por Ele.
 
-Além disso, a temática da família também é muito presente, com a importância de colocar Deus no centro do lar e de rezar uns pelos outros, especialmente por aqueles que estão afastados da fé.
+## 2 Temáticas secundárias
 
-## Temáticas secundárias
+**A Família como Prioridade Espiritual**
+O Frei destaca que o Rosário deve ser uma experiência familiar, um encontro comunitário de fé. É crucial que a família esteja unida em Cristo; quem reza o Rosário representa toda a sua casa e recebe as bênçãos para todos. O Rosário é apresentado como o meio pelo qual os lares podem se renovar e encontrar propósito divino mesmo diante das dificuldades cotidianas, lembrando que Deus coloca Jesus no centro de todo lar.
 
-### A importância da Virgem Maria
+**O Sofrimento como Caminho da Cura Alheia**
+Nos mistérios dolorosos, a dor de Cristo não é apenas um evento histórico, mas uma resposta divina ao nosso sofrimento. O Frei enfatiza que as chagas e os flagelos de Jesus foram suportados em nossa condição de pecadores e devem ser contemplados para sermos curados. Seu sofrimento se torna o remédio e a cura para muitas vidas, servindo como um exemplo supremo de compaixão redentora.
 
-A figura de Maria é central no Santo Rosário, sendo lembrada como intercessora e mãe de todos os fiéis. Frei Gilson e Dom José Negre destacam a importância de recorrer a Maria em momentos de dificuldade, confiando em sua intercessão junto a Jesus Cristo. Maria é apresentada como modelo de fé, humildade e obediência a Deus.
+**A Importância do Silêncio Contemplativo (Interioridade)**
+Uma parte fundamental da espiritualidade abordada é o silêncio, que deve ser entendido como uma condição necessária para amar verdadeiramente e se conectar com Deus. Este não é um isolamento egoísta ou narcisista, mas sim um recolhimento interior (*deserto interior*) para ouvir a voz de Deus e se voltar inteiramente para Ele e para os irmãos. O silêncio desvazia nossos egos para que Deus possa preencher o vazio.
 
-### A conversão e o perdão dos pecados
+**O Amor que Transcende ao Inimigo**
+Referenciando o mistério da Eucaristia, é ensinado que o maior ato de amor de Jesus não foi apenas por aqueles que O amavam, mas também pelos Seus inimigos (como Judas). O Rosário nos convoca a imitar esse gesto extremo de doação, pedindo ajuda para amar aqueles que nos causam mal ou tentam destruir nossa fé.
 
-A temática da conversão é abordada em diversos momentos do Rosário, com o convite a reconhecer os próprios pecados e a buscar o perdão de Deus. Frei Gilson e Dom José Negre enfatizam a importância da Quaresma como tempo de penitência e de mudança de vida, buscando a santidade e a união com Deus.
+**A Ordem e Santidade do Lar**
+O palestrante dedica grande atenção à sacralidade do ambiente doméstico. Casa deve ser um templo de Deus, livre da idolatria e das influências mundanas e barulhentas (entre entretenimento excessivo e ruído). O quarto, em particular, é convocado a ser um espaço de intimidade com Cristo, onde se pode buscar o recolhimento silencioso para viver a verdadeira oração.
 
-### A importância da oração em comunidade
+## 3 Versículos da Bíblia
+(1 São João 4, versículo 7-8): Caríssimos, amemo-nos uns aos outros, porque o amor vem de Deus, e todo o que ama é nascido de Deus e conhece a Deus; aquele que não ama não conhece a Deus, porque Deus é Amor. **Ensinamentos:** O amor mútuos entre irmãos é um sinal claro do conhecimento e da presença de Deus em nós; amar quem vemos prova que realmente amamos a Deus.
 
-O Santo Rosário é apresentado como um momento de união e de comunhão entre os fiéis, que se reúnem para rezar e louvar a Deus. Frei Gilson e Dom José Negre destacam a importância de rezar uns pelos outros, especialmente pelos doentes, pelos que sofrem e pelos que estão afastados da fé.
+(1 São João 4, versículo 20-21): Se alguém disser: “Amo a Deus”, mas odeia seu irmão, é mentiroso. Porque aquele que não ama seu irmão, a quem vê, é incapaz de amar a Deus, a quem não vê. Temos de Deus este mandamento: o que amar a Deus, ame também a seu irmão. **Ensinamentos:** O amor por Deus só se concretiza através do respeito e da caridade pelos irmãos; sem amor ao próximo, dizer que amamos a Deus é uma falsidade.
 
-### A importância da Eucaristia
+(Filipenses 4, versículo 6): Não vos inquieteis com nada! Em todas as circunstâncias apresentai a Deus as vossas preocupações, mediante a oração, as súplicas e a ação de graças. **Ensinamentos:** Devemos usar o silêncio como ferramenta para não nos inquietarmos; em vez de focar nas angústias mundanas, devemos colocá-las diante de Deus através da súplica e gratidão.
 
-A Eucaristia é apresentada como o maior dom de Deus para a humanidade, sendo o sacramento da presença real de Jesus Cristo entre os fiéis. Frei Gilson e Dom José Negre enfatizam a importância de participar da Eucaristia com fé e devoção, buscando a união com Cristo e a renovação da vida espiritual.
+(Hebreus 4, versículo 12): Porque a Palavra de Deus é viva, eficaz, mais penetrante do que uma espada de dois gumes e atinge até a divisão da alma e do corpo, das juntas e medulas, e discerne os pensamentos e intenções do coração. **Ensinamentos:** A Bíblia age como um diagnóstico espiritual profundo; ela não apenas informa, mas consegue identificar se nossos motivos internos estão alinhados com Deus ou se estamos presos ao egoísmo/falsos ídolos.
 
-### A importância de amar os inimigos
+(Gênesis 3, versículo 15): Porei ódio entre ti e a mulher, entre a tua descendência e a dela. Esta te ferirá a cabeça, e tu lhe ferirás o calcanhar”. **Ensinamentos:** Este é um ensinamento sobre a promessa de salvação (protoevangelho), indicando que Deus plantou no ser humano a possibilidade da cura através do sacrifício futuro.
 
-Durante o quinto mistério luminoso, Frei Gilson destaca a importância de amar os inimigos, inspirando-se no exemplo de Jesus Cristo, que se ajoelhou diante de Judas, mesmo sabendo que este o trairia. Amar os inimigos é um gesto extremo de doação e de transformação do mundo.
+(Mateus 6, versículo 6): Quando orares, entra no teu quarto, fecha a porta e ora ao teu Pai em segredo; e teu Pai, que vê num lugar oculto, te recompensará. **Ensinamentos:** A oração deve ter um espaço de privacidade ("silêncio") para se conectar verdadeiramente com Deus, pois somente no recolhimento sincero Ele nos recompensa.
 
-## Versículos citados na transcrição
+(Êxodo 34, versículo 29-35): Moisés desceu do monte Sinai, tendo nas mãos as duas tábuas da lei. Descendo do monte, Moisés não sabia que a pele de seu rosto se tornara brilhante, durante a sua conversa com o Senhor. E, tendo-o visto Aarão e todos os israelitas, notaram que a pele de seu rosto se tornara brilhante e não ousaram aproximar-se dele. Mas ele os chamou, e Aarão com todos os chefes da assembleia voltaram para junto dele, e ele se entreteve com eles. Aproximaram-se, em seguida, todos os israelitas, a quem ele transmitiu as ordens que tinha recebido do Senhor no monte Sinai. Tendo Moisés acabado de falar, pôs um véu no seu rosto. Mas, entrando Moisés diante do Senhor para falar com ele, tirava o véu até sair. E, saindo, transmitia aos israelitas as ordens recebidas. Estes viam irradiar a pele de seu rosto; em seguida, Moisés recolocava o véu no seu rosto até a próxima entrevista com o Senhor. **Ensinamentos:** A presença real de Deus tem um impacto visível e transformador (iluminação) no ser humano que O encontra; mais tempo conversando com Ele, mais Ele nos faz refletir Seu esplendor.
 
-- João 15, 13: Não há maior amor do que dar a vida por quem amamos.
+## 4 Músicas
+Quão Grande És Tu - Artista: contexto da meditação sobre a criação divina durante o serviço/missa de encerramento. Foi usada para inspirar gratidão e louvor pelas maravilhas criadas por Deus, como montanhas, vales, matas e florestas.
 
-Ensinamentos: O Silêncio do amor é o termo e o ponto de chegada de quem concedeu ao silêncio o primeiro lugar em sua vida, isso sobrevém como recompensa para quem conseguiu silenciar as antipatias, as paixões e as fúrias do seu coração.
-
-- Primeira Coríntios 6, 19: Ou não sabeis que o vosso corpo é templo do Espírito Santo que habita em Vós o qual recebestes de Deus e que por isso mesmo já não vos pertenceis.
-
-Ensinamentos: Deus habita em você, porque o espírito santo é Deus, então Deus habita em você.
-
-- Primeira João 4, 7-21:
-    ```
-    Caríssimos, amemo-nos uns aos outros, porque o amor vem de Deus e todo que ama é nascido de Deus e conhece a Deus. Aquele que não ama não conhece a Deus, porque Deus é Amor. Nisto se manifestou o amor de Deus para conosco: em nos ter enviado ao mundo seu Filho único, para que vivamos por ele. Nisto consiste o amor: não em termos nós amado a Deus, mas em ter-nos ele amado e enviado o seu Filho para espiar os nossos pecados. Caríssimos, se Deus assim nos amou, também nós nos devemos amar uns aos outros. Ninguém jamais viu a Deus. Se nos amamos mutuamente, Deus permanece em nós e seu amor em nós é perfeito. Nisto é que conhecemos que estamos nele e ele em nós, por ele nos ter dado o seu Espírito. E nós vimos e testemunhamos que o Pai enviou seu Filho como salvador do mundo. Todo aquele que proclama que Jesus é o Filho de Deus, Deus permanece nele, e ele em Deus. Nós conhecemos e cremos no amor que Deus tem para conosco. Deus é amor e quem permanece no amor permanece em Deus, e Deus nele. Essa palavra faz todo sentido para o contexto que eu estou trazendo hoje, o amor O silêncio não pode ser egoísta O silêncio não pode ser narcisista a palavra de Deus tá deixando Clara Deus está em mim, então eu, esse silêncio precisa me abrir para Deus e me abrir para o outro. Nisto é perfeito em nós o amor que tenhamos confiança no dia do julgamento, pois como ele é, assim também nós o somos neste mundo. No amor não há temor, antes o perfeito amor lança fora o temor, porque o temor envolve castigo e quem teme não é perfeito no amor. Nós amamos porque Deus nos amou primeiro. E aí termina se alguém disser ama a Deus mas odeia seu irmão é mentiroso, porque aquele que não ama seu irmão a quem vê é incapaz de amar a Deus a quem não vê, temos de Deus este Mandamento o que amar a Deus ame também a seu irmão.
-    ```
-
-Ensinamentos: O silêncio Exige uma disponibilidade absoluta diante da vontade de Deus, devemos nos voltar inteiramente para Deus e para os irmãos.
-
-- Êxodo 34, 29-35: Moisés desceu do monte Sinai, tendo nas mãos as duas tábuas da lei. Descendo do monte, Moisés não sabia que a pele de seu rosto se tornara brilhante durante a sua conversa com o Senhor. Araão e todos os israelitas notaram que a pele de seu rosto se tornara brilhante e não ousaram aproximar-se dele. Mas ele o chamou e Araão com todos os chefes da assembleia voltaram para junto dele e ele se entreteve com eles. Aproximaram-se em seguida todos os israelitas a quem ele transmitia as ordens que tinha recebido do Senhor no monte Sinai. Tendo Moisés acabado de falar, pôs um véu no seu rosto. Mas entrando Moisés diante do Senhor para falar com ele, tirava o véu até sair e saindo transmitia aos israelitas as ordens recebidas. Estes viam irradiar a pele de seu rosto e em seguida Moisés recolocava o véu no seu rosto até a próxima entrevista com o Senhor.
-
-Ensinamentos: Quanto mais vazios de si, mais repletos de Deus. Quanto mais conversam com Deus Face a Face, mais os seus rostos irradiam a luz e o esplendor de Deus.
-
-- Mateus 10, 16: Eis que vos envio como ovelhas no meio de lobos; sede, pois, prudentes como as serpentes e simples como as pombas.
-
-Ensinamentos: Deus é simples e pede para nós simplicidade.
-
-- Efésios 1, 3-11:
-    ```
-    Bendito seja Deus, Pai de Nosso Senhor Jesus Cristo, que do alto do céu nos abençoou com toda a bênção espiritual e nos escolheu nele antes da criação do mundo para sermos Santos e irrepreensíveis diante de seus olhos. No seu amor nos predestinou para sermos adotados como filhos seus por Jesus Cristo, segundo o Beneplácito de sua livre vontade, para fazer resplandecer sua maravilhosa graça, que nos foi concedida por ele no bem amado. Nesse filho, pelo seu sangue, temos a redenção, a remissão dos pecados segundo as riquezas da sua graça, que derramou profusamente sobre nós Em torrentes de Sabedoria e de prudência. Nele é que fomos escolhidos predestinados segundo o desígnio daquele que tudo realiza por um ato deliberado de sua vontade, para servirmos a celebração de sua glória, nós que desde o começo voltamos nossas esperanças para Cristo.
-    ```
-
-Ensinamentos: A sua essência é Deus, a sua essência é Deus.
-
-- Primeira João 2, 15: Não ameis o mundo e nem as coisas do mundo. Se alguém ama o mundo, não está nele o amor do pai.
-
-Ensinamentos: Você foge do amor do pai, porque tudo que há no mundo a concupiscência da Carne, a concupiscência dos olhos, a soberba da vida não procede do pai, mas no mundo.
-
-- Mateus 28, 20: Eis que estou convosco todos os dias até o fim do mundo.
-
-Ensinamentos: Jesus não mentiu, Jesus não pode mentir.
-
-- Efésios 6, 12: Pois não é contra homens de carne e sangue que temos de lutar, mas contra os principados, as potestades, contra os príncipes deste mundo Tenebroso, contra as forças espirituais do Mal espalhadas nos ares.
-
-Ensinamentos: É contra demônios que você luta e como é que você luta contra demônios no teu quarto na oração, faça do teu quarto um lugar de guerra.
-
-- Isaías 26, 20-21: Vai, povo meu, entra nos teus quartos, fecha atrás de ti as portas, esconde-te por alguns instantes, até que a cólera passe, porque o Senhor vai sair de sua morada para punir os crimes dos habitantes da terra, porque a terra fará brotar o sangue que ela bebeu e não ocultará mais os corpos dos assassinados.
-
-Ensinamentos: Entre no teu quarto para orar para se converter, para se converter.
-
-- João 2, 13-17:
-    ```
-    Estava próxima a Páscoa dos judeus e Jesus subiu a Jerusalém. Encontrou no templo os negociantes de bois, ovelhas e pombas e mesas dos trocadores de moedas. Fez ele um chicote de cordas, expulsou todos do templo, como também as ovelhas e os bois, espalhou pelo chão o dinheiro dos tocadores e derrubou as mesas. Disse aos que vendiam as pombas: Tirai isso daqui e não façais da casa de meu pai uma casa de negociantes. Lembrem-se então do seus discípulos do que está escrito: O zelo da tua casa me consome.
-    ```
-
-Ensinamentos: A tua casa seja uma casa de oração.
-
-- Hebreus 4, 12-13: Porque a palavra de Deus é viva, eficaz, mais penetrante do que uma espada de dois gumes e atinge até divisão da alma e do corpo, das juntas e medulas e discerne os pensamentos e as intenções do coração. Nenhuma criatura lhe é invisível. Tudo É Nu e descoberto aos olhos daquele a quem havemos de prestar contas.
-
-Ensinamentos: A palavra de Deus vai separando ó isso aqui tá certo isso aqui tá errado, você vai lendo Bíblia você vai lendo Bíblia Ai meu Deus isso tá certo isso tá errado.
-
-## Músicas
-
-- Acalma a minha tempestade - Frei Gilson
-    - A música fala sobre a busca por acalmar as tempestades da vida através da fé em Jesus e da entrega a Ele.
-
-- Quão Grande És Tu - Artista não especificado
-    - A música é um louvor a Deus pela sua grandeza e poder manifestados na criação.
-
-- Eu te levantarei - Frei Gilson
-    - A música fala sobre a promessa de Deus de levantar e restaurar aqueles que estão caídos, oferecendo-lhes novas forças e vestes.
-
-## Eventos de Agenda
-
-- Rosário da Vitória - 5 de Abril - local não especificado
-    - Rosário presencial com Dom José e Padre Marcelo.
-
-- Feira Vocacional - 16 e 17 de Agosto - Santuário Mãe de Deus
-    - Evento gratuito com a presença de Dom José, Padre Marcelo e outros membros da diocese.
-
-- Let's Go - 20 de Novembro - Santuário Mãe de Deus
-    - Evento para jovens com oração, shows e meditação. Gratuito e sem necessidade de inscrição.
+## 5 Eventos de agenda
+*   **Rosário da Vitória:** Dia 5 de Abril, local não especificado (local onde o evento será promovido/transmitido). Foi mencionado pelo Bispo Dom José Negre.
+*   **Feira Vocacional:** 16 ou 17 de Agosto, no Santuário Mãe de Deus. Serão presentes Dom José e Padre Marcelo Rossi. Não há custos nem necessidade de inscrição.
+*   **Dia Especial de Oração (Jovens):** 20 de Novembro, no Santuário Mãe de Deus. Evento destinado à juventude com oração e cantos de meditação; é um dia de gratuidade para todos os jovens.

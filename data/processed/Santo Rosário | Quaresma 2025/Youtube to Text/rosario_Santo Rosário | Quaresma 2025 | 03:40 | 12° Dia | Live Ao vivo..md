@@ -1,117 +1,100 @@
-# Relatório do Santo Rosário
+## 1. Temática principal
 
-## Temática principal
+O ensinamento central de Frei Gilson durante este Santo Rosário é o caminho da profunda transformação interior e humildade, baseado no livro "A Imitação de Cristo". O Frei enfatiza que a verdadeira vida cristã transcende a aparência ou as boas obras externas (vaidade), focando na atitude do coração. Para se tornar um seguidor de Jesus, é preciso desenvolver uma postura de autoconhecimento radical e humildade, ou seja, "desprezar-se a si mesmo" (em sentido espiritual). Isso significa reconhecer que sem Deus não possuímos nada e não podemos fazer nada. Essa consciência da própria fragilidade abre espaço para que a graça divina nos preencha, permitindo que nossa fraqueza se torne o palco onde a força de Cristo se manifesta, como exemplificado na vida do apóstolo Paulo.
 
-A temática principal do Santo Rosário foi a importância do silêncio, tanto na vida de Jesus quanto na nossa. Foi destacado que Jesus viveu uma vida de silêncio, desde a manjedoura até o túmulo, e que esse silêncio era um sinal de desprezo pela mentira. Também foi enfatizado que nós devemos imitar o silêncio de Jesus, especialmente nos momentos de dor, provocação e acusação. O Santo Rosário também abordou a importância da oração, da humildade e da caridade.
+A oração é apresentada não apenas como um dever litúrgico, mas como um encontro íntimo com Jesus que gera paz genuína. Essa paz é dita ser inatingível por meios terrenos; ela é um dom que só Jesus pode oferecer a corações angustiados e ansiosos. Portanto, o Rosário se torna uma disciplina de desapego das vaidades pessoais e do orgulho para abraçar a verdadeira imitação do amor divino em nossas ações e intenções mais profundas.
 
-Além disso, foi refletido sobre a importância de buscarmos a paz interior e de sermos luz para o mundo, vivendo de acordo com o Evangelho e buscando a união com Jesus. Foi enfatizado que o amor é a forma de todas as virtudes e que tudo que sai do nosso coração deve ser pela graça de Deus.
+## 2. Temáticas secundárias
 
-## Temáticas secundárias
+**O Olhar de Esperança de Jesus sobre os Outros**
+Frei Gilson convida o fiel a refletir como Jesus enxergava as pessoas durante sua caminhada terrena, especialmente os marginalizados (prostitutas, leprosos, pecadores). O ensinamento é que este olhar deve ser replicado em nossa vida diária. Quando vemos algo que nos desagrada ou quando olhamos para a miséria ao nosso redor, devemos perguntar: "O que Jesus veria nisso?" Isso estimula o fiel a enxergar a beleza e a imagem de Deus presentes em cada ser humano, mesmo nos mais difíceis, cultivando assim um olhar de esperança e compaixão.
 
-### A Imitacão de Cristo
+**A Busca pela Verdadeira Paz Interior**
+Diferentemente do ideal social de "paz", Frei Gilson ressalta que a paz plena é exclusiva de Jesus. Para encontrá-la, não basta buscar o mundo ou até mesmo orações externas; ela deve começar dentro do próprio coração. Quem tem um coração inquieto, cheio de mágoas, vingança ou ódio, precisa realizar um trabalho interior para receber o dom da Paz. Este Rosário é apresentado como o meio pelo qual Deus concede essa paz ao fiel em seu estado mais vulnerável e ansioso.
 
-Durante todo o Santo Rosário, foram feitas reflexões sobre trechos do livro "A Imitação de Cristo".
-Essas reflexões abordaram temas como a importância de evitar o que nos desagrada nos outros, a busca pela união com Jesus, a procura pela paz interior, a humildade, o desapego e a importância do temor a Deus.
+**O Poder da Humildade frente às Acusações**
+A análise do Silêncio de Jesus durante os momentos de intensa provocação (como a flagelação, a coroação de espinhos e perante Pilatos) ensina que a maior virtude é o desprezo próprio em prol da verdade. O discípulo verdadeiro não tenta se justificar ou reagir às mentiras e falsas acusações com gritos egoístas, mas escolhe o silêncio amoroso para honrar Cristo. Essa postura de diminuição do eu é o oposto da vaidade humana e demonstra que a luz (a verdade) não precisa de defesa; seu próprio esplendor já basta.
 
-### Santificação
+## 3. Versículos da Bíblia
 
-A temática da santificação foi abordada em diversos momentos do Santo Rosário, com ênfase na importância de viver em comunhão com Jesus, de buscar a confissão, de alimentar-se da Eucaristia e da Palavra de Deus, e de traduzir a fé em obras de caridade. Foi destacado que a santidade não consiste em aparências, mas em uma vida de entrega e serviço a Deus e ao próximo.
+(Filipenses 2:7–8): mas aniquilou-se a si mesmo, assumindo a condição de escravo e assemelhando-se aos homens.
+**Ensinamentos:** Este versículo ilustra o desprezo do próprio Senhor por Si, que se tornou servo em amor, sendo um modelo para a humildade cristã no Rosário.
 
-### Vaidade
+(Isaías 53:7): Foi maltratado e resignou-se; não abriu a boca, como um cordeiro que se conduz ao matadouro, e uma ovelha muda nas mãos do tosquiador. Ele não abriu a boca.
+**Ensinamentos:** Este trecho ensina sobre o silêncio de Jesus perante as acusações (como a condenação), demonstrando como Cristo resistiu à tentação de se defender em meio ao ruído e às falsidades, sendo a própria verdade sua defesa.
 
-A vaidade foi apontada como um obstáculo à vida espiritual, com destaque para a importância de questionar as intenções por trás de nossas ações e de buscar a glória de Deus em vez da aprovação humana. Foi enfatizado que a verdadeira intenção por trás de nossos atos deve ser o amor a Deus.
+(Jó 19:26–27): Por detrás de minha pele, que envolverá isso, na minha própria carne, verei Deus. Eu mesmo o contemplarei, meus olhos o verão, e não os olhos de outro. Meus rins se consomem dentro de mim.
+**Ensinamentos:** Relacionado ao tema do Silêncio da Eternidade e a profundidade da experiência com Deus; aponta para o encontro face a face que transforma permanentemente o ser humano.
 
-### Obras
+(Romanos 8:26): Outrossim, o Espírito vem em auxílio à nossa fraqueza; porque não sabemos o que devemos pedir, nem orar como convém, mas o Espírito mesmo intercede por nós com gemidos inefáveis.
+**Ensinamentos:** Este texto foi usado para explicar a atuação do Espírito Santo no momento da oração e cura durante os mistérios dolorosos, agindo em nossa fraqueza sem que possamos sequer saber o que pedir.
 
-Foi destacado que as obras devem ser realizadas por amor a Deus e para servir a Ele.
-Quando as obras são feitas por amor a Deus, elas deixam de ser vaidade e se tornam amor a Deus.
-Foi refletido sobre a importância de questionar a intenção por trás de nossas obras e de buscar a glória de Deus em vez da aprovação humana.
+(Romanos 14:10): Por que julgas, então, o teu irmão? Ou por que desprezas o teu irmão? Todos temos que comparecer perante o tribunal de Deus.
+**Ensinamentos:** Este ensinamento alerta sobre a inutilidade e o erro de julgarmos os outros, pois todos estamos sujeitos ao mesmo juiz divino; a Queda em nos julgar pelos pensamentos ou olhares é um pecado grave na Quaresma.
 
-### Cura
+(Salmos 37:14–15): Eu, porém, sou como um surdo: não ouço; sou como um mudo que não abre os lábios... Fiz-me como um homem que não ouve, e que não tem na boca réplicas a dar.
+**Ensinamentos:** Demonstra uma analogia bíblica para o Silêncio de Jesus diante da provocação, escolhendo permanecer em silêncio, mesmo quando confrontado com falsidades.
 
-Durante o Santo Rosário, foram relatados diversos testemunhos de curas físicas e espirituais alcançadas por meio da oração e da intercessão de Nossa Senhora de Guadalupe.
-Esses testemunhos reforçaram a importância da fé e da confiança em Deus, bem como o poder da oração em comunidade.
+(Salmos 37:16–16): Porque é em vós, Senhor, que eu espero; vós me atendereis, Senhor, ó meu Deus.
+**Ensinamentos:** Enfatiza a fidelidade de quem encontra na espera e confiança em Deus a sua salvação e sustento, especialmente quando o mundo nos pressiona com acusações.
 
-## Versículos citados na transcrição
+(Salmos 37:17–17): Eis meu desejo: “Não se alegrem com minha perda; não se engrandeçam quando meu pé resvala”.
+**Ensinamentos:** Orienta sobre a humildade e a modéstia interior, evitando o orgulho em relação aos sucessos ou fracassos externos.
 
-- Romanos 8, 26: Outrossim, o Espírito vem em auxílio à nossa fraqueza, porque não sabemos o que pedir nem orar como convém, mas o Espírito mesmo intercede por nós com gemidos inefáveis.
+(São João 14:9–10): Respondeu Jesus: “Há tanto tempo que estou convosco e não me conheceste, Filipe! Aquele que me viu viu também o Pai. Como, pois, dizes: Mostra-nos o Pai... Não credes que estou no Pai, e que o Pai está em mim? As palavras que vos digo não as digo de mim mesmo; mas o Pai, que permanece em mim, é que realiza as suas próprias obras."
+**Ensinamentos:** Este trecho explica a unidade de Deus e do homem Jesus, mostrando que quem conhece plenamente um entende o outro, sendo uma metáfora para a comunhão espiritual.
 
-Ensinamentos: Este versículo foi citado para enfatizar a importância de estarmos atentos ao silêncio do Espírito Santo, que intercede por nós mesmo quando não sabemos o que pedir.
+(São João 18:36): Respondeu Jesus: “O meu Reino não é deste mundo. Se o meu Reino fosse deste mundo, os meus súditos certamente teriam pelejado para que eu não fosse entregue aos judeus. Mas o meu Reino não é deste mundo”.
+**Ensinamentos:** Ensina sobre a natureza espiritual do Reino de Deus e o convite à desvinculação das coisas mundanas (desapego), servindo como base espiritual para a vida cristã.
 
-- Livro de Jó 19, 26-27: Na minha própria carne verei a Deus. Eu mesmo o contemplarei; os meus olhos o verão, e não os de outro.
+(São Lucas 2:8–8): Havia nos arredores uns pastores, que vigiavam e guardavam seu rebanho nos campos durante as vigílias da noite.
+**Ensinamentos:** Usado no início do Rosário para situar o mistério do anúncio divino na humanidade simples.
 
-Ensinamentos: Este versículo foi citado para ilustrar a admiração e o assombro que sentiremos ao contemplar a Deus na eternidade.
+(São Lucas 13:31–32): No mesmo dia chegaram alguns dos fariseus, dizendo a Jesus: “Sai e vai-te daqui, porque Herodes te quer matar”. Disse-lhes ele: “Ide dizer a essa raposa: eis que expulso demônios e faço curas hoje e amanhã; e ao terceiro dia terminarei a minha vida."
+**Ensinamentos:** Exemplifica o anúncio da missão de Jesus em contraste com as ameaças do mundo, ensinando a não se desviar por medos humanos.
 
-- Lucas 2, 8: (Não transcrito)
+(São Lucas 23:10–16): Ali estavam os príncipes dos sacerdotes e os escribas, acusando-o com violência... Por isso, eu o soltarei depois de o castigar”.
+**Ensinamentos:** Apresenta a persistência das acusações falsas feitas pelos inimigos de Cristo.
 
-Ensinamentos: Este versículo foi citado para lembrar que Jesus veio ao mundo em uma noite tranquila e silenciosa, enquanto a humanidade dormia.
+(São Lucas 23:11–11): Herodes, com a sua guarda, tratou-o com desprezo, escarneceu dele, mandou revesti-lo de uma túnica branca e reenviou-o a Pilatos.
+**Ensinamentos:** Descreve o tratamento de zombaria dispensado por aqueles que não tinham fé na mensagem do Evangelho.
 
-- Mateus 13, 55: (Não transcrito)
+(São Lucas 23:14–16): “Apresentastes-me este homem como agitador do povo, mas, interrogando-o eu diante de vós, não o achei culpado de nenhum dos crimes de que os acusais nem tão pouco Herodes, pois no-lo devolveu. Portanto, ele nada fez que mereça a morte. Por isso, eu o soltarei depois de o castigar”.
+**Ensinamentos:** Illustra a inocência inquestionável de Jesus diante do Poder humano e religioso.
 
-Ensinamentos: Este versículo foi citado para lembrar que Jesus viveu em Nazaré em grande simplicidade, recolhido no silêncio e na humilde oficina de José.
+(São Marcos 3:16–17): Tiago, filho de Zebedeu, e João, seu irmão, aos quais pôs o nome de Boanerges, que quer dizer Filhos do Trovão.
+**Ensinamentos:** Identifica alguns dos primeiros discípulos que acompanharam Jesus na jornada inicial.
 
-- João 14, 9-10: Jesus respondeu: "Você não me conhece, Filipe, mesmo depois de eu ter estado com vocês durante tanto tempo? Quem me vê, vê o Pai. Como você pode dizer: 'Mostre-nos o Pai'? Você não crê que eu estou no Pai e que o Pai está em mim? As palavras que eu lhes digo não são apenas minhas. Ao contrário, o Pai, que vive em mim, está realizando a sua obra."
+(São Marcos 15:4–4): Pilatos perguntou-lhe outra vez: “Nada respondes? Vê de quantos delitos te acusam!”.
+**Ensinamentos:** Mostra a insistência das autoridades em obter uma confissão, mesmo diante da clareza da inocência.
 
-Ensinamentos: Este versículo foi citado para enfatizar a unidade de Deus e do homem em Jesus, e para lembrar que ouvir Jesus é ouvir o Pai.
+(São Mateus 13:55–55): Não é este o filho do carpinteiro? Não é Maria sua mãe? Não são seus irmãos Tiago, José, Simão e Judas?
+**Ensinamentos:** Refuta as falsas acusações sobre a linhagem de Jesus.
 
-- Filipenses 2, 7: Mas esvaziou-se a si mesmo, vindo a ser servo, tornando-se semelhante aos homens.
+(São Mateus 23:5–5): Fazem todas as suas ações para serem vistos pelos homens, por isso trazem largas faixas e longas franjas nos seus mantos.
+**Ensinamentos:** Aponta o perigo da vaidade religiosa (ser visto pelos outros) em contraste com a devoção sincera.
 
-Ensinamentos: Este versículo foi citado para ilustrar o despojamento de Jesus, que se humilhou e se fez servo por amor a nós.
+(São Mateus 27:14–14): Mas, para grande admiração do governador, não quis responder a nenhuma acusação.
+**Ensinamentos:** Ressalta que a grandeza e o esplendor da verdade são tais que elas se defendem sozinhas sem a necessidade de rebatidas humanas.
 
-- João 18, 36: Respondeu Jesus: "O meu Reino não é deste mundo. Se fosse, os meus servos lutariam para impedir que os judeus me prendessem. Mas agora o meu Reino não é daqui".
+## 4. Músicas
 
-Ensinamentos: Este versículo foi citado para enfatizar que nós estamos no mundo, mas não somos do mundo, e que o nosso coração deve estar voltado para o Reino de Deus.
+Te louvo em verdade - Martim Valverde: A música foi mencionada no contexto do encerramento como uma canção que Frei Gilson adora e deseja lançar, sendo um dos preferidos na igreja católica.
 
-- Lucas 13, 31-32: Naquele mesmo dia, alguns fariseus aproximaram-se de Jesus e disseram: "Sai daqui! Herodes quer matá-lo". Ele respondeu: "Vão dizer a essa raposa: 'Vou continuar expulsando demônios e curando pessoas hoje e amanhã, e no terceiro dia estarei pronto'".
+## 5. Eventos de agenda
 
-Ensinamentos: Este versículo foi citado para ilustrar a coragem de Jesus, que não se intimidou diante das ameaças de Herodes e continuou a cumprir a sua missão.
+**Pregações/Estudos:**
+*   O Santo Rosário está utilizando o livro "A Imitação de Cristo", revisando meditações do Itinerário Quaresmal (página 80). O tema da pregação atual é o "Silêncio da Eternidade" (livro A Força do Silêncio contra a ditadura do ruído, página C 120), inspirada em São Bento e Papa João Paulo II.
 
-- Lucas 23, 10: Os chefes dos sacerdotes e os mestres da lei o acusavam com veemência.
+**Intenções do Rosário:**
+*   Vida e saúde do Papa Francisco; todos os bispos do mundo.
+*   Dom José Negre, Dom Marcelo e Dom Fernando pela diocese de Santo Amaro.
+*   Santificação do clero e santas vocações para a Igreja.
+*   Instituto dos Carmelitas Mensageiros do Espírito Santo (e sua fundadora irmã Maria José do espírito santo).
+*   Santificação das famílias e conversão dos pecadores.
+*   Paz no mundo, em países em guerra, necessidades urgentes no Brasil.
+*   Pessoas e lugares vítimas de catástrofes naturais; desempregados, doentes e sofredores.
 
-Ensinamentos: Este versículo foi citado para mostrar a violência das acusações contra Jesus.
-
-- Lucas 23, 11: Herodes e os seus soldados escarneceram dele; vestiram-no com um manto esplêndido e mandaram-no de volta a Pilatos.
-
-Ensinamentos: Este versículo foi citado para mostrar o desprezo com que Jesus foi tratado.
-
-- Lucas 23, 9: Ele o interrogava com muitas perguntas, mas Jesus não lhe respondia.
-
-Ensinamentos: Este versículo foi citado para mostrar o silêncio de Jesus diante das acusações.
-
-- Lucas 23, 14-16: Disse-lhes: "Vocês me trouxeram este homem como alguém que estava incitando o povo à rebelião. Eu o examinei na presença de vocês e não achei nenhuma base para as acusações que fazem contra ele. Nem Herodes, pois o mandou de volta para nós; como vocês podem ver, ele nada fez que mereça a morte. Portanto, vou mandar castigá-lo e soltá-lo".
-
-Ensinamentos: Este versículo foi citado para mostrar que Pilatos reconhecia a inocência de Jesus.
-
-- Mateus 27, 14: Mas Jesus não lhe respondeu nenhuma palavra, de modo que o governador ficou muito admirado.
-
-Ensinamentos: Este versículo foi citado para mostrar a admiração de Pilatos diante do silêncio de Jesus.
-
-- Salmo 37, 14-17: Os ímpios desembainham a espada e preparam o arco para abater o pobre e o necessitado, para matar os que andam na retidão. Mas a sua espada lhes atravessará o coração, e os seus arcos serão quebrados. Melhor é o pouco do justo do que a riqueza de muitos ímpios, pois o braço forte dos ímpios será quebrado, mas o Senhor sustém os justos.
-
-Ensinamentos: Este versículo foi citado para mostrar que Jesus confiava na justiça de Deus e não se defendia das acusações.
-
-- Marcos 15, 4-5: Pilatos perguntou-lhe outra vez: "Você não vai responder? Veja de quantas coisas o estão acusando! " Mas Jesus não respondeu mais nada, de modo que Pilatos ficou admirado.
-
-Ensinamentos: Este versículo foi citado para mostrar a admiração de Pilatos diante do silêncio de Jesus.
-
-- Isaías 53, 7: Ele foi oprimido e humilhado, mas não abriu a sua boca; como um cordeiro foi levado para o matadouro, e como uma ovelha que diante de seus tosquiadores fica calada, ele não abriu a sua boca.
-
-Ensinamentos: Este versículo foi citado para mostrar que o silêncio de Jesus cumpriu a profecia de Isaías sobre o Messias.
-
-- Romanos 14, 10: Portanto, você, por que julga seu irmão? E você, por que despreza seu irmão? Pois todos compareceremos diante do tribunal de Deus.
-
-Ensinamentos: Este versículo foi citado como propósito do dia, para nos libertar do pecado do julgamento e para nos lembrar de que não cabe a nós julgar o nosso irmão.
-
-## Músicas
-
-- Meu coração anseia pelo teu - Frei Silvio
-    - A música fala sobre a solidão de Jesus no Tabernáculo e sobre o Seu anseio por nossa presença e amor.
-    - A música foi cantada durante o primeiro mistério doloroso, para nos lembrar que Jesus sente falta de nós e que Ele nos espera com alegria ou com tormento.
-
-- Te Louvo em Verdade - Martin Valverde
-    - A música será lançada após a missa.
-
-## Eventos de Agenda
-
-- Missa com orações de cura e libertação - 29 de Março - Caruaru, Pernambuco
-    - A comunidade dos freis abrirá uma casa em Caruaru, e no dia 29 de Março haverá uma missa com orações para pedir a Deus a cura e a libertação.
+**Eventos Futuros:**
+*   Amanhã (dia 29 de Março): Celebração da Missa na nova Fundação em Caruaru (PE), com orações para cura e libertação; abertura oficial da comunidade dos freis em Caruaru. A missa está prevista para as 8 horas da manhã.
+*   Pós-Missa: Lançamento do clipe "Te Louvo Em Verdade" de Martim Valverde.

@@ -1,146 +1,60 @@
-# Relatório do Santo Rosário
+## 1. Temática principal
+A mensagem central do Frei Gilson durante o Rosário e as orações subsequentes é a necessidade vital de fortalecer e aumentar a fé em Deus, especialmente em tempos difíceis. Ele ensina que a fé não é apenas um sentimento passivo, mas uma certeza absoluta daquilo que não se vê — como fundamentou o início da jornada quaresmal. Ele convida os participantes a pedir repetidamente ao Senhor: "Senhor aumenta a minha fé," pois sem essa crença ativa em Cristo e em Suas promessas, é impossível agradar a Deus ou romper com o pecado.
 
-## Temática principal
+O Frei destaca que a fonte dessa fé vem primariamente da pregação e do estudo contínuo da Palavra de Cristo, ensinando que quanto mais nos debruçamos na Escritura, mais nosso coração se enche de crença. Ele utiliza os mistérios do Rosário não apenas para meditar sobre eventos históricos, mas como pontos focais para confrontarmos nossos próprios "impossíveis" e nossas fraquezas, convidando a uma vida onde Cristo vive em nós.
 
-A temática principal do Santo Rosário é a fé em Jesus Cristo e a busca por aumentar essa fé. A fé é apresentada como o fundamento da esperança, a certeza do que não se vê, e a chave para agradar a Deus e receber Suas promessas. Durante todo o rosário, há um clamor constante para que Deus aumente a fé dos fiéis, para que possam esperar no Senhor, meditar na Palavra, vencer o pecado e viver em gratidão.
+Ademais, ele reforça que Deus se manifestará através de milagres nas vidas dos fiéis, seja na cura física (como demonstrado pelos testemunhos) ou na transformação espiritual. A fé é apresentada como o alicerce necessário para alcançar a salvação e viver uma vida plena no amor divino.
 
-## Temáticas secundárias
+## 2. Temáticas secundárias
+**A Fonte da Fé: Palavra e Pregação**
+Frei Gilson enfatiza que a fé não é um instinto ou algo transmitido por terceiros, mas um dom que provém da pregação da Palavra de Cristo. Ele incentiva os fiéis a buscar a leitura diária e a meditação constante das Escrituras ("meditar a palavra noite e dia"). Acreditar na promessa divina deve ser uma postura firme e inabalável, como o exemplo bíblico de Abraão.
 
-### A importância da Palavra de Deus
+**A Força da Fé Contra as Tempestades**
+O Rosário é conduzido com um foco intenso em combater fraquezas internas, tais como covardia, tibieza (insensibilidade espiritual), egoísmo e avareza. O Frei ensina que a fé deve nos dar coragem para enfrentar provações ("descanso o medo") e lembrar que Deus está conosco, mesmo quando sentimos que o mundo ou nossa vida estão desmoronando.
 
-A fé provém da pregação e a pregação se exerce em razão da palavra de Cristo. Quanto mais se lê, escuta e medita na Palavra de Deus, mais o coração se enche de fé. A Palavra de Deus deve habitar a alma noite e dia, guiando os pensamentos e ações.
+**Cura e Testemunho de Milagres**
+O Rosário foi permeado por testemunhos pessoais de cura física (como casos de dores crônicas, abortos espontâneos e infecções) e curas emocionais. O Frei convida os participantes a colocar suas mãos sobre as partes doloridas ou os problemas em oração, reforçando que para Deus "nada é impossível" e que Ele age pela graça.
 
-### O poder da oração
+**Intenções de Intercessão Global**
+O Rosário dedicou um momento especial à intercessão por diversas realidades: o Papa Francisco (pela saúde e força), os bispos do mundo, a santificação do clero e das famílias, além de orações específicas pelas vítimas de catástrofes naturais e desempregados no Brasil.
 
-A oração é um meio de pedir e receber, de clamar por cura e conversão. Jesus nos diz: "Tudo o que pedirdes na oração, crede que o tendes recebido e vos será dado". A oração fortalece para viver tempos difíceis e nos permite experimentar o poder de Deus em nossas vidas.
+## 3. Versículos da Bíblia
+(Hebreus 11, Versículo inicial–Versículo final): A fé é o fundamento da esperança, é uma certeza a respeito do que não se vê. **Ensinamentos:** Esta passagem estabelece que a fé é essencialmente a crença no invisível, servindo de base para a esperança e sendo um tema recorrente ao longo do Rosário.
 
-### A intercessão de Maria
+(Romanos 10, Versículo inicial–Versículo final): Logo, a fé provém da pregação e a pregação se exerce em razão da palavra de Cristo. **Ensinamentos:** O Frei ensina que o caminho para adquirir fé é através da escuta e absorção ativa da Palavra de Deus pregada aos fiéis.
 
-Maria é apresentada como um modelo de fé, que acreditou no anúncio do anjo e que intercede por nós junto a Jesus. Ela é a "Mãe Imaculada, Santa Maria de Guadalupe, saúde dos doentes", em cujas mãos colocamos nossas dores e sofrimentos.
+(Mateus 17, Versículo inicial–Versículo final): Jesus respondeu-lhes: “Por causa de vossa falta de fé. Em verdade vos digo: se tiverdes fé, como um grão de mostarda, direis a esta montanha: Transporta-te daqui para lá, e ela irá; e nada vos será impossível.” **Ensinamentos:** Esta passagem é utilizada para desafiar os participantes a identificar seus "impossíveis" pessoais e a crer que Deus pode operar milagres em suas vidas pela força da fé.
 
-### A luta contra o pecado
+(Gálatas 2, Versículo inicial–Versículo final): Eu vivo, mas já não sou eu; é Cristo que vive em mim. A minha vida presente, na carne, eu a vivo na fé no Filho de Deus, que me amou e se entregou por mim. **Ensinamentos:** O Frei convida os fiéis a viverem uma existência centrada em Cristo, onde nossa própria vida passa a ser guiada pela fé d'Ele e pelo amor sacrificial d'Ele.
 
-A fé nos leva a romper com o pecado e a buscar agradar a Deus em tudo o que fazemos. É preciso lutar contra o pecado, reconhecendo que Cristo morreu por nós para nos salvar e nos libertar de todo o mal.
+(Hebreus 10, Versículo inicial–Versículo final): Conservemo-nos firmemente apegados à nossa esperança, porque é fiel aquele cuja promessa aguardamos. **Ensinamentos:** A passagem incentiva o apego constante à esperança de Deus e Sua fidelidade, um ponto central ao meditar sobre a Ressurreição em Cristo.
 
-### A perseverança na fé
+(Mateus 21, Versículo inicial–Versículo final): Tudo o que pedirdes com fé na oração, vós o alcançareis. **Ensinamentos:** Utilizada para encorajar os participantes a apresentarem suas necessidades e pedidos ao Senhor com total certeza de Sua resposta, desde que haja fé.
 
-Mesmo em meio às dificuldades e tribulações, é preciso perseverar na fé, com o olhar fixo em Jesus, o autor e consumador da nossa fé. Deus permite as provações para que cresçamos e amadureçamos na fé.
+(Tiago 1, Versículo inicial–Versículo final): Mas peça-a com fé, sem nenhuma vacilação, porque o homem que vacila assemelha-se à onda do mar, levantada pelo vento e agitada de um lado para o outro. **Ensinamentos:** Este versículo é usado para instruir os fiéis a pedirem graças ao Senhor com total segurança, sem duvidar ou hesitar diante das promessas divinas.
 
-## Versículos citados na transcrição
+(1 São João 5, Versículo inicial–Versículo final): Porque todo o que nasceu de Deus vence o mundo. E esta é a vitória que vence o mundo: a nossa fé. **Ensinamentos:** A mensagem reforça que a vitória sobre as adversidades e tentações do mundo só é possível através da posse e manifestação da fé em nós.
 
-- (Hebreus 11, 1): A fé é o fundamento da esperança, é uma certeza a respeito do que não se vê.
+(1 São Pedro 1, Versículo inicial–Versículo final): Esse Jesus vós o amais, sem o terdes visto; credes nele, sem o verdes ainda, e isso é para vós a fonte de uma alegria inefável e gloriosa. **Ensinamentos:** Enfatiza que a fé permite um conhecimento profundo do amor de Cristo, mesmo antes de experimentá-lo fisicamente ou ver plenamente Suas manifestações.
 
-Ensinamentos: A fé é essencial para esperar no Senhor e receber os milagres que desejamos.
+(1 Pedro 1, Versículo inicial–Versículo final): Porque vós estais certos de obter, como preço de vossa fé, a salvação de vossas almas. **Ensinamentos:** Este trecho é apresentado para consolidar o ensino de que a fé tem um retorno eterno e glorioso: a garantia da salvación das próprias almas.
 
-- (Romanos 10, 17): Logo, a fé provém da pregação e a pregação se exerce em razão da palavra de Cristo.
+(Efésios 2, Versículo inicial–Versículo final): Porque é gratuitamente que fostes salvos mediante a fé. Isto não provém de vossos méritos, mas é puro dom de Deus. **Ensinamentos:** Reforça que a salvação e o perdão são um presente imerecido (graça) dado por Deus unicamente pela fé do homem.
 
-Ensinamentos: A fé vem da Palavra de Cristo, e quanto mais nos debruçarmos sobre ela, mais fé teremos.
+(Efésios 2, Versículo inicial–Versículo final): Não provém das obras, para que ninguém se glorie. **Ensinamentos:** Enseia que o mérito humano não contribui para a salvação, evitando o orgulho e direcionando toda glória a Deus.
 
-- (Mateus 17, 20): Se tiverdes fé como um grão de mostarda, direis a essa montanha: Transporta-te daqui para lá, e ela irá, e nada vos será impossível.
+(Colossenses 2, Versículo inicial–Versículo final): Como (de nossa pregação) recebestes o Senhor Jesus Cristo, vivei nele, enraizados e edificados nele inabaláveis na fé em que fostes instruídos com o coração a transbordar de gratidão. **Ensinamentos:** O Frei orientou sobre como viver após receber Cristo: ser constantemente "enraizado" e construir uma vida repleta de gratidão pela presença d'Ele.
 
-Ensinamentos: Para Deus, nada é impossível, e a fé pode mover montanhas.
+(Romanos 1, Versículo inicial–Versículo final): Porque nele se revela a justiça de Deus, que se obtém pela fé e conduz à fé, como está escrito: O justo viverá pela fé (Hab 2,4). **Ensinamentos:** Revela que o modo pelo qual alcançamos a justiça perante Deus é exclusivamente através da feita firmemente.
 
-- (Gálatas 2, 20): Eu vivo, mas já não sou eu, é Cristo que vive em mim. A minha vida presente na carne, eu a vivo na fé, na fé no Filho de Deus, que me amou e se entregou por mim.
+(Romanos 4, Versículo inicial–Versículo final): Ante a promessa de Deus, não vacilou, não desconfiou, mas conservou-se forte na fé e deu glória a Deus. **Ensinamentos:** O exemplo bíblico de Abraão é usado para demonstrar que ter fé significa manter uma convicção inabalável no poder de Deus em cumprir o que Ele promete.
 
-Ensinamentos: A fé é a certeza de que Jesus nos amou e deu a vida por nós.
+## 4. Músicas
+Eu te adorarei Senhor de todo meu coração - Artista: Uso repetido durante as orações e louvores (contexto: Adoração ao Santíssimo Sacramento na presença dos anjos, rendendo graças).
 
-- (Hebreus 11, 6): Ora, sem fé é impossível agradar a Deus, pois para se achegar a ele, é necessário que se creia primeiro que ele existe e que recompensa os que o procuram.
+Não houve noite que pudesse impedir o nascer do sol e a esperança... - Artista: Ministério de Música/Canção Nova (contexto: Canções finais e de despedida, usadas para motivar os fiéis sobre a perseverança e os milagres promissores).
 
-Ensinamentos: A fé é essencial para agradar a Deus e receber Sua recompensa.
-
-- (Marcos 11, 24): Por isso, vos digo: tudo o que pedirdes na oração, crede que o tendes recebido e vos será dado.
-
-Ensinamentos: Devemos pedir com fé, crendo que já recebemos o que pedimos.
-
-- (Tiago 1, 6): Mas peça com fé, sem nenhuma vacilação, porque o homem que vacila assemelha-se à onda do mar, levantada pelo vento e agitada de um lado para o outro.
-
-Ensinamentos: Quem tem fé não vacila.
-
-- (Primeira Pedro 1, 8-9): Esse Jesus, vós o amais sem o terdes visto; credes nele sem o verdes ainda e isso é para vós a fonte de uma alegria inefável e gloriosa, porque vós estais certos de obter, como preço de vossa fé, a salvação de vossas almas.
-
-Ensinamentos: A fé em Jesus, mesmo sem vê-lo, nos traz alegria e a certeza da salvação.
-
-- (Romanos 1, 17): Porque nele se revela a justiça de Deus, que se obtém pela fé e conduz à fé, como está escrito: O justo viverá pela fé.
-
-Ensinamentos: A justiça de Deus se revela pela fé.
-
-- (Efésios 2, 8-9): Porque é gratuitamente que fostes salvos mediante a fé. Isso não provém de vossos méritos, mas é puro dom de Deus. Não provém das obras, para que ninguém se glorie.
-
-Ensinamentos: A fé é um dom gratuito de Deus, não um mérito nosso.
-
-- (Hebreus 10, 23): Conservemo-nos firmemente apegados à nossa esperança, porque é fiel aquele cuja promessa aguardamos.
-
-Ensinamentos: Devemos nos apegar à esperança, pois Deus é fiel às Suas promessas.
-
-- (Mateus 21, 22): Tudo o que pedirdes com fé na oração, vós o alcançareis.
-
-Ensinamentos: Tudo o que pedirmos com fé, alcançaremos.
-
-- (Isaías 41, 10): Nada temas, porque eu estou contigo, não lances olhares desesperados, pois eu sou teu Deus, eu te fortaleço e venho em teu socorro, eu te amparo com a minha destra vitoriosa.
-
-Ensinamentos: Não devemos temer, pois Deus está conosco.
-
-- (Mateus 9, 28-29): Jesus entrou numa casa e os cegos aproximaram-se dele. Disse-lhes: "Credes que eu posso fazer isso?" Aqueles cegos disseram: "Sim, Senhor", responderam eles. Então, ele tocou-lhes nos olhos, dizendo: "Seja-vos feito segundo a vossa fé".
-
-Ensinamentos: Jesus pergunta se acreditamos que Ele pode nos curar, e Ele age segundo a nossa fé.
-
-- (Romanos 5, 1): Justificados, pois, pela fé, temos a paz com Deus, por meio de nosso Senhor Jesus Cristo.
-
-Ensinamentos: A fé nos justifica e nos traz a paz de Deus.
-
-- (Hebreus 12, 1): Corramos com perseverança ao combate proposto, com olhar fixo no autor e consumador de nossa fé, Jesus.
-
-Ensinamentos: Jesus nos ensina a perseverar na dor e na cruz.
-
-- (Lucas 1, 37): Porque a Deus nenhuma coisa é impossível.
-
-Ensinamentos: Nada é impossível para Deus.
-
-- (Primeira João 5, 4): Porque todo o que nasceu de Deus vence o mundo, e esta é a vitória que vence o mundo: a nossa fé.
-
-Ensinamentos: A fé é a vitória que vence o mundo.
-
-- (Romanos 4, 20-21): Ante a promessa de Deus, Abraão não vacilou, não desconfiou, mas conservou-se forte na fé e deu glória a Deus, estava plenamente convencido de que Deus era poderoso para cumprir o que prometera.
-
-Ensinamentos: Deus é poderoso para cumprir o que prometeu.
-
-- (Colossenses 2, 6-7): Como de nossa pregação recebestes o Senhor Jesus Cristo, vivei nele, enraizados e edificados nele, inabaláveis na fé em que fostes instruídos, com o coração a transbordar de gratidão.
-
-Ensinamentos: Devemos viver em Cristo, enraizados e edificados nele, inabaláveis na fé e com gratidão.
-
-## Músicas
-
-- Eu te adorarei Senhor - (Artista não especificado)
-Descrição do ensinamento que foi transmitido sobre a música: A música é um louvor a Jesus, reconhecendo-o como Senhor de todo o coração e expressando adoração na presença dos anjos.
-
-- Meu Senhor e meu Deus - (Artista não especificado)
-Descrição do ensinamento que foi transmitido sobre a música: A música é uma declaração de fé em Jesus, reconhecendo-o como Senhor e Deus, e pedindo para aumentar a fé.
-
-- Acalma a minha tempestade - (Artista não especificado)
-Descrição do ensinamento que foi transmitido sobre a música: A música é um pedido a Jesus para acalmar as tempestades da vida, devolver a paz e aumentar a fé.
-
-- Deixa Deus sonhar em ti - (Artista não especificado)
-Descrição do ensinamento que foi transmitido sobre a música: A música fala sobre deixar Deus sonhar em nós e não ter medo, pois Ele nos segura e nos guia.
-
-- Nunca houve noite - (Artista não especificado)
-Descrição do ensinamento que foi transmitido sobre a música: A música fala sobre a esperança que nasce com o sol e a certeza de que as mãos de Jesus podem nos ajudar em qualquer problema.
-
-## Eventos de Agenda
-
-- Acampamento de Semana Santa - (data e horário não especificados) - Canção Nova
-Descrição do evento: Programação com pregações, adoração e missas.
-
-- Missa - meio-dia - Santuário do Pai das Misericórdias
-Descrição do evento: Missa a ser realizada no Santuário do Pai das Misericórdias.
-
-- Missa com Dom Vladimir - 15:30 - Santuário do Pai das Misericórdias
-Descrição do evento: Missa a ser celebrada por Dom Vladimir no Santuário do Pai das Misericórdias.
-
-- Missa - 18:30 - Santuário do Pai das Misericórdias
-Descrição do evento: Missa a ser realizada no Santuário do Pai das Misericórdias.
-
-- Evento com Frei Gilson - 31 de maio - Disus Center, Boston, Estados Unidos
-Descrição do evento: Evento com Frei Gilson, com início às 11h e término às 22h.
-
-- Viagem missionária de Frei Gilson - (data não especificada) - Angola e Moçambique
-Descrição do evento: Frei Gilson estará em Angola (sábado) e Moçambique (domingo).
+## 5. Eventos de agenda
+**Evento nos Estados Unidos:** O Frei Gilson estará presente em um evento no dia 31 de maio, às 11h00 (duração até as 22h00), realizado no Disus Center (DC Center) na região de Boston. Ele convida os inscritos a comparecerem e menciona que mais de 5.000 pessoas já estão confirmadas.
+**Viagens para a África:** Na próxima semana, o Frei Gilson visitará Angola (sábado) e Moçambique (domingo), marcando sua primeira vez nessas regiões.
+**Programação da Canção Nova:** A comunidade terá programação especial nesta semana de Quaresma: missa no Santuário do Pai das Misericórdias às 12h00, missa com Dom Vladimir às 15h30 e outra missão às 18h30.

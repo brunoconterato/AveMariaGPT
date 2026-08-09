@@ -1,100 +1,45 @@
-# Relatório do Santo Rosário
+## 1. Temática principal
+O ensinamento central do Frei durante este Santo Rosário e seus comentários subsequentes converge na **necessidade de uma transformação interior profunda, alcançada através da humildade e da renúncia ao "ruído" ou aos ídolos deste mundo.** A mensagem caminha desde a súplica pela proteção angelical até o convite para buscar um relacionamento íntimo com Cristo. O Frei enfatiza que não basta realizar penitências externas; é preciso mudar as atitudes internas, os pensamentos e a forma como interagimos com o mundo agitado e materialista ("o mundo" definido em 1 João 2:15-17). A fé é presentada como um ato de aceitação voluntária — "um ato de amor"— que nos leva ao "deserto interior", onde confrontamos nossa própria insignificância perante Deus, encontrando ali a força para viver o chamado cristão.
 
-## Temática principal
+## 2. Temáticas secundárias
+**Humildade e Despojamento:** O Frei ensina que os maiores vícios — orgulho, egoísmo, inveja, etc. (São Marcos 7:21-23) — procedem de dentro do coração humano. Assim como Cristo se aniquilou assumindo a condição de escravo (Filipenses 2:6-8), o homem deve buscar a humildade para amar verdadeiramente, pois "o amor é silencioso" e só pode crescer na humildade.
 
-A temática principal do Santo Rosário é a fé e a entrega a Deus, mesmo em meio às dificuldades e tribulações da vida. Frei Gilson ressalta que a fé não é imposta, mas sim um ato de livre escolha e amor a Deus. Ele enfatiza a importância de confiar em Deus e de se colocar à disposição para fazer a Sua vontade, assim como Maria fez ao aceitar ser a mãe do Salvador.
+**Ação da Fé e Parceria com Deus:** Os Mistérios do Rosário são apresentados como um chamado à ação prática. A fé não é uma imposição externa; ela deve ser aceita livremente (como Maria ao dizer "Eis aqui a serva do Senhor"). Uma vez aceitos nos projetos de salvação, devemos agir para mudar o mundo, saindo da inércia contemplativa e abraçando o papel de "parceiros de Deus".
 
-Além disso, o Santo Rosário aborda a importância da conversão e da mudança de atitudes em relação a Deus e ao próximo, especialmente durante o período da Quaresma. Frei Gilson destaca que a fé deve produzir obras e nos levar a agir em prol do bem e do amor.
+**O Deserto Interior:** Esta temática é destacada como um caminho necessário para a santidade. O deserto não é apenas um lugar físico, mas o espaço onde nos retira do barulho do mundo, das concupiscências e da superficialidade (1 João 2:15-17). É no "deserto interior" que encontramos Deus em silêncio e solidão para combater a ditadura de ídolos modernos.
 
-## Temáticas secundárias
+## 3. Versículos da Bíblia
+**São Marcos 7, versículos 20–23**: Ora, o que sai do homem isso é que mancha o homem porque é do interior do coração dos homens que procedem os maus pensamentos: devassidões, roubos, assassinatos, adultérios, cobiças, perversidades, fraudes, desonestidade, inveja, difamação, orgulho e insensatez. Todos estes vícios procedem de dentro e tornam impuro o homem.
+**Ensinamentos:** Este trecho é citado para identificar as raízes do pecado no ser humano (orgulho, egoísmo, etc.). Durante a Quaresma, o ensinamento é que precisamos mudar não apenas nossas ações externas, mas nossos "mau pensamento" vindos do interior, sendo este um desafio à renovação pessoal e da conduta.
 
-### A importância da oração
+**Mateus 6, versículos 25–34**: Portanto, eis que vos digo: não vos preocupeis por vossa vida, pelo que comereis, nem por vosso corpo, pelo que vestireis. A vida não é mais do que o alimento e o corpo não é mais que as vestes? Olhai as aves do céu: não semeiam nem ceifam, nem recolhem nos celeiros e vosso Pai celeste as alimenta. Não valeis vós muito mais que elas? Qual de vós, por mais que se esforce, pode acrescentar um só côvado à duração de sua vida? E por que vos inquietais com as vestes? Considerai como crescem os lírios do campo; não trabalham nem fiam. Entretanto, eu vos digo que o próprio Salomão no auge de sua glória não se vestiu como um deles. Se Deus veste assim a erva dos campos, que hoje cresce e amanhã será lançada ao fogo, quanto mais a vós, homens de pouca fé? Não vos aflijais, nem digais: Que comeremos? Que beberemos? Com que nos vestiremos? São os pagãos que se preocupam com tudo isso. Ora, vosso Pai celeste sabe que necessitais de tudo isso. Buscai em primeiro lugar o Reino de Deus e a sua justiça e todas estas coisas vos serão dadas em acréscimo. Não vos aflijais, nem digais: Que comeremos? Que beberemos? Com que nos vestiremos?
+**Ensinamentos:** Jesus usa este texto para combater a preocupação excessiva e a ansiedade sobre os bens materiais (dinheiro, trabalho). O ensinamento é buscar a confiança em Deus (fé) colocando o Reino de Deus como prioridade ("buscai primeiro o Reino"), pois Ele provê todas as necessidades.
 
-A oração é um tema recorrente no Santo Rosário, sendo apresentada como um meio de fortalecer a fé, encontrar a paz e a força em Deus, e alcançar a salvação. Frei Gilson incentiva os fiéis a rezarem sempre, mesmo diante das dificuldades, e a confiarem que a oração sempre resolve.
+**Filipenses 2, versículos 5–8**: Dedicai-vos mutuamente a estima que se deve em Cristo Jesus, sendo ele de condição divina, não se prevaleceu da sua igualdade com Deus, mas aniquilou-se a si mesmo, assumindo a condição de escravo e assemelhando-se aos homens. E, sendo exteriormente reconhecido como homem, humilhou-se ainda mais, tornando-se obediente até a morte, e morte de cruz.
+**Ensinamentos:** Este texto explica o amor verdadeiro através da humildade radical do próprio Deus (Cristo). O ensinamento para os fiéis é que a grandeza não está na ostentação ou no ego, mas em se despojar de si mesmo por amar e servir aos outros ("dedicai-vos mutuamente a estima").
 
-### A figura de Maria
+**Isaías 53, versículo 7**: Foi maltratado e resignou-se; não abriu a boca, como um cordeiro que se conduz ao matadouro, e uma ovelha muda nas mãos do tosquiador. Ele não abriu a boca.
+**Ensinamentos:** Este ensinamento é central na compreensão do sacrifício de Cristo. O silêncio de Jesus no sofrimento e na Cruz (na paixão) representa o amor mais profundo; ele suportou os castigos sem reagir, mostrando uma obediência perfeita à vontade do Pai.
 
-Maria é apresentada como um exemplo de fé, entrega e amor a Deus. Frei Gilson destaca a importância de recorrer a Maria em momentos de dificuldade, confiando em sua intercessão e em seu papel de mãe que nos indica o caminho para Jesus.
+**São João 3, versículos 16–18**: Com efeito, de tal modo Deus amou o mundo, que lhe deu seu Filho único, para que todo o que nele crer não pereça, mas tenha a vida eterna. Pois Deus não enviou o Filho ao mundo para condená-lo, mas para que o mundo seja salvo por ele. Quem nele crê não é condenado, mas quem não crê já está condenado, porque não crê no nome do Filho único de Deus.
+**Ensinamentos:** Revela a natureza amorosa da divindade: Jesus veio ao mundo unicamente como um ato de salvação e amor (não para julgar). A salvação é uma resposta ativa e livre; quem escolhe o Cristo, está aderindo ao bem; quem se fecha ou rejeita essa adesão, está preso à condenação.
 
-### A Quaresma como tempo de conversão
+**Eclesiastes 3, versículos 1–7**: Para tudo há um tempo, para cada coisa há um momento debaixo do céu: Tempo de nascer e tempo de morrer; tempo de plantar e tempo de arrancar o que se plantou. Tempo de matar e tempo de curar; tempo de demolir e tempo de construir. Tempo de chorar e tempo de rir; tempo de gemer e tempo de dançar. Tempo de atirar pedras e tempo de ajuntá-las; tempo de abraçar e tempo de apartar-se. Tempo de procurar e tempo de perder; tempo de guardar e tempo de jogar fora. Tempo de rasgar e tempo de costurar; tempo de calar e tempo de falar. Tempo de amar e tempo de odiar; tempo de guerra e tempo de paz.
+**Ensinamentos:** Este trecho é usado para ilustrar o ciclo da vida, lembrando ao fiel que Deus estabelece tempos próprios para cada processo (construir/demolir, chorar/rir). O ensinamento sugere aceitar os diferentes momentos da existência com sabedoria e fé.
 
-A Quaresma é apresentada como um tempo propício para a conversão, a mudança de atitudes e a busca por uma vida mais próxima de Deus. Frei Gilson incentiva os fiéis a refletirem sobre o que precisam mudar em suas vidas e a se esforçarem para serem melhores por amor a Deus e ao próximo.
+**Filipenses 2, versículos 6–8**: Sendo ele de condição divina, não se prevaleceu de sua igualdade com Deus, mas aniquilou-se a si mesmo, assumindo a condição de escravo e assemelhando-se aos homens. E, sendo exteriormente reconhecido como homem, humilhou-se ainda mais, tornando-se obediente até a morte, e morte de cruz.
+**Ensinamentos:** Reforça o conceito da Humilhação Divina em Jesus (a *Kenosis*), mostrando que Deus abriu mão do divino para se identificar plenamente com nossa fraqueza humana, atingindo o ápice da humildade na Cruz.
 
-### A Eucaristia como encontro com Jesus
+**Oseias 2, versículos 16–25**: Por isso a atrairei, a conduzirei ao deserto e lhe falarei ao coração. Então, lhe darei as suas vinhas e o vale de Acor, como porta de esperança. Aí ela se tornará como no tempo de sua juventude, como nos dias em que subiu da terra do Egito. Naquele dia – diz o Senhor – tu me chamarás: “Meu marido”, e não mais: “Meu Baal”. Não lhe deixarei mais na boca os nomes de Baal e ninguém pronunciará tais nomes. Farei para eles, naquele dia, uma aliança com os animais selvagens, as aves do céu e os répteis da terra; farei desaparecer da terra o arco, a espada e a guerra, e os farei repousar com segurança. Eu a desposarei para sempre, conforme a justiça e o direito, com benevolência e ternura. Eu a desposarei com fidelidade e conhecerás o Senhor. Naquele dia, diz o Senhor, eu atenderei aos céus, e eles atenderão à terra. A terra atenderá ao trigo, ao mosto e ao óleo, e estes atenderão a Jezrael. Farei dele para mim uma terra bem semeada, usarei de misericórdia com Lo-Ruhama, e direi a Lo-Ami: “Tu és meu povo!”, e ele me dirá: “Vós sois meu Deus!”.
+**Ensinamentos:** Este texto é interpretado como o convite de Deus para que o homem se afaste do "Baal" (os ídolos modernos, bens materiais, vaidades) para estabelecer uma aliança exclusiva com Ele. O deserto é a condição necessária para esse reencontro e restauração da relação original entre Criador e criatura.
 
-A Eucaristia é apresentada como um momento especial de encontro com Jesus, onde Ele se faz presente em nossa vida e nos fortalece para enfrentarmos os desafios do dia a dia. Frei Gilson incentiva os fiéis a participarem da Eucaristia e a se alimentarem de Deus para serem alimentadores também.
+**Romanos 6, versículos 8–10**: Ora, se morremos com Cristo, cremos que viveremos também com ele pois sabemos que Cristo, tendo ressurgido dos mortos, já não morre, nem a morte terá mais domínio sobre ele. Morto, ele o foi uma vez por todas pelo pecado; porém, está vivo, continua vivo para Deus!
+**Ensinamentos:** Serve para reafirmar a promessa da Ressurreição e do amor eterno. O ensinamento é que, ao se unir à morte de Cristo, não estamos mortos em um sentido absoluto, mas transformados (vivos) pela Graça divina.
 
-### A importância de crescer em graça e sabedoria
+## 4. Músicas
+**Senhor tu me olhaste nos olhos - Artista: [Não especificado na transcrição]**: O Frei destaca que Jesus chama a pessoa pelo nome, reconhecendo suas misérias e pecados. Este chamado é um convite de amor onde "você quer me seguir". A música simboliza o desejo de deixar os "Mares do mundo" para buscar uma vida com Deus, pois "os mares de Deus são melhores" e há maior felicidade em estar no relacionamento escolhido por Ele.
 
-Frei Gilson ressalta a importância de crescer em graça e sabedoria, assim como Jesus fez em sua juventude. Ele incentiva os fiéis a buscarem a sabedoria de Deus e a se esforçarem para crescerem em todos os aspectos de suas vidas, tanto espirituais quanto materiais.
-
-## Versículos citados na transcrição
-
-- (João 15, 13): Não há maior amor do que dar a vida por quem amamos.
-
-Ensinamentos: O versículo ressalta que o amor se expressa plenamente na entrega total, como Jesus fez ao dar a vida por nós na cruz.
-
-- (Filipenses 2, 5-8): Tende entre vós o mesmo sentimento que houve também em Cristo Jesus, o qual, subsistindo em forma de Deus, não considerou o ser igual a Deus algo a que se apegar; mas esvaziou-se a si mesmo, tomando a forma de servo, tornando-se semelhante aos homens; e, achado na forma de homem, humilhou-se a si mesmo, tornando-se obediente até a morte, e morte de cruz.
-
-Ensinamentos: O versículo destaca a humildade de Jesus, que não se apegou à sua condição divina, mas se humilhou e se fez servo para nos salvar.
-
-- (Isaías 53, 7): Ele foi oprimido e humilhado, mas não abriu a sua boca; como um cordeiro foi levado ao matadouro, e como uma ovelha que diante de seus tosquiadores fica muda, assim ele não abriu a sua boca.
-
-Ensinamentos: O versículo ressalta o silêncio de Jesus diante do sofrimento, demonstrando sua humildade e sua entrega à vontade de Deus.
-
-- (Eclesiastes 3, 1-8): Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu: tempo de nascer, e tempo de morrer; tempo de plantar, e tempo de arrancar o que se plantou; tempo de matar, e tempo de curar; tempo de derribar, e tempo de edificar; tempo de chorar, e tempo de rir; tempo de prantear, e tempo de dançar; tempo de espalhar pedras, e tempo de ajuntar pedras; tempo de abraçar, e tempo de afastar-se de abraçar; tempo de buscar, e tempo de perder; tempo de guardar, e tempo de lançar fora; tempo de rasgar, e tempo de coser; tempo de estar calado, e tempo de falar; tempo de amar, e tempo de odiar; tempo de guerra, e tempo de paz.
-
-Ensinamentos: O versículo nos lembra que há tempo para tudo em nossa vida, e que devemos saber viver cada momento com sabedoria e discernimento.
-
-- (Lucas 1, 80): E o menino ia crescendo e fortalecendo-se em espírito; e esteve nos desertos até o dia em que havia de mostrar-se a Israel.
-
-Ensinamentos: O versículo destaca a importância do deserto e do silêncio na formação espiritual de João Batista, que se preparou para sua missão no isolamento e na oração.
-
-- (Oséias 2, 16-25): Portanto, eis que eu a atrairei, e a levarei para o deserto, e lhe falarei ao coração. E ali lhe darei as suas vinhas, e o vale de Acor por porta de esperança; e ali cantará, como nos dias da sua mocidade, e como no dia em que subiu da terra do Egito. E acontecerá naquele dia, diz o Senhor, que me chamarás: Meu marido; e não me chamarás mais: Meu Baal. E da sua boca tirarei os nomes dos Baalins, e não serão mais lembrados pelos seus nomes. E naquele dia farei por eles aliança com os animais do campo, e com as aves do céu, e com os répteis da terra; e tirarei da terra o arco, e a espada, e a guerra, e farei que se deitem em segurança. E desposar-te-ei comigo para sempre; sim, desposar-te-ei comigo em justiça, e em juízo, e em benignidade, e em misericórdias. E desposar-te-ei contigo em fidelidade, e conhecerás ao Senhor. E acontecerá naquele dia que eu atenderei, diz o Senhor; eu atenderei aos céus, e eles atenderão à terra. E a terra atenderá ao trigo, e ao mosto, e ao azeite; e estes atenderão a Jizreel. E semeá-la-ei para mim na terra, e compadecer-me-ei de Lo-Ruama; e direi a Lo-Ami: Tu és meu povo; e ele dirá: Tu és o meu Deus.
-
-Ensinamentos: O versículo nos mostra que o deserto é um lugar de encontro com Deus, onde Ele nos fala ao coração e nos renova a esperança.
-
-- (Mateus 6, 25-34): Por isso vos digo: Não vos inquieteis quanto à vossa vida, pelo que haveis de comer, ou pelo que haveis de beber; nem quanto ao vosso corpo, pelo que haveis de vestir. Não é porventura a vida mais do que o alimento, e o corpo mais do que o vestuário? Olhai para as aves do céu, que não semeiam, nem ceifam, nem ajuntam em celeiros; e vosso Pai celestial as alimenta. Não valeis vós muito mais do que elas? Ora, qual de vós, por mais que se preocupe, pode acrescentar uma única hora ao curso da sua vida? E por que vos inquietais com o vestuário? Olhai para os lírios do campo, como crescem; não trabalham nem fiam; e digo-vos que nem mesmo Salomão em toda a sua glória se vestiu como um deles. Pois, se Deus assim veste a erva do campo, que hoje existe e amanhã é lançada no forno, quanto mais a vós, homens de pouca fé? Portanto, não vos inquieteis, dizendo: Que comeremos? ou: Que beberemos? ou: Com que nos vestiremos? (Porque a todas estas coisas os gentios procuram.) Decerto vosso Pai celestial bem sabe que necessitais de todas estas coisas; mas buscai primeiro o reino de Deus, e a sua justiça, e todas estas coisas vos serão acrescentadas. Portanto, não vos inquieteis com o dia de amanhã, pois o amanhã se inquietará consigo mesmo. Basta a cada dia o seu mal.
-
-Ensinamentos: O versículo nos ensina a confiar na providência divina e a não nos preocuparmos excessivamente com as coisas materiais, mas sim a buscarmos em primeiro lugar o Reino de Deus.
-
-- (Primeira João 2, 15-17): Não ameis o mundo, nem as coisas que há no mundo. Se alguém ama o mundo, o amor do Pai não está nele. Porque tudo o que há no mundo, a concupiscência da carne, a concupiscência dos olhos e a soberba da vida, não é do Pai, mas do mundo. Ora, o mundo passa, e a sua concupiscência; mas aquele que faz a vontade de Deus permanece para sempre.
-
-Ensinamentos: O versículo nos adverte sobre os perigos do mundo e nos incentiva a não amarmos as coisas passageiras, mas sim a buscarmos a vontade de Deus, que é eterna.
-
-- (Romanos 6, 8-11): Ora, se morremos com Cristo, cremos que também com ele viveremos; sabendo que, havendo Cristo ressurgido dentre os mortos, já não morre; a morte não mais tem domínio sobre ele. Pois, quanto a ter morrido, de uma vez para sempre morreu para o pecado; mas, quanto a viver, vive para Deus. Assim também vós considerai-vos certamente mortos para o pecado, mas vivos para Deus em Cristo Jesus nosso Senhor.
-
-Ensinamentos: O versículo nos lembra que, ao morrermos para o pecado, ressuscitamos com Cristo para uma nova vida, e que devemos nos considerar mortos para o pecado e vivos para Deus.
-
-- (João 3, 16-18): Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna. Porque Deus enviou o seu Filho ao mundo, não para que condenasse o mundo, mas para que o mundo fosse salvo por ele. Quem crê nele não é condenado; mas quem não crê já está condenado, porquanto não crê no nome do unigênito Filho de Deus.
-
-Ensinamentos: O versículo nos mostra que Deus nos ama e nos enviou Jesus para nos salvar, e que a salvação está ao alcance de todos que creem em Jesus.
-
-- (Mateus 6, 25-34): Por isso vos digo: Não vos inquieteis quanto à vossa vida, pelo que haveis de comer, ou pelo que haveis de beber; nem quanto ao vosso corpo, pelo que haveis de vestir. Não é porventura a vida mais do que o alimento, e o corpo mais do que o vestuário? Olhai para as aves do céu, que não semeiam, nem ceifam, nem ajuntam em celeiros; e vosso Pai celestial as alimenta. Não valeis vós muito mais do que elas? Ora, qual de vós, por mais que se preocupe, pode acrescentar uma única hora ao curso da sua vida? E por que vos inquietais com o vestuário? Olhai para os lírios do campo, como crescem; não trabalham nem fiam; e digo-vos que nem mesmo Salomão em toda a sua glória se vestiu como um deles. Pois, se Deus assim veste a erva do campo, que hoje existe e amanhã é lançada no forno, quanto mais a vós, homens de pouca fé? Portanto, não vos inquieteis, dizendo: Que comeremos? ou: Que beberemos? ou: Com que nos vestiremos? (Porque a todas estas coisas os gentios procuram.) Decerto vosso Pai celestial bem sabe que necessitais de todas estas coisas; mas buscai primeiro o reino de Deus, e a sua justiça, e todas estas coisas vos serão acrescentadas. Portanto, não vos inquieteis com o dia de amanhã, pois o amanhã se inquietará consigo mesmo. Basta a cada dia o seu mal.
-
-Ensinamentos: O versículo nos ensina a confiar na providência divina e a não nos preocuparmos excessivamente com as coisas materiais, mas sim a buscarmos em primeiro lugar o Reino de Deus.
-
-- (Isaías 26, 1): Naquele dia se cantará este cântico na terra de Judá: Uma cidade forte temos nós; Deus pôs a salvação por muros e antemuros.
-
-Ensinamentos: O versículo nos mostra que Deus é a nossa proteção e segurança, e que devemos confiar Nele em todos os momentos.
-
-## Músicas
-
-```
-Senhor, Tu Me Olhaste Nos Olhos - Não informado
-A música fala sobre o chamado de Jesus e a transformação de vida que ocorre quando O seguimos.
-```
-
-```
-Todo Joelho Se Dobrará - Não informado
-A música declara a soberania de Jesus e a certeza da vitória em Seu nome, mesmo diante das tribulações.
-```
-
-```
-Eu Queria Poder Dizer - Não informado
-A música expressa o amor e a alegria de estar na presença de Jesus, e o desejo de compartilhar essa experiência com outras pessoas.
-```
-
-## Eventos de Agenda
-
-Não há eventos de agenda citados na transcrição.
+## 5. Eventos de agenda
+*   **Dom Darc (Arcebispo de Diamantina):** Participou da live Rosário nesta Quaresma. O Frei expressou alegria pela presença dele, mencionando que a comunidade dos Carmelitas Missionários do Espírito Santo está sob o apoio e bênção deste episcopado.
+*   **Diocese de Santa Amaro / Arquidiocese de Diamantina:** O Frei pede oração por este grupo específico, incluindo Dom Darc, seu auxiliar Dom Marcelo e Dom Fernando emérito.
+*   **Dom José Negre (Bispo Diocesano) e Dom Marcelo (Auxiliar):** Serão os Bispos homenageados no dia 28 de dezembro, data prevista para um encontro regional/encerrando o Ano Jubilar na região de Diamantina.

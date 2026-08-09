@@ -1,110 +1,42 @@
-# Relatório do Santo Rosário
+## 1. Temática principal
+O ensinamento central de Frei Gilson durante a Quaresma é o convite ao Novo Nascimento e à transformação espiritual através do encontro com Cristo, enfatizando que este processo exige um retorno genuíno a Deus, transcendendo os limites da natureza material. O Frei insiste em uma reflexão sobre Nicodemos, alertando que se nos relacionarmos com Jesus achando que Ele é apenas o curandeiro ou o mágico, não conseguiremos vivenciar sua plena divindade e salvação. É essencial reconhecer Quem Ele é — Deus— para redefinir quem manda na nossa vida, passando de Adão (a morte) para Cristo (o novo adão).
 
-## Temática principal
+Para alcançar essa nova realidade, é imprescindível abandonar a velha natureza do pecar e aceitar o convite divino ao Novo Nascimento pelo Espírito. O Frei explica que este novo nascimento não se refere apenas à experiência física no ventre materno, mas a uma regeneração espiritual profunda, onde o ser humano busca sair da condenação original de Adão para se unir à vida eterna prometida por Cristo através do Seu sacrifício.
 
-A temática principal deste Santo Rosário é o novo nascimento em Cristo, em oposição ao nascimento em Adão.
-Frei Gilson explora essa temática através da leitura e interpretação de João 3, onde Jesus conversa com Nicodemos sobre a necessidade de renascer da água e do Espírito para entrar no Reino de Deus.
-É explicado que o novo nascimento é uma nova criação, uma ruptura com a vida antiga de pecado e uma adesão à vida em santidade, seguindo os ensinamentos de Cristo.
+A jornada em direção a essa glória futura requer silêncio e fé. O ensinamento destaca que a modernidade, com sua incessante tagarelice e foco no material (o "ruído"), impede o acesso ao mistério de Deus. A verdadeira contemplação exige calar os próprios julgamentos e opiniões para acolher o sussurro divino, um processo que nos permite viver em esperança diante do sofrimento, sabendo que as provações atuais não têm proporção com a glória futura que Cristo promete aos Seus eleitos.
 
-## Temáticas secundárias
+## 2. Temáticas secundárias
+**A Dualidade de Nascimentos: Adão e Cristo**
+O Frei explora o conceito de dois nascimentos (carny/carne e espiritual/Espírito), usando os ensinamentos dados sobre Nicodemos. O primeiro nascimento, aquele vivido em Adão, é marcado pela morte e pelo pecado universal. Em contraste, Jesus propõe um Novo Nascimento que não depende da natureza física ou biológica, mas de uma ação divina do Espírito Santo. Este novo início significa ser "novo adão", onde se deixa para trás a condenação herdada no primeiro nascimento e se nasce em Cristo, voltando à fonte criadora.
 
-### Intimidade com Cristo
+**O Imperativo do Silêncio e da Fé**
+Um dos pontos mais fortes abordados é a necessidade de silenciar os próprios pensamentos, julgamentos e palavras antes de Deus. O mistério não pode ser reduzido ao nível das nossas opiniões ou dogmas humanos; tentar "explicar" totalmente o que Deus faz (como discutir a carne como pão na Eucaristia) retira-o da sua natureza divina. Como diz Paulo, viver é viver de esperança e do Mistério. Aquele que escolhe falar em vez de silenciar os seus pecadores e dúvidas corre o risco de criar um "Deus feito à nossa imagem", um Deus sob as amarras das nossas definições humanas.
 
-A importância da intimidade com Cristo é ressaltada, enfatizando que só podemos apresentar Cristo aos outros se o conhecermos profundamente.
-Essa intimidade se conquista através da oração, da luta diária contra o pecado e da abertura do coração para a ação do Espírito Santo.
-É preciso clamar pelo sangue misericordioso de Cristo para curar as feridas do passado e permitir que ele nos transforme.
+**O Valor da Vida Espiritual Acima da Matéria**
+Frei Gilson alerta contra a obsessão pela esfera material, incentivando uma existência que transcenda o aqui e agora ("não só de pão vive o homem"). Ele compara os bens terrenos com os tesouros celestiais e explica que Deus nos fez para ser espirituais e adentrar Seus mistérios. A verdadeira segurança não está no dinheiro ou na saúde física, mas no conhecimento e fé em Quem é nosso Criador e Redentor, permitindo-nos viver fora do ciclo de morte e sofrimento da matéria por meio da graça divina.
 
-### Apresentar Cristo ao Mundo
+**O Sentido do Sofrimento através da Esperança**
+Durante os ensinamentos sobre o Calvário, Frei Gilson aborda a responsabilidade de carregar nossa cruz diariamente como sinais de que estamos em um processo de renovação espiritual. Ele ensina que se nos recuzimos a "renovar" nosso homem antigo e seguimos com o orgulho e a vaidade, carregamos o peso do pecado sobre a nossa cruz, tornando-a insustentável. O sofrimento só ganha sentido quando é vivenciado sob a lente da esperança futura na Glória, conforme ensina Romanos 8:18.
 
-É destacada a responsabilidade dos cristãos de apresentar Cristo ao mundo, não como um curandeiro ou mágico, mas como o Deus vivo e ressuscitado.
-Essa missão exige uma busca constante por conhecê-lo e intimidade com ele, para que possamos testemunhar sua verdade com convicção e amor.
-É preciso lutar contra as coisas que nos impedem de conhecer intimamente a Jesus, para que possamos estar na comunhão com ele.
+## 3. Versículos da Bíblia
+(São João 3:2) Este foi ter com Jesus, de noite, e disse-lhe: “Rabi, sabemos que és um Mestre vindo de Deus. Ninguém pode fazer esses milagres que fazes, se Deus não estiver com ele”. **Ensinamentos:** Representou Nicodemos tentando descobrir os segredos de Deus através dos milagres de Jesus, mas ainda relacionando a ação divina a uma condição externa e incompleta (Deus precisa "estar com Ele"), sem compreender plenamente a natureza de Cristo.
 
-### A fé e o mistério
+(São João 3:3) Jesus replicou-lhe: “Em verdade, em verdade te digo: quem não nascer de novo não poderá ver o Reino de Deus”. **Ensinamentos:** É um chamado à transformação radical da vida; para ter acesso ao Reino, é necessário que haja uma mudança interna e espiritual completa.
 
-A fé é apresentada como a chave para adentrar no mistério de Deus, que está além da razão humana.
-É preciso fechar os olhos e acreditar, mesmo quando não compreendemos tudo.
-A fé não está em discordância com a ciência, mas a transcende, permitindo-nos experimentar a presença de Deus em nossa vida.
+(São João 3:4) Nicodemos perguntou-lhe: “Como pode um homem renascer, sendo velho? Porventura pode tornar a entrar no seio de sua mãe e nascer pela segunda vez?”. **Ensinamentos:** A dúvida demonstra que Nicodemos só conhecia o nascimento biológico humano.
 
-### A Importância do Silêncio
+(São João 3:6) O que nasceu da carne é carne, e o que nasceu do Espírito é espírito. **Ensinamentos:** Explica a distinção entre a natureza física (Adão/morte) e a natureza espiritual (Novo Adão/vida). A regeneração ocorre fora dos limites do corpo físico original.
 
-O silêncio é apresentado como um véu sonoro que protege o mistério de Deus.
-Diante do mistério, devemos fazer silêncio, acolher e contemplar, em vez de impor nossas opiniões e ideias.
-O silêncio nos permite escutar a voz de Deus e receber a sua graça.
+(São João 6:35–35) Jesus replicou: “Eu sou o pão da vida: aquele que vem a mim não terá fome, e aquele que crê em mim jamais terá sede.” **Ensinamentos:** Jesus se revela como necessário para transcender as carências vitais (fome/sede), sendo o alimento perfeito.
 
-### A cruz e a vida nova
+(São João 6:52) A essas palavras, os judeus começaram a discutir, dizendo: “Como pode este homem dar-nos de comer a sua carne?”. **Ensinamentos:** Este trecho retrata a reação da razão humana ao Mistério divino; a tentativa dos judeus em discutir o Pão da Vida sem silenciar e contemplar.
 
-A cruz é apresentada como o caminho para a vida nova em Cristo.
-É preciso carregar a nossa cruz com fé e perseverança, permitindo que o Espírito Santo nos renove e nos fortaleça.
-Não podemos subir o Calvário permitindo que o homem velho carregue a cruz.
+(Mateus 4:4) Jesus respondeu: “Está escrito: Não só de pão vive o homem, mas de toda palavra que procede da boca de Deus” (Dt 8,3). **Ensinamentos:** Ensina que a verdadeira subsistência do ser humano não é apenas material, mas espiritual e alimentar no sentido mais profundo, exigindo que se ouça a Palavra de Deus.
 
-## Versículos citados na transcrição
+## 4. Músicas
+Eu navegarei no oceano do Espírito - Desconhecido: Contexto da pregação sobre o Novo Nascimento e o amor pela graça divina; disse "eu navegador" que cantar com "a sua alma", descrevendo um estado de entrega total ao Espírito Santo, buscando adorar a Deus em Seus braços.
+Canta para ele pois somente eu tenho a ti - Desconhecido: Contexto da meditação na madrugada e nas tempestades; o Frei incentiva o canto como uma resposta de fé e amor, declarando que somente nele reside a única segurança verdadeira.
 
-- Romanos 5, 12: Por isso, como por um só homem entrou o pecado no mundo, e pelo pecado a morte, assim também a morte passou a todos os homens, porquanto todos pecaram.
-
-    Ensinamentos: Em Adão, todos nascemos na morte. Jesus oferece um novo nascimento para nos tirar da morte e nos dar a vida eterna.
-
-- João 3, 2: Este foi ter com Jesus, de noite, e disse-lhe: Rabi, sabemos que és Mestre, vindo de Deus; pois ninguém pode fazer estes sinais que tu fazes, se Deus não estiver com ele.
-
-    Ensinamentos: Nicodemos reconhece que Jesus é um mestre vindo de Deus, mas ainda não sabe que ele é o próprio Deus.
-    Muitos de nós nos relacionamos com Jesus sem saber quem ele é, buscando apenas curas e milagres.
-
-- João 3, 3: Jesus respondeu, e disse-lhe: Na verdade, na verdade te digo que aquele que não nascer de novo, não pode ver o reino de Deus.
-
-    Ensinamentos: É necessário nascer de novo para ver o Reino de Deus. Esse novo nascimento é uma nova criação, uma ruptura com a vida antiga e uma adesão à vida em Cristo.
-
-- João 3, 4: Nicodemos disse-lhe: Como pode um homem nascer, sendo velho? Porventura pode tornar a entrar no ventre de sua mãe, e nascer?
-
-    Ensinamentos: Nicodemos só conhece um tipo de nascimento, o nascimento natural. Jesus fala de um novo nascimento, um nascimento espiritual.
-
-- João 3, 5: Jesus respondeu: Na verdade, na verdade te digo que aquele que não nascer da água e do Espírito, não pode entrar no reino de Deus.
-
-    Ensinamentos: É preciso nascer da água e do Espírito para entrar no Reino de Deus. A água representa o batismo, que nos purifica do pecado e nos dá um novo nascimento em Cristo.
-
-- João 3, 6: O que é nascido da carne é carne, e o que é nascido do Espírito é espírito.
-
-    Ensinamentos: Existem dois tipos de nascimento: o nascimento da carne, que nos dá uma vida terrena, e o nascimento do Espírito, que nos dá a vida eterna.
-
-- João 3, 16: Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.
-
-    Ensinamentos: Deus nos amou tanto que deu seu Filho para que tivéssemos a vida eterna. A vida eterna é um dom gratuito de Deus, que recebemos pela fé em Jesus Cristo.
-
-- João 3, 17: Porque Deus enviou o seu Filho ao mundo, não para que condenasse o mundo, mas para que o mundo fosse salvo por ele.
-
-    Ensinamentos: Jesus não veio para nos condenar, mas para nos salvar. Ele nos oferece a vida eterna, mas cabe a nós aceitar ou rejeitar esse dom.
-
-- Hebreus 11, 1: Ora, a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que se não veem.
-
-    Ensinamentos: A fé é a certeza daquilo que não vemos. É pela fé que podemos crer em Deus e em seus mistérios, mesmo quando não os compreendemos completamente.
-
-- Mateus 4, 4: Ele, porém, respondendo, disse: Está escrito: Nem só de pão viverá o homem, mas de toda a palavra que sai da boca de Deus.
-
-    Ensinamentos: O homem não vive só de coisas materiais, mas também de coisas espirituais. Precisamos da Palavra de Deus para alimentar a nossa alma e nos dar a vida eterna.
-
-- Romanos 8, 18: Porque para mim tenho que os sofrimentos da presente vida não são para comparar com a glória que em nós há de ser revelada.
-
-    Ensinamentos: Os sofrimentos da presente vida não se comparam com a glória futura que nos espera no céu. Essa esperança nos dá força para perseverar na fé e superar as dificuldades da vida.
-
-- Romanos 8, 28: E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito.
-
-    Ensinamentos: Deus transforma todas as coisas em bem para aqueles que o amam. Mesmo nos momentos de sofrimento, podemos confiar que Deus está no controle e que ele nos conduzirá à vitória.
-
-- João 6, 52: Disputavam, pois, os judeus entre si, dizendo: Como pode este dar-nos a sua carne a comer?
-
-    Ensinamentos: Os judeus não compreendem o mistério da Eucaristia. Eles não conseguem entender como Jesus pode dar sua carne para comer.
-
-## Músicas
-
-- Mesmo na Tempestade - Laura Souguellis
-    Ensinamento: Louvar a Deus mesmo em meio às dificuldades, reconhecendo que Ele é a nossa única segurança.
-
-- Oceans (Where Feet May Fail) - Hillsong UNITED
-    Ensinamento: Confiar em Deus e entregar-se à sua vontade, mesmo quando não compreendemos o caminho.
-
-- Eu Navegarei - Ministério Adoração e Vida
-    Ensinamento: Desejar o novo nascimento no Espírito Santo e entregar-se à sua ação transformadora.
-
-## Eventos de Agenda
-
-- Santo Rosário - até 20 de abril - Canção Nova
-    O Santo Rosário será transmitido até o dia 20 de abril, e pode ser acompanhado presencialmente na Canção Nova a partir do Domingo de Ramos.
+## 5. Eventos de agenda
+Live Ao vivo – YouTube (Santo Rosário | Quaresma 2025): Data não especificada na transcrição, mas este foi o contexto atual da transmissão ao vivo. O Frei aproveita para abençoar e encorajar quem o segue, reforçando a importância das madrugadas de oração e do encontro com Deus.
+Canção Nova (Semana Santa/Próximos dias): Data não especificada; local na Canção Nova em Aparecida. Comunicou que estaria ao vivo no Rosário presencial durante toda a semana santa, sem custos para o público.

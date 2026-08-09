@@ -1,111 +1,39 @@
-# Relatório do Santo Rosário
+## 1. Temática principal
+O ensinamento central do Frei durante este Rosário na Quaresma de 2025 é a necessidade de abandonar uma religiosidade superficial ("cristão da boca para fora") e mergulhar na busca pela essência espiritual: o silêncio interior em comunhão com Deus. O Frei Gilson enfatiza que, sem oração profunda e um profundo silêncio — descrito como a renúncia e humildade —, não é possível amar verdadeiramente nem enxergar Cristo. A mensagem convida os participantes a buscarem ativamente essa intimidade divina, pois o amor que recebemos de Deus precisa ser correspondido com nosso máximo esforço (O Amor Exige o Máximo), buscando viver na luz eterna, em contraposição às trevas e à agitação mundana.
 
-## Temática principal
+## 2. Temáticas secundárias
+**A Necessidade do Silêncio Interior**
+O Frei destaca que a verdadeira comunicação divina não ocorre no ruído ou na superficialidade das ações, mas sim no silêncio do coração. Para encontrar esse estado de intimidade com Deus, ele sugere formas de apoio e prática: a meditação da Palavra de Deus (o Evangelho), o Rosário e o tempo dedicado à oração. Além disso, a Bíblia ensina que este encontro acontece quando nos permitimos calar as palavras e os gestos para ouvirmos suavemente o chamado de Cristo em nosso interior.
 
-A temática principal do Santo Rosário é a busca pela santidade e a vivência da fé em todos os aspectos da vida. Frei Gilson enfatiza a importância de amar a Deus sobre todas as coisas, buscando a humildade, a oração constante e a prática da caridade. Ele destaca que o amor a Deus exige o máximo de nós, e não apenas o mínimo indispensável.
+**O Amor Sobrenatural como Única Fonte de Caridade**
+Dando um exemplo dos ensinamentos da Madre Teresa de Calcutá, o Frei Gilson demonstra que a caridade genuína não pode ser praticada por esforço humano isolado. O verdadeiro ato de amar — que consiste em ter paciência, bondade e não buscar interesse próprio (o amor Ágape)—necessita ser alimentado por um constante abastecimento do Amor de Deus, que só é acessível através de uma vida fervorosa de oração. Sem a oração, somos "muito pobres para ajudar os pobres", pois nosso amor seria egoísta ou mesquinho.
 
-Além disso, a temática do silêncio interior é abordada como um meio de encontrar a Deus e discernir Sua voz em meio ao ruído do mundo. O silêncio é apresentado como um caminho para a intimidade com Deus, a purificação da alma e a capacidade de amar e servir ao próximo de forma genuína.
+**A Busca pela Alegria Eterna**
+Em consonância com as referências de São João, o Frei orientou que devemos buscar ativamente a alegria completa e eterna que provém da comunhão com Cristo, e não das satisfações passageiras oferecidas pelo mundo (que são transitórias). A oração é apresentada como um caminho para aproximar-nos desse desejo supremo: a permanência junto a Deus.
 
-## Temáticas secundárias
+## 3. Versículos da Bíblia
+(João 1, 1–9): “No princípio era o Verbo, e o Verbo estava junto de Deus e o Verbo era Deus. [O Verbo] era a verdadeira luz que, vindo ao mundo, ilumina todo homem.” **Ensinamentos:** O Evangelho apresenta Jesus como A Luz que existe desde sempre (a eternidade), contrastando com as trevas do mal e da escuridão espiritual.
 
-### Súplica aos Santos Anjos
+(João 1, 2–4): “...Neste dia, a Vida se manifestou e nós a temos visto; damos testemunho vos anunciamos a vida eterna.” **Ensinamentos:** A Vida Eterna é Jesus Cristo, que se fez presente na Terra. O objetivo de Deus em nos revelar essa Vida foi o compartilhamento dela entre os seres humanos para que nossa alegria seja completa.
 
-A súplica aos Santos Anjos é realizada como um pedido de proteção, auxílio e socorro em nome da Santíssima Trindade e de Maria, Rainha dos Anjos. Os fiéis clamam pela intercessão dos Anjos em diversas situações, como em momentos de sofrimento, tentação e luta contra o mal.
+(Filipenses 4, 6–7): “Não vos inquieteis com nada! Em todas as circunstâncias apresentai a Deus as vossas preocupações, mediante a oração, as súplicas e a ação de graças.” **Ensinamentos:** O texto ensina a prática da entrega das preocupações a Deus por meio da prece. Essa prática é fundamental para que possamos caminhar em paz com Ele e não viver sob o domínio do medo ou da ansiedade mundana.
 
-### Intenções do Rosário
+(Mateus 6, 6–8): “Quando orares, entra no teu quarto, fecha a porta e ora ao teu Pai em segredo; e teu Pai, que vê num lugar oculto, te recompensará.” **Ensinamentos:** Jesus enfatiza o princípio da intimidade individual com Deus. O ato de se retirar para um espaço só é o primeiro passo para encontrar a "intimidade no coração" (ou alma), um encontro puro que não depende de testemunhas externas ou rituais públicos.
 
-As intenções do Rosário são direcionadas a diversas necessidades da Igreja e do mundo, como a saúde do Papa Francisco, a santificação do clero e das famílias, a conversão dos pecadores, a paz no mundo, as vítimas de catástrofes naturais, os desempregados, os doentes e os sofredores. Os fiéis também são convidados a colocar suas intenções particulares.
+(Apocalipse 3, 20–21): “Eis que estou à porta e bato: se alguém ouvir a minha voz e me abrir a porta, entrarei em sua casa e cearemos, eu com ele e ele comigo.” **Ensinamentos:** Deus não exige espetáculos; Ele deseja acolhimento sincero no coração. O "silêncio" da escuta é essencial para que possamos perceber que Cristo está batendo à nossa porta e nos convida a uma comunhão íntima (ceia).
 
-### Adoração a Jesus
+(Zacarias 9, 9–10): “Exulta de alegria, filha de Sião, solta gritos de júbilo, filha de Jerusalém; eis que vem a ti o teu rei, justo e vitorioso; ele é simples e vem montado num jumento, no potro de uma jumenta.” **Ensinamentos:** A verdadeira salvação, como profetizada pelo Evangelho, não se manifestará em força militar ou grandiosidade política (o que seria mundano), mas na simplicidade e humildade do Rei Jesus.
 
-A adoração a Jesus é expressa através de cânticos e orações, reconhecendo Sua santidade, glória e poder. Os fiéis se prostram em adoração, elevando seus braços e corações a Deus, reconhecendo-O como o centro de suas vidas e a razão de sua alegria.
+(João 14, 1–3): “Não se perturbe o vosso coração. Credes em Deus, crede também em mim... Depois de ir e vos preparar um lugar, voltarei e vos tomarei comigo, para que onde eu estou, também vós estejais.” **Ensinamentos:** Jesus promete preparar uma "morada" para nós no céu. A oração é apresentada como o caminho que nos aproxima desse desejo: ser eternamente unificados com Ele.
 
-### Anúncio do Reino de Deus e o convite à conversão
+## 4. Músicas
+Não foram mencionadas músicas ou artistas na transcrição do Rosário. No entanto, ao final da live, foram convidadas pessoas a acompanharem as postagens e pregações nas redes sociais (Canção Nova, Rede Vida de Televisão, TikTok, Facebook, Instagram, YouTube).
 
-O anúncio do Reino de Deus e o convite à conversão são temas centrais, com ênfase na necessidade de abandonar as trevas e seguir a luz de Cristo. Os fiéis são chamados a viver na verdade, a confessar seus pecados e a buscar a purificação através do sangue de Jesus.
+## 5. Eventos de agenda
+**Eventos futuros mencionados:**
+*   **Quarta-feira:** Recebimento do Dom Darci, Bispo de Diamantina.
+*   **Quinta-feira:** Recepção do Dom José Negre, Bispo Diocesano.
+*   **Sábado:** Presença do Padre Aílton com a sua Fraternidade João Paulo I.
 
-### Acolhimento de Cristo
-
-A reflexão sobre o acolhimento de Cristo em nossas vidas é apresentada como um caminho para a mudança e a transformação interior. Os fiéis são convidados a abrir seus corações a Jesus, permitindo que Ele entre em suas casas e transforme suas vidas, abandonando o pecado e vivendo de acordo com a Sua vontade.
-
-## Versículos citados na transcrição
-
-- (Filipenses 4, 6): Não vos inquieteis com nada; em todas as circunstâncias apresentai a Deus as vossas preocupações, mediante a oração, as súplicas e a ação de graças.
-
-Ensinamentos: Apresentar as preocupações a Deus através da oração.
-
-- (Primeira carta de São João, Capítulo 1, Versículo 1): O que era desde o princípio, o que temos ouvido, o que temos visto com nossos olhos, o que temos contemplado e as nossas mãos têm apalpado - isto proclamamos a respeito da Palavra da vida.
-
-Ensinamentos: Jesus sempre existiu, e os apóstolos testemunharam sua vida, morte e ressurreição.
-
-- (Primeira carta de São João, Capítulo 1, Versículo 2): A Vida manifestou-se, nós a vimos e dela damos testemunho, e vos anunciamos a Vida eterna, que estava junto do Pai e que nos foi manifestada.
-
-Ensinamentos: A vida eterna se manifestou em Jesus Cristo.
-
-- (Primeira carta de São João, Capítulo 1, Versículo 3): O que vimos e ouvimos, isso vos anunciamos, para que também vós tenhais comunhão conosco. E a nossa comunhão é com o Pai e com seu Filho, Jesus Cristo.
-
-Ensinamentos: Os apóstolos anunciam o que viram e ouviram, para que os fiéis tenham comunhão com eles e com Deus.
-
-- (Primeira carta de São João, Capítulo 1, Versículo 5): A mensagem que ouvimos de Jesus Cristo e vos anunciamos é esta: Deus é luz e nele não há treva alguma.
-
-Ensinamentos: Deus é luz, e não há treva alguma Nele.
-
-- (Primeira carta de São João, Capítulo 1, Versículo 6): Se dizemos que estamos em comunhão com ele, mas vivemos nas trevas, mentimos e não praticamos a verdade.
-
-Ensinamentos: Não podemos estar em comunhão com Deus e viver nas trevas.
-
-- (Primeira carta de São João, Capítulo 1, Versículo 8): Se afirmarmos que não temos pecado, enganamo-nos a nós mesmos, e a verdade não está em nós.
-
-Ensinamentos: Todos nós temos pecados.
-
-- (Primeira carta de São João, Capítulo 1, Versículo 9): Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.
-
-Ensinamentos: Deus perdoa os nossos pecados se os confessarmos.
-
-- (Primeira carta de São João, Capítulo 2, Versículo 1): Meus filhinhos, escrevo-vos estas coisas para que não pequeis. Mas, se alguém pecar, temos junto do Pai um advogado, Jesus Cristo, o Justo.
-
-Ensinamentos: Jesus é nosso advogado junto ao Pai.
-
-- (João, Capítulo 14, Versículo 1-2): Não se perturbe o vosso coração. Crede em Deus, crede também em mim. Na casa de meu Pai há muitas moradas. Se assim não fosse, eu já lhes teria dito. Pois vou preparar-vos um lugar.
-
-Ensinamentos: Jesus foi preparar-nos um lugar no céu.
-
-- (Mateus, Capítulo 6, Versículo 6): Tu, porém, quando orares, entra no teu quarto e, fechada a porta, ora a teu Pai, que está presente no segredo; e teu Pai, que vê no segredo, te recompensará.
-
-Ensinamentos: Orar em segredo, buscando a intimidade com Deus.
-
-- (Lucas, Capítulo 6, Versículo 12): Naqueles dias, Jesus retirou-se para o monte, a fim de orar, e passou a noite orando a Deus.
-
-Ensinamentos: Jesus se retirava para orar, buscando a comunhão com Deus.
-
-- (Apocalipse, Capítulo 3, Versículo 20): Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele, comigo.
-
-Ensinamentos: Jesus bate à porta do nosso coração, esperando ser acolhido.
-
-- (Zacarias, Capítulo 9, Versículo 9-10): Exulta, ó filha de Sião; rejubila, ó filha de Jerusalém; eis aí te vem o teu Rei, justo e salvador, humilde, montado em jumento, num jumentinho, cria de jumenta. Destruirei os carros de Efraim e os cavalos de Jerusalém; o arco de guerra será destruído. Ele anunciará paz às nações; o seu domínio se estenderá de mar a mar e desde o rio até as extremidades da terra.
-
-Ensinamentos: Profecia sobre a vinda do Rei Messias, justo e salvador.
-
-- (Lucas, Capítulo 11, Versículo 1): Aconteceu que, em certo lugar, estava ele orando e, ao concluir, um dos seus discípulos lhe pediu: Senhor, ensina-nos a orar como também João ensinou aos seus discípulos.
-
-Ensinamentos: Pedir a Jesus que nos ensine a orar.
-
-- (Hebreus, Capítulo 9, Versículo 27): E, assim como aos homens está ordenado morrerem uma só vez, vindo, depois disto, o juízo.
-
-Ensinamentos: Após a morte, vem o juízo.
-
-- (Segunda carta aos Coríntios, Capítulo 5, Versículo 10): Porque todos devemos comparecer ante o tribunal de Cristo, para que cada um receba segundo o bem ou o mal que tiver feito por meio do corpo.
-
-Ensinamentos: Seremos julgados por nossas obras.
-
-## Músicas
-
-- Senhor, o Santo dos Santos - Não informado
-  - A música é um convite à adoração a Jesus, reconhecendo Sua glória e poder.
-
-- Tua voz me chama - Não informado
-  - A música fala sobre confiar em Deus em meio às dificuldades, reconhecendo que Ele nos guia e fortalece.
-
-## Eventos de Agenda
-
-Não houve menção a eventos de agenda durante o Santo Rosário.
+**Missas/Lives da agenda regular mencionadas ao final do Rosário:**
+*   O Frei Gilson anuncia que continuará fazendo as transmissões diárias no Santo Rosário às 4 horas da manhã para continuar firme o propósito quaresmal.

@@ -1,178 +1,41 @@
-# Relatório do Santo Rosário
-
-## Temática principal
-
-A temática principal deste Santo Rosário é a celebração da Anunciação do Senhor, focando na Encarnação do Verbo Divino e na importância deste mistério para a salvação da humanidade. O Frei Gilson explora passagens bíblicas que destacam como Jesus, ao se fazer carne, não diminuiu sua divindade, mas elevou a condição humana, oferecendo graça, verdade e a possibilidade de nos tornarmos filhos de Deus.
-
-## Temáticas secundárias
-
-### A importância do silêncio na liturgia e na oração
-
-O Frei Gilson enfatiza a necessidade do silêncio nas igrejas e durante os atos litúrgicos, como a missa, para que os fiéis possam captar os mistérios divinos e ouvir a voz de Deus. Ele destaca que o silêncio não é mera ausência de ruído, mas uma atividade essencial para a oração contemplativa, permitindo que Deus fale ao coração e transforme vidas.
-
-### A Encarnação como ato de amor e salvação
-
-A reflexão aborda a Encarnação de Jesus como um ato supremo de amor, onde Deus assume a natureza humana para destruir o poder da morte e do pecado. Jesus se torna homem para nos salvar, libertar de toda escravidão e nos aproximar de Deus, oferecendo-se como pão da vida e salvação do mundo na Eucaristia.
-
-### A necessidade de AESE e moderação para uma vida espiritual plena
-
-O Frei Gilson, citando o Cardeal Sarah, exorta os fiéis a praticarem a AESE, ou seja, a moderação e o controle dos excessos na vida, como comer, beber e preocupações mundanas. Ele argumenta que uma vida de excessos endurece o coração, impedindo-nos de ouvir a voz de Deus e de viver uma vida espiritual plena.
-
-### O poder da fé e da oração na cura e na transformação
-
-Durante o Rosário, são compartilhados testemunhos de curas e milagres alcançados através da fé e da oração, especialmente pela intercessão de Nossa Senhora de Guadalupe. O Frei Gilson incentiva os fiéis a colocarem suas dores e enfermidades diante de Jesus, confiando no poder do Seu nome e do Seu sangue para a cura e a libertação.
-
-### O papel de Maria como Mãe de Deus e intercessora
-
-Maria é apresentada como um exemplo de fé e humildade, que ao aceitar ser a Mãe de Jesus, permitiu a Encarnação do Verbo e a salvação da humanidade. Ela é invocada como intercessora, especialmente através da oração a Nossa Senhora de Guadalupe, pedindo sua proteção e auxílio nas necessidades espirituais e físicas.
-
-## Versículos citados na transcrição
-
-- (João 1, 14): E o Verbo se fez carne e habitou entre nós, e vimos a sua glória, a glória que o Filho único recebe do Pai, cheio de graça e de verdade.
-
-    Ensinamentos: Este versículo é fundamental, pois resume a temática central do dia: a Encarnação de Jesus. Ele se fez carne, habitou entre nós e, através Dele, recebemos graça e verdade.
-
-- (João 1, 1-3): No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus. Ele estava no princípio com Deus. Todas as coisas foram feitas por ele, e sem ele nada do que foi feito se fez.
-
-    Ensinamentos: Jesus estava com o Pai desde o princípio e tudo foi feito por Ele.
-
-- (João 1, 5): A luz resplandece nas trevas, e as trevas não a compreenderam.
-
-    Ensinamentos: Jesus é a luz que veio para iluminar o mundo, mas nem todos o reconheceram.
-
-- (João 1, 12): Mas, a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus, aos que creem no seu nome.
-
-    Ensinamentos: Aqueles que recebem Jesus e creem Nele têm o poder de se tornarem filhos de Deus.
-
-- (João 1, 16): E todos nós recebemos também da sua plenitude, e graça por graça.
-
-    Ensinamentos: Recebemos a graça através de Jesus.
-
-- (João 1, 17): Porque a lei foi dada por Moisés; a graça e a verdade vieram por Jesus Cristo.
-
-    Ensinamentos: A lei veio por Moisés, mas a graça e a verdade vieram por Jesus Cristo.
-
-- (João 14, 6): Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim.
-
-    Ensinamentos: Jesus é o caminho para a verdade e para a vida eterna.
-
-- (Gálatas 4, 4): Mas, vindo a plenitude dos tempos, Deus enviou seu Filho, nascido de mulher, nascido sob a lei.
-
-    Ensinamentos: Jesus nasceu de uma mulher, Maria, e se submeteu à lei para nos libertar.
-
-- (Hebreus 2, 14): Portanto, visto como os filhos participam da carne e do sangue, também ele participou das mesmas coisas, para que pela morte aniquilasse aquele que tinha o império da morte, isto é, o diabo.
-
-    Ensinamentos: Jesus se tornou homem para destruir o poder da morte e do diabo.
-
-- (Isaías 7, 14): Portanto o mesmo Senhor vos dará um sinal: Eis que uma virgem conceberá, e dará à luz um filho, e chamará o seu nome Emanuel.
-
-    Ensinamentos: Profecia do nascimento de Jesus, o Emanuel, que significa "Deus conosco".
-
-- (Mateus 1, 23): Eis que a virgem conceberá, e dará à luz um filho, e chamarão o seu nome Emanuel, que traduzido é: Deus conosco.
-
-    Ensinamentos: Confirmação da profecia de Isaías, reforçando a presença de Deus entre nós.
-
-- (Lucas 1, 35): E, respondendo o anjo, disse-lhe: Descerá sobre ti o Espírito Santo, e o poder do Altíssimo te cobrirá com a sua sombra; por isso também o Santo, que de ti há de nascer, será chamado Filho de Deus.
-
-    Ensinamentos: O Espírito Santo conceberá Jesus no ventre de Maria.
-
-- (Hebreus 2, 17): Por isso convinha que em tudo fosse semelhante aos irmãos, para ser misericordioso e fiel sumo sacerdote naquilo que é de Deus, para expiar os pecados do povo.
-
-    Ensinamentos: Jesus se tornou semelhante a nós para ser nosso sumo sacerdote e expiar nossos pecados.
-
-- (1 Timóteo 3, 16): E, sem dúvida alguma, grande é o mistério da piedade: Deus se manifestou em carne, foi justificado no Espírito, visto dos anjos, pregado aos gentios, crido no mundo, recebido acima na glória.
-
-    Ensinamentos: Deus se manifestou em carne, confirmando o mistério da Encarnação.
-
-- (João 3, 16): Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.
-
-    Ensinamentos: Deus nos amou e enviou seu filho.
-
-- (João 6, 53): Jesus, pois, lhes disse: Em verdade, em verdade vos digo que, se não comerdes a carne do Filho do homem, e não beberdes o seu sangue, não tereis vida em vós mesmos.
-
-    Ensinamentos: A Eucaristia é essencial para a vida eterna.
-
-- (João 6, 51): Eu sou o pão vivo que desceu do céu; se alguém comer deste pão, viverá para sempre; e o pão que eu der é a minha carne, que eu darei pela vida do mundo.
-
-    Ensinamentos: Jesus é o pão que nos dá vida eterna.
-
-- (Hebreus 10, 5): Por isso, entrando no mundo, diz: Sacrifício e oferta não quiseste, mas corpo me preparaste.
-
-    Ensinamentos: Cristo veio para fazer um único sacrifício por nós.
-
-- (Filipenses 2, 6-7): Que, sendo em forma de Deus, não teve por usurpação ser igual a Deus, mas aniquilou-se a si mesmo, tomando a forma de servo, fazendo-se semelhante aos homens.
-
-    Ensinamentos: Jesus se fez servo para nos salvar.
-
--  (Lucas 2, 11): Pois, na cidade de Davi, vos nasceu hoje o Salvador, que é Cristo, o Senhor.
-
-    Ensinamentos: A carne de Jesus veio para nos salvar.
-
-- (Miqueias 5, 2): E tu, Belém-Efrata, posto que pequena entre os milhares de Judá, de ti me sairá o que governará em Israel, e cujas saídas são desde os tempos antigos, desde os dias da eternidade.
-
-    Ensinamentos: Belém é o local de onde sairá o Salvador.
-
-- (Hebreus 2, 9): Vemos, todavia, aquele que por um pouco foi feito menor do que os anjos, Jesus, coroado de glória e de honra, por causa da paixão da morte, para que, pela graça de Deus, provasse a morte por todos.
-
-    Ensinamentos: Jesus se tornou homem para provar a morte por todos nós.
-
-- (João 14, 9): Disse-lhe Jesus: Estou há tanto tempo convosco, e não me tens conhecido, Filipe? Quem me vê a mim vê o Pai; como dizes tu: Mostra-nos o Pai?
-
-    Ensinamentos: Jesus é a imagem do Pai.
-
-- (Lucas 21, 34): E olhai por vós, para que não aconteça que os vossos corações se carreguem de glutonaria, e de embriaguez, e dos cuidados da vida, e venha sobre vós de improviso aquele dia.
-
-    Ensinamentos: Não deixar que os corações se tornem pesados com os excessos da vida.
-
-- (Mateus 15, 19): Porque do coração procedem os maus pensamentos, mortes, adultérios, fornicação, furtos, falsos testemunhos e blasfêmias.
-
-    Ensinamentos: O coração é a fonte dos bons e maus pensamentos.
-
-- (Mateus 12, 36): Mas eu vos digo que de toda palavra ociosa que os homens disserem hão de dar conta no dia do juízo.
-
-    Ensinamentos: Cuidado com as palavras.
-
-- (Lucas 21, 36): Vigiai, pois, em todo o tempo, orando, para que sejais havidos por dignos de evitar todas estas coisas que hão de acontecer, e de estar em pé diante do Filho do homem.
-
-    Ensinamentos: Vigiar e orar para evitar os males e estar diante do Filho do Homem.
-
-- (1 João 4, 2): Nisto conhecereis o Espírito de Deus: Todo o espírito que confessa que Jesus Cristo veio em carne é de Deus.
-
-    Ensinamentos: Reconhecer Jesus é reconhecer o espírito de Deus.
-
-## Músicas
-
-- Ele Nunca Me Deixou - Missionário Shalom
-    A música reforça a temática da presença constante de Deus em nossas vidas, mesmo em meio às dificuldades. Deus é o Emanuel, o Deus conosco, que nunca nos abandona.
-
-- Recebe o Meu Nada - Frei Gilson
-    A música expressa a humildade e a entrega total a Deus, reconhecendo que não temos nada a oferecer além de nossa própria vida. É um convite a confiar em Deus e a permitir que Ele habite em nós, transformando-nos à Sua imagem e semelhança.
-
-- Yeshua - Central 3
-    A música é uma declaração de amor e adoração a Jesus, reconhecendo Sua beleza e divindade. É um convite a louvar e bendizer o nome de Jesus por Sua Encarnação e por Seu grande amor por nós.
-
-## Eventos de Agenda
-
-- Aleluia - 13 de setembro - Franca, São Paulo
-    Evento religioso com a presença do Frei Gilson.
-
-- Aleluia - 26 de julho - Fortaleza
-    Evento religioso com a presença do Frei Gilson.
-
-- Rosário da Vitória - 5 de abril - Santuário Mãe de Deus
-    Evento religioso com a presença do Frei Gilson.
-
-- Efetá - 8 de junho - Paranavaí, Paraná
-    Evento religioso com a presença do Frei Gilson.
-
-- Evento Canção Nova - 4 de maio - Brasília, pavilhão de exposições do parque da cidade
-    Evento religioso com a presença do Frei Gilson.
-
-- Apta Brasil - 30 e 31 de agosto - Mané Garrincha, Brasília
-    Evento religioso com a presença do Frei Gilson.
-
-- Evento - 31 de maio - Estados Unidos
-    Evento religioso com a presença do Frei Gilson.
-
-- Vigília de Páscoa - Sábado dia 19 para domingo dia 20 - Canção Nova
-    Show do Frei Gilson às 2h da manhã e Rosário às 4h da manhã.
+## 1. Temática principal
+O principal ensinamento do Frei durante o Rosário da Quaresma de 2025 é a profundidade e a glória do Mistério da Encarnação: o Verbo Divino que se fez carne para estar habitando entre nós. O Frei Gilson explica que este evento não foi um simples ato biológico, mas uma decisão amorosa de Deus em assumir nossa condição humana (que é inferior aos anjos) com a finalidade suprema de nos salvar e elevar nossa dignidade.
+
+O mistério central é o poder redentor do Filho de Deus ao se fazer homem: Ele desceu para restaurar a humanidade, elevando-nos da "desonra" e das "trevas" em que estávamos, não diminuindo Sua própria natureza divina. Ao associar-se à condição humana — tornando-se "filho do homem" — Cristo torna os filhos dos homens capazes de se tornarem filhos de Deus.
+
+Assim, a Incarnação é o maior ato de amor e graça (João 1:14). Ele veio não para nos punir, mas para que pudéssemos ter acesso à Graça e à Verdade em Jesus, vencendo a morte e destruindo o poder do demônio, provando que Satanás nunca venceu Deus.
+
+## 2. Temáticas secundárias
+### A Batalha da Encarnação contra as Trevas
+O Frei enfatiza que este é o mistério que os demônios odeiam. Ele explica que Deus escolheu se manifestar através de uma natureza humana, apesar desta ser inferior aos anjos ou seres espirituais. Essa escolha divina foi um desafio e a derrota do pensamento do demônio, que acreditava que Deus não deveria vir por meio da natureza física e imperfeita do homem.
+
+### A Graça como Dádiva Divina
+Durante o Rosário, é ressaltado que enquanto Moisés nos trazia a Lei, Jesus trouxe a Graça e a Verdade (João 1:16-17). Com Ele, ganhamos acesso à vida eterna; não precisamos mais apenas da lei para guiar nossas ações, mas da plenitude de Sua graça.
+
+### O Silêncio como Condição Essencial da Oração
+O Frei dedica uma parte significativa do ensinamento a alertar sobre o perigo dos excessos (de comer, de beber, de falar, de se preocupar). Ele cita Cardeal Sará e monsenho Guido Marini para ensinar que ouvir a voz de Deus exige "CESE", ou seja, colocar limites na vida. A oração é essencialmente silêncio; não podemos ouvir o Criador em meio ao barulho do mundo ou aos nossos próprios excessos e pensamentos desordenados.
+
+## 3. Versículos da Bíblia
+(São João 1:14) E o Verbo se fez carne e habitou entre nós, e vimos sua glória, a glória que o Filho único recebe do seu Pai, cheio de graça e de verdade. **Ensinamentos:** Este é o Mistério da Encarnação. Deus desceu para assumir nossa condição humana (forma de servo) sem deixar de ser Deus, elevando ao mesmo tempo nosso estado espiritual de trevas à glória.
+(João 1:4-5) Nele havia vida, e a vida era a luz dos homens. A luz resplandece nas trevas e as trevas não a compreenderam. **Ensinamentos:** A Luz que é Cristo veio iluminar toda humanidade; esta Luz supera e irradia sobre as "trevas" (nós mesmos).
+(João 1:9-9) [O Verbo] era a verdadeira luz que, vindo ao mundo, ilumina todo homem. **Ensinamentos:** O Verbo é descrito como a verdadeira luz divina para toda a humanidade desde o princípio de sua manifestação no mundo.
+(João 3:16) Com efeito, de tal modo Deus amou o mundo, que lhe deu seu Filho único, para que todo o que nele crer não pereça, mas tenha a vida eterna. **Ensinamentos:** Jesus veio com um amor incondicional (caridade divina) com o propósito maior de garantir a salvação e a vida eterna ao ser humano.
+(João 6:51-51) Eu sou o pão vivo que desceu do céu. Quem comer deste pão viverá eternamente. E o pão, que eu hei de dar, é a minha carne para a salvação do mundo. **Ensinamentos:** A Encarnação culmina na Eucaristia; Jesus se fez verdadeiramente "comida" (su própria carne) para ser o sacrifício e meio da nossa salvação eterna.
+(João 14:9-9) Respondeu Jesus: “Há tanto tempo que estou convosco e não me conheceste, Filipe! Aquele que me viu viu também o Pai... **Ensinamentos:** A Encarnação é a prova de que Deus está presente em meio aos homens; Ele não precisa se esconder para revelar Sua identidade como Pai.
+(Lucas 2:11-11) hoje vos nasceu na Cidade de Davi um Salvador, que é o Cristo Senhor. **Ensinamentos:** O nascimento de Jesus foi anunciado messianticamente para ser o Redentor da humanidade e cumprimento das promessas a Israel.
+(Romanos 8:3-3) O que era impossível à Lei, visto que a carne a tornava impotente, Deus o fez. Enviando, por causa do pecado, o seu próprio Filho numa carne semelhante à do pecado, condenou o pecado na carne. **Ensinamentos:** A vinda de Jesus foi uma intervenção divina para redimir e superar a incapacidade humana causada pelo pecado.
+(Filipenses 2:6-7) Sendo ele de condição divina, não se prevaleceu de sua igualdade com Deus, mas aniquilou-se a si mesmo, assumindo a condição de escravo e assemelhando-se aos homens. **Ensinamentos:** A Humilhação do Filho de Deus é um ato voluntário que visa redimir a humanidade; ele se tornou servo para nos fazer filhos de Deus.
+(São João Crisóstomo, citado no Evangelho) O Verbo se fez carne... Ele não deixou de ser Deus, mas assumiu o modo "homem" e "servo" em nós. **Ensinamentos:** A divindade inalterada é a essência do Cristo encarnado; Sua natureza divina permaneceu perfeita mesmo ao assumir uma forma humana frágil (servidão).
+(Lucas 21:34-34) “Velai sobre vós mesmos, para que os vossos corações não se tornem pesados com o excesso do comer, com a embriaguez e com as preocupações da vida... **Ensinamentos:** Este trecho é um conselho de Cristo sobre a necessidade de fazer uma "CESE" (limites), pois os vícios mundanos nos endurecem o coração, impedindo-nos de ouvir a voz de Deus.
+(Mateus 15:19-19) Porque é do coração que provêm os maus pensamentos... **Ensinamentos:** O Cardeal Sará enfatiza que as palavras faladas (fofocas ou calúnias) não são mais sobre ações externas, mas sobre o estado de nosso íntimo e cor.
+
+## 4. Músicas
+**Yeshua - [Artista não mencionado]:** Contexto: Adoração fervorosa pelo grande mistério da Encarnação. O Frei expressou que Jesus é tão lindo que ele nem sabe se expressar; Ele deve ser adorado por Seu imenso amor e pela Sua vinda aos nossos corações.
+
+## 5. Eventos de agenda
+### Rosários Especiais (Quermess/Novidades)
+*   **Data:** Quinta-feira, 3 de abril (e quarta-feira, 2 de abril). **Local:** Estúdio da Canção Nova em São Paulo. **Detalhes:** O Frei Gilson realizará um Rosário ao vivo, acolhendo duas famílias sorteadas para passarem a noite no estúdio com o casal e receberem carinho especial; os organizadores providenciarão alojamento (quartos), alimentação e transporte/carro até o local de São Paulo.
+*   **Data:** 19 de abril ao 20 de abril. **Local:** Canção Nova (local a ser confirmado). **Detalhes:** Vigília de Páscoa, com show especial do Frei Gilson às 2 horas da manhã e Rosário no Domingo de Páscoa; Missa seguida para o domingo de Páscoa com a família.
+*   **Data:** 8 de junho. **Local:** Parque de Exposições em Paranavaí (Paraná). **Detalhes:** Rosário especial na Canção Nova, no local indicado como "Efeta".
+*   **Data:** 4 de maio e 30 e 31 de agosto. **Local:** Pavilhão de Exposições do parque da cidade e Nega Rincha em Brasília (DF), respectivamente. **Detalhes:** Eventos especiais na Canção Nova para a participação do Frei Gilson com o público.
+*   **Data:** 2º de abril. **Local:** Estúdio da Canção Nova em São Paulo. **Detalhes:** Dia necessário para os participantes se prepararem e estarem no local para o sorteio dos convidados, conforme instruções para chegar ao estúdio.

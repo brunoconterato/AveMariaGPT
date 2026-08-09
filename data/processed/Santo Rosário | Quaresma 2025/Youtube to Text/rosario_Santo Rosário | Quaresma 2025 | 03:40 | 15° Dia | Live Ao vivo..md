@@ -1,72 +1,48 @@
-# Relatório do Santo Rosário
+## 1. Temática principal
+O principal ensinamento do Frei Gilson durante este Rosário é a santificação da vida cotidiana e a busca pela intimidade profunda com Jesus Cristo. Ele orientou que os mistérios não fossem apenas contemplados de forma abstrata, mas integrados em cada momento do dia, transformando tarefas mundanas — seja o trabalho ou as rotinas familiares — em atos de adoração e serviço a Deus. A mensagem central é que a santidade não exige uma separação drástica da vida profana; ao contrário, ela reside na dedicação amorosa e com esmero ao cumprimento dos pequenos deveres, vivendo cada instante como um ato de apóstolo.
 
-## Temática principal
+Para alcançar essa espiritualidade, o Frei enfatizou que é necessário transformar as ações em gestos de serviço a Deus e ao próximo. O Rosário torna-se, portanto, uma "arma poderosa" para reorientar os caminhos da vida do fiel. Não se trata apenas de rezar, mas de realizar escolhas diárias que agradem a Cristo, reconhecendo o valor sagrado de cada ato executado no serviço divino ou nas relações humanas, garantindo assim a plena vivência da vocação como filhos de Deus.
 
-A temática principal do Santo Rosário é a busca pela santidade na vida cotidiana, conforme ensinado por São José Maria Escrivá. Ele enfatiza que a santidade não está restrita a ambientes religiosos ou a práticas extraordinárias, mas sim em cumprir os deveres diários com amor e dedicação. Além disso, foi enfatizada a importância do respeito ao sagrado, tanto em templos e ritos religiosos quanto na vida humana, e a necessidade de silêncio para se conectar com o divino. A oração, a confissão e a busca pela intimidade com Cristo foram apresentadas como caminhos para alcançar a santidade e transformar a vida.
+## 2. Temáticas secundárias
+### Santidade Cotidiana e o Valor do Ofício
+O Frei Gilson transmitiu as reflexões de São José Maria Escrivá sobre a importância de santificar o trabalho próprio. A pregação destacou que não é necessário abandonar a vida cotidiana para experimentar a santidade; ela deve ser vivida com empenho, amor e alegria em cada ofício, seja ele grandioso ou simples (como tomar um banho, fazer café ou trabalhar). Os fiéis são chamados a perceber que ambos os tipos de atividade — aqueles com alta qualificação e aqueles mais humildes — têm o potencial de testemunhar a santidade se realizados com fervor.
 
-## Temáticas secundárias
+### A Intimidade como Caminho
+A busca por Deus foi apresentada não primariamente através do medo ou da obrigação, mas pelo desejo genuíno de amizade. Ao discutir os mistérios gozosos, ele enfatizou que Jesus deseja ter intimidade e amizade com seus seguidores. Para realizar essa proximidade, o fiel deve se colocar em oração constante e dedicar tempo a Ele. A insistência durante este período quaresmal (40 dias) deve ser um compromisso de fidelidade para garantir que ao final deste propósito, haverá uma maior intimidade com Deus.
 
-### Intimidade com Jesus
+### O Sagrado como Dom do Silêncio
+No diálogo sobre o Cardeal Sarà, foi ensinado que a ditadura do ruído moderno ameaça a percepção do sagrado. A pregação ressalta que para se comunicar com o divino e internalizar o amor de Deus, é preciso cultivar um silêncio interior profundo e adorador. O silêncio não é um tabu imposto, mas uma condição necessária para receber a presença de Deus, permitindo-nos nos afastar do "tumulto incessante" e reconectarmos com aquilo que é sagrado em nossa vida e na Igreja.
 
-A importância de buscar intimidade com Jesus através da oração foi ressaltada. Frei Gilson enfatizou que ser íntimo de Jesus significa conhecer sua vontade, seus desejos e seu coração, e que a oração é o caminho para aumentar essa intimidade.
+## 3. Versículos da Bíblia
+(1 Coríntios 6:19–6:19): Ou não sabeis que o vosso corpo é templo do Espírito Santo, que habita em vós, o qual recebestes de Deus e que, por isso mesmo, já não vos pertence?
+**Ensinamentos:** A pessoa humana deve reconhecer seu corpo como um lugar sagrado onde habita a presença de Deus. Por ser templo do Espírito Santo, ela não lhe pertence, reforçando a necessidade de usá-la para o bem divino.
 
-### Confissão e Perdão
+(Eclesiástico 9:17–17): Não sintas prazer com a violência dos injustos; sabe que o ímpio desagrada a Deus até na habitação dos mortos.
+**Ensinamentos:** Este ensinamento serve como um alerta moral contra a violência e as atitudes indignas, pois elas ofendem a Deus e aos seus valores sagrados, mesmo após a morte.
 
-A necessidade da confissão como sacramento de cura e da importância de reconhecer os próprios pecados para alcançar o perdão de Deus foi mencionada. Além disso, foi enfatizada a importância de perdoar os outros para receber o perdão divino.
+(Habacuc 2:20–20): Mas o Senhor reside em sua santa morada; silêncio diante dele, ó terra inteira!
+**Ensinamentos:** A passagem enfatiza que Deus habita no lugar sagrado (a santa morada). Portanto, a resposta humana deve ser o silêncio adorador e respeitoso perante o mistério divino.
 
-### O Sagrado e o Profano
+(Isaías 6:5–6): “Ai de mim” – gritava eu –. “Estou perdido porque sou um homem de lábios impuros, e habito com um povo (também) de lábios impuros e, entretanto, meus olhos viram o rei, o Senhor dos exércitos!”
+**Ensinamentos:** No contexto da experiência espiritual, este versículo representa a humildade do fiel ao reconhecer sua imperfeição diante da glória de Deus. Ele inspira a condição necessária para se aproximar do mistério sagrado através da confissão e do reconhecimento próprio de fragilidade.
 
-A importância de distinguir entre o sagrado e o profano e de manter o respeito pelos lugares e objetos sagrados foi mencionada, ressaltando que o templo é um lugar de oração e adoração, não de comércio ou entretenimento.
+(Isaías 41:1–1): Ilhas, silenciai para me ouvir, e que os povos renovem suas forças. Que venham tomar a palavra, e pleitear comigo sua causa!
+**Ensinamentos:** O versículo aponta que o crescimento espiritual exige silêncio para poder ouvir Deus. É um convite à renovação das forças em Deus através da meditação silenciosa do mistério sagrado.
 
-### O Tempo como Tesouro
+(São Lucas 6:45–45): O homem bom tira coisas boas do bom tesouro do seu coração, e o homem mau tira coisas más do seu mau tesouro, porque a boca fala daquilo de que o coração está cheio.
+**Ensinamentos:** Este ensinamento foi usado para reforçar que as palavras e ações do fiel devem refletir genuinamente os ensinamentos de Cristo e o amor contido em seu coração, manifestando uma vida cristã verdadeira por meio das escolhas pessoais.
 
-A importância de aproveitar o tempo para amar a Deus e para se gastar no serviço a Ele foi mencionada, destacando que o tempo dedicado a Deus é o que mais vale a pena na vida.
+## 4. Músicas
+**Canção (Não especificada) - Artista: Contexto:** A música foi utilizada na pregação para promover a súplica pela saciedade da presença de Jesus e o amor sincero pelo Criador, focando em como nada no mundo pode satisfazer plenamente o coração humano senão Deus.
 
-### A Força da Oração
-
-A força da oração como arma poderosa e como caminho para atalhar todos os males que sofremos foi ressaltada, destacando que a oração nos dá sabedoria para passar pelos sofrimentos e nos une cada vez mais a Cristo.
-
-## Versículos citados na transcrição
-
-- Lucas 6, 45: "O homem bom tira coisas boas do bom tesouro do seu coração e o homem mau tira coisas más do tesouro do seu coração porque a boca fala daquilo que o coração está cheio."
-
-Ensinamentos: O versículo ressalta a importância de ter um coração bom e cheio de amor, pois é isso que transbordará em nossas palavras e ações. Frei Gilson enfatiza que devemos ser cristãos não apenas da boca para fora, mas de verdade, vivendo os ensinamentos de Cristo em todas as áreas de nossa vida.
-
-- Isaías 6, 5: "Ai de mim, gritava eu, estou perdido, porque sou um homem de lábios impuros e habito com um povo também de lábios impuros, e entretanto meus olhos viram o rei, o Senhor dos exércitos!"
-
-Ensinamentos: O versículo mostra a reação de Isaías ao se deparar com a santidade de Deus, reconhecendo sua própria impureza e a do povo. Frei Gilson utiliza esse versículo para enfatizar a importância do silêncio diante do mistério e da grandeza de Deus, e como o silêncio nos permite reconhecer nossa pequenez e miséria.
-
-- Isaías 41, 1: "Ilhas, silenciai para me ouvir, e que os povos removam suas forças; que venham tomar a palavra e pleitear comigo sua causa."
-
-Ensinamentos: O versículo enfatiza a necessidade de silenciar para ouvir a voz de Deus e para poder apresentar nossas causas diante Dele. Frei Gilson utiliza esse versículo para ressaltar a importância do silêncio para se conectar com o divino e para estar em sintonia com a vontade de Deus.
-
-- Abacuc 2, 20: "Mas o Senhor reside em sua santa morada; cale-se diante dele toda a terra!"
-
-Ensinamentos: O versículo ressalta a presença de Deus em sua santa morada e a necessidade de silenciar diante Dele. Frei Gilson utiliza esse versículo para enfatizar a importância do respeito ao sagrado e como o silêncio nos ajuda a entrar em comunhão com o divino.
-
-- 1 Coríntios 6, 19: "Ou não sabeis que o vosso corpo é templo do Espírito Santo, que habita em vós, o qual tendes da parte de Deus, e que não sois de vós mesmos?"
-
-Ensinamentos: O versículo ressalta que o nosso corpo é templo do Espírito Santo e, portanto, deve ser tratado com respeito e cuidado. Frei Gilson utiliza esse versículo para enfatizar a importância de valorizar a vida humana e de respeitar o nosso corpo como morada de Deus.
-
-- João 2, 13-16: "Estava próxima a Páscoa dos judeus, e Jesus subiu a Jerusalém. E encontrou no templo os que vendiam bois, ovelhas e pombas, e também os cambistas assentados. Tendo feito um azorrague de cordas, expulsou todos do templo, bem como as ovelhas e os bois; e espalhou o dinheiro dos cambistas, e virou as mesas; e disse aos que vendiam as pombas: Tirai daqui estas coisas; não façais da casa de meu Pai casa de negócio."
-
-Ensinamentos: Jesus expulsa os vendedores e cambistas do templo, demonstrando zelo pela casa de Deus e pela sacralidade do local. Frei Gilson utiliza essa passagem para enfatizar a importância de distinguir entre o sagrado e o profano e de não profanar os lugares de culto com atividades mundanas.
-
-## Músicas
-
-- *Assim como a corça* - Não especificado
-    * A música expressa a sede da alma por Deus e a necessidade de saciar essa sede com a presença divina.
-
-- *E Ainda Se Vier* - Não especificado
-    * A música fala sobre a importância de confiar em Deus mesmo diante dos problemas e sofrimentos da vida.
-
-- *Eu me abro ao Teu querer* - Não especificado
-    * A música fala sobre a entrega da vida a Deus e a confiança em Seus planos.
-
-## Eventos de Agenda
-
-- **Desperta Brasil** - 30 e 31 de agosto - Manega Garrincha, Brasília
-    * Evento de evangelização com pregações, músicas e orações.
-
-- **Summer Night** - 17 de maio, 18h às 6h do dia 18 - Santa Bárbara do Oeste, Piracicaba
-    * Evento com muita música, oração, missa e adoração.
+## 5. Eventos de agenda
+*   **Propósito do dia:** Visitar uma igreja e permanecer conversando com Jesus (no Santíssimo Sacramento).
+    *   **O que foi dito:** O Frei convida a todos a fazer este propósito, pois Jesus espera por cada um para encontrar o fiel pessoalmente no santíssimo.
+*   **Desperta Brasil - 30 e 31 de agosto em Brasília, Manega Garrinchá:** Evento da Igreja Católica com Dom Devaí como convidado.
+    *   **O que foi dito:** O Frei Gilson convida os fiéis a participarem deste evento extraordinário, destacando que é uma obra de evangelização e não possui intenção política ou financeira.
+*   **Desperta Piracicaba (Summer Night) - 17 de maio em Santa Bárbara do Oeste, Piracicaba:** Evento promovido pela diocese de Piracicaba com Dom Devaí como convidado.
+    *   **O que foi dito:** Este evento tem o objetivo de unir a comunidade católica através da música e oração para ser um momento de alegria e devoção juvenil.
+*   **Lar Divina Misericórdia - Local em São Paulo/Entidade no canal:** Obra de caridade destinada a mulheres com deficiências mentais e físicas, muitas das quais estão em abandono e indignidade.
+    *   **O que foi dito:** É uma obra sustentada pela providência de Deus, recebendo ajuda por doações (alimentos, fraldas, etc.) para garantir um lar dignidade. O Frei enfatiza a conexão entre penitência/oração e obras de caridade neste tempo quaresmal.
+*   **Passeio em Marrocos - Conexão na Europa:** Relato pessoal de encontro com culturas religiosas estrangeiras.
+    *   **O que foi dito:** O relato serve para demonstrar a importância do respeito pelas diferentes manifestações de fé e religião, mesmo quando o ponto de vista não é compartilhado por todos (o católico deve respeitar outros cultos).

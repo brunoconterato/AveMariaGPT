@@ -1,107 +1,63 @@
-# Relatório do Santo Rosário
+## 1. Temática principal
+O principal ensinamento do Frei durante o Rosário é a necessidade de uma vida espiritual ativa e vigilante, especialmente na batalha contra as inclinações e os excessos da carne (concupiscência). Ele exorta os fiéis a não permitirem que o tempo passe inutilmente ao negligenciarem a oração. O Rosário se torna um instrumento para examinar nossos maus hábitos e desvios morais – como orgulho, inveja ou luxúria — entendendo que a perfeição exige a constante extirpação do mal em sua raiz. Além disso, o Frei enfatiza que as provações são permitidas por Deus justamente porque Ele sabe que somos capazes de superá-las, estando sempre disponível para nos conceder os meios necessários à vitória e ao crescimento espiritual.
 
-## Temática principal
+## 2. Temáticas secundárias
+**Vigilância na Oração:** A vida espiritual deve ser intencional e vigilante. Segundo o texto de *Imitação de Cristo*, é vital "Importar vigiar e orar para que não passe inutilmente o tempo". Quem deixa a vida de oração passa o tempo de forma inútil, pois nada substitui o diálogo constante com Deus para aproveitar plenamente cada momento da existência.
 
-A temática principal do Santo Rosário é a busca por uma vida de virtude e a superação das más tendências inerentes ao ser humano, herdadas do pecado original. Através da oração e da meditação nos ensinamentos de Cristo, os fiéis são chamados a resistir às tentações, a extirpar os vícios e a cultivar um coração cada vez mais alinhado com a vontade de Deus.
+**Luta Contra a Concupiscência:** O pecado original nos deixou com más tendências (concupiscência) e maus hábitos que combatemos na fé. Para ser filho de Cristo, é necessário "contrariar a vontade própria", o que implica em negar-se a si mesmo e lutar ativamente contra vícios e pecados capitais – como a avareza ou a preguiça – buscando sempre um crescimento espiritual contínuo através da virtude.
 
-A importância da oração é enfatizada como um meio de aproveitar o tempo de forma útil e de se conectar com o Criador, buscando força e auxílio divinos para enfrentar os desafios da vida e perseverar no caminho da fé. A meditação nos mistérios do Rosário e nos ensinamentos da Imitação de Cristo oferece um guia para a reflexão pessoal e para a busca de uma vida mais santa e virtuosa.
+**O Valor das Provações:** Deus não permite provações fora de nossas capacidades, pois Ele é fiel em nos prover os meios para superá-las e vencê-las. O sofrimento serve como uma "luz" que nos obriga a olhar para dentro de nós mesmos, lembrando-nos da nossa fragilidade terrena e permitindo que amadureçamos espiritualmente por meio do calor das contrariedades.
 
-## Temáticas secundárias
+## 3. Versículos da Bíblia
+(1 Coríntios 10:13): Não vos sobreveio tentação alguma que ultrapassasse as forças humanas Deus é fiel não permitirá que sejais tentados além de vossas forças mas com a tentação ele vos dará os meios de suportá-la e sairdes dela.
+**Ensinamentos:** Reforça o ensinamento do Frei durante o Rosário: quando Deus permite uma provação, Ele garante que temos os recursos para vencê-la.
 
-### O tempo e a oração
+(1 São João 2:15–16): Não ameis o mundo nem as coisas do mundo Se alguém ama o mundo não está nele o amor do Pai porque tudo que há no mundo a concupiscência da carne concupiscência dos olhos e a soberba da vida.
+**Ensinamentos:** Define os tipos de inclinações mencionadas pelo Frei (concupiscência da carne, dos olhos e soberba da vida) como aquilo que atrai do mundo e nos afasta do amor verdadeiro do Pai.
 
-A importância de vigiar e orar para que o tempo não passe inutilmente. Quem não reza, está perdendo tempo na vida. A melhor forma de aproveitar o tempo é orando, falando com Deus.
+(Romanos 3:23): Com efeito todos pecaram e estão privados da glória de Deus.
+**Ensinamentos:** Usado no Rosário para fundamentar o ensinamento sobre a origem da necessidade de lutar contra nós mesmos, uma vez que estamos privados da glória de Deus por conta do pecado original.
 
-### As provações e a força divina
+(Romanos 5:12): Por isso como por um só homem entrou o pecado no mundo e pelo pecado a morte assim a morte passou a todo o gênero humano porque todos pecaram...
+**Ensinamentos:** Fundamenta o ensinamento sobre por que é necessário "contrariar a vontade própria" ao buscar seguir Cristo, pois somos manchados pela queda original de Adão e Eva.
 
-Deus não permite provações acima das forças humanas. Ele auxilia e está pronto para ajudar os que pelejam e confiam na Sua graça. Deus não permitiria um combate que não pudesse ser vencido.
+(Romanos 8:28): Aliás sabemos que todas as coisas concorrem para o bem daqueles que amam a Deus daqueles que são os eleitos segundo os seus desígnios.
+**Ensinamentos:** Esclarece o ensinamento dado sobre o sofrimento, afirmando que em todo sofrimento há um benefício e crescimento se amamos a Deus.
 
-### Os vícios e a busca pela perfeição
+(Salmos 8:6–7): Entretanto vós o fizestes quase igual aos anjos de glória e honra o coroastes Destes-lhe poder sobre as obras vossas mãos vós lhe submetestes todo o universo.
+**Ensinamentos:** Menciona que a humanidade é criada à imagem de Deus e possui domínio sobre os outros seres, o que leva ao ensinamento do Frei sobre nosso potencial elevado.
 
-A necessidade de extirpar os vícios da vida, como orgulho, preguiça, inveja, luxúria, gula e avareza, para alcançar a perfeição. Um vício sempre é um excesso, e tudo que é excesso atrapalha.
+(Salmos 8:6–7): Entretanto vós o fizestes quase igual aos anjos de glória e honra o coroastes Destes-lhe poder sobre as obras vossas mãos vós lhe submetestes todo o universo.
+**Ensinamentos:** Enfatiza que a humanidade possui dignidade semelhante à dos anjos, servindo como base para o ensinamento de Cristo sobre nosso potencial e responsabilidade na luta moral.
 
-### Vencer a si mesmo e seguir a Cristo
+(São João 15:5): Eu sou a videira vós os ramos Quem permanecer em mim e eu nele esse dá muito fruto porque sem mim nada podeis fazer.
+**Ensinamentos:** É a base teológica para o ensinamento de que, "sem mim, você não pode fazer nada", reforçando a necessidade de permanência em Cristo (videira) para produzir frutos espirituais.
 
-A importância de vencer a si mesmo, negando as más tendências e vontades contrárias a Deus, para seguir a Cristo.
+(São Mateus 5:27–28): Ouvistes que foi dito aos antigos Não cometerás adultério Eu porém vos digo todo aquele que lançar um olhar de cobiça para uma mulher já adulterou com ela em seu coração O que Jesus ensina é a importância de tirar o mal pela raiz, pois mesmo pensamentos como o desejo podem levar ao pecado.
 
-### A tentação e a concupiscência
+(Mateus 13:13–13): Eis porque lhes falo em parábolas para que vendo não vejam e ouvindo não ouçam nem compreendam Assim cumpre para eles o que foi dito pelo profeta Isaías Ouvireis com os vossos ouvidos e não entendereis Olhareis com os vossos olhos e não vereis porque o coração deste povo se endureceu.
+**Ensinamentos:** Este trecho final da reflexão ensina que nem mesmo o ato de ouvir é suficiente; é preciso querer escutar, abrir o coração para compreender a voz de Deus que fala ao homem de maneiras distintas (seja em silêncio ou através das parábolas).
 
-A necessidade de resistir às inclinações para o mal, desfazendo-se dos maus hábitos, para evitar maiores dificuldades. A concupiscência, presente em todos, manifesta-se como desejo de fazer coisas ruins, exigindo uma luta constante para não ceder a esses impulsos.
+## 4. Músicas
+Meu pensamento vive em você - Artista: Contexto: É cantada durante os momentos de acolhimento e prece, sendo usada como um canto de devoção e consagração pessoal a Jesus.
 
-## Versículos citados na transcrição
+Moeda falsa / A razão do meu viver (Música citada no encerramento) - Artista: Não especificado. Contexto: Apresentação final após as bênçãos, com o objetivo de motivar os presentes a se entregarem plenamente a Cristo e reconhecerem que Jesus é tudo.
 
-- (Primeira Coríntios, 10:13): Não vos sobreveio tentação alguma que ultrapassasse as forças humanas. Deus é fiel e não permitirá que sejais tentados além das vossas forças.
+## 5. Eventos de agenda
+**Rosário da Quaresma - Continuação:**
+*   **Segunda-feira (Semana que vem):** Dia de oração pela libertação dos vícios (alcoolismo, drogas e outros), pedindo a liberdade para todos os envolvidos.
+*   **Terça-feira (Semana que vem):** Bênção especial pela vida financeira, rezando por processos parados na justiça e necessidades econômicas. Ramon e Rafael ajudarão com o canto.
+*   **Quarta-feira (Semana que vem):** Bênção da Casa para abençoar cada cômodo do lar, convidando toda a família. Eliana Ribeiro ajudará no canto/oração.
+*   **Quinta-feira (Semana que vem):** Momento de efusão do Espírito Santo, pedindo à Virgem Maria o seu auxílio e manifestação da graça divina sobre todos os presentes. Eliana Ribeiro estará presente.
+*   **Sexta-feira (Semana que vem):** Dia de louvor com a participação do padre Marcelo Rossi, focado em oração especial.
+*   **Sábado (Semana que vem):** Consagração da vida e família à Nossa Senhora de Guadalupe, celebrando os 40 dias já vividos na Quaresma, com Caira e Erisson auxiliando no canto/oração.
 
-Ensinamentos: Deus não permite provações acima das forças, mas com a tentação/provação, Ele dará os meios para suportá-la e sair dela.
-
-- (Romanos, 5:12): Por isso, como por um só homem entrou o pecado no mundo, e pelo pecado a morte, assim também a morte passou a todo o gênero humano, porque todos pecaram.
-
-Ensinamentos: A partir do pecado de Adão e Eva, todos temos más tendências dentro de nós, o que chamamos de concupiscência.
-
-- (Romanos, 8:28): Tudo concorre para o bem daqueles que amam a Deus.
-
-Ensinamentos: Em todo sofrimento, há crescimento e amadurecimento.
-
-- (João, 15:5): Sem mim, nada podeis fazer.
-
-Ensinamentos: Precisamos de Deus sempre, tanto nos momentos bons quanto nos ruins.
-
-- (Romanos, 3:23): Com efeito, todos pecaram e estão privados da glória de Deus.
-
-Ensinamentos: Por causa do pecado, nascemos privados da glória de Deus.
-
-- (Mateus, 5:27): Ouvistes o que foi dito aos antigos: Não cometerás adultério. Eu, porém, vos digo: todo aquele que lançar um olhar de cobiça para uma mulher, já adulterou com ela em seu coração.
-
-Ensinamentos: O adultério começa no olhar, não na prática.
-
-- (Mateus, 5:28): Se teu olho direito é para ti causa de queda, arranca-o e lança-o para longe de ti, porque te é preferível perderes um só dos teus membros, que o teu corpo todo seja lançado na geena.
-
-Ensinamentos: Para não cair no adultério, tire o pecado pela raiz, começando pelos olhos.
-
-- (Gálatas, 5:19): A briga é uma obra carnal.
-
-Ensinamentos: A briga significa que as paixões tomaram conta de nós, e agir pela paixão nunca vai resolver.
-
-- (João, 3:30): Importa que ele cresça e eu diminua.
-
-Ensinamentos: Buscar a glória de Deus é sair de cena, para que Cristo apareça em nós.
-
-- (Lucas, 10:17): Quem vos ouve a mim ouve, e quem vos rejeita a mim rejeita; e quem me rejeita, rejeita aquele que me enviou.
-
-Ensinamentos: Jesus fala através da Igreja e de suas testemunhas, e ouvir a Igreja é ouvir a Jesus.
-
-- (Mateus, 13:13): Eis porque lhes falo em parábolas: para que, vendo, não vejam e, ouvindo, não ouçam nem compreendam.
-
-Ensinamentos: O desinteresse em escutar a voz de Deus leva à incompreensão.
-
-- (Apocalipse, 3:20): Eis que estou à porta e bato. Se alguém ouvir a minha voz e me abrir a porta, entrarei em sua casa e cearei com ele, e ele comigo.
-
-Ensinamentos: Deus não arromba o coração, Ele bate à porta e espera que a pessoa o convide a entrar.
-
-## Músicas
-
-- E quando a tristeza vem - Frei Gilson
-  - A música fala sobre a tristeza e a perda da paz, mas reforça a importância de esperar em Deus e confiar que Ele é mais forte e nos protegerá de todo o mal.
-
-- Sim, eu creio - Frei Gilson
-  - A música é uma declaração de fé em Jesus, reconhecendo-o como a razão do viver e do louvor, e expressando o desejo de entregar tudo a Ele.
-
-## Eventos de Agenda
-
-- Libertação dos vícios - Segunda-feira - Local a definir
-  - Rezar pela libertação dos vícios, convidando os fiéis a trazer nomes de pessoas que sofrem com vícios, como alcoolismo e drogas.
-
-- Bênção da vida financeira - Terça-feira - Local a definir
-  - Realizar uma bênção especial pela vida financeira, convidando os fiéis a trazerem suas carteiras de trabalho e rezando por processos parados na justiça e por outras necessidades financeiras.
-
-- Bênção da casa - Quarta-feira - Local a definir
-  - Abençoar cada cômodo da casa, convidando toda a família a participar e preparando água para ser abençoada.
-
-- Efusão do Espírito Santo - Quinta-feira - Local a definir
-  - Pedir a efusão do Espírito Santo sobre todos os participantes, buscando uma renovação espiritual.
-
-- Louvor e Oração com Padre Marcelo Rossi - Sexta-feira - Local a definir
-  - Ter um dia de muito louvor e oração com a presença do Padre Marcelo Rossi.
-
-- Consagração a Nossa Senhora de Guadalupe - Sábado - Local a definir
-  - Consagrar a vida e a família a Nossa Senhora de Guadalupe, agradecendo por sua companhia durante os 40 dias.
+**Missions e Intenções do Rosário:**
+*   Rezamos pela missão e saúde do Papa Francisco.
+*   Oração pelos bispos em geral e pelo Bispo Dom José Negre e seu auxiliar, Dom Marcelo (Diócese de Santamaro).
+*   Pela santificação do clero e pelas santas vocações.
+*   Pelo Instituto dos Carmelitas e pela fundadora Maria José do Espírito Santo.
+*   Pela santificação das famílias e casais.
+*   Conversão dos pecadores e almas do purgatório.
+*   Paz no mundo, países em guerra e necessidades urgentes do Brasil (incluindo catástrofes naturais).
+*   Intercessão pelos desempregados, doentes sofredores e por todos os que rezam junto ao Rosário.

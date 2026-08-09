@@ -1,165 +1,58 @@
-# Relatório do Santo Rosário
+## 1. Temática principal
 
-## Temática principal
+A temática central do Rosário e da pregação foi a busca incessante pela água viva oferecida por Jesus, capaz de saciar a sede mais profunda da alma – que é eterna –, contrastando-a com as águas materiais do mundo. Frei Gilson ensinou que não importa o quão grande seja nossa dor ou tentação (como os cinco casamentos e vícios da samaritana), Jesus tem um desejo profundo pela nossa conversão e por nos salvar em nossa jornada rumo à vida eterna, buscando a nossa alma. Ele reforçou que este Rosário é uma oportunidade para deixar de buscar satisfações momentâneas e se entregar a Cristo para ser preenchido pela Sua graça transformadora.
 
-A temática principal deste Santo Rosário é a sede de Deus pela alma humana, explorada através da passagem bíblica do encontro de Jesus com a Samaritana (João 4).
-Essa sede divina se manifesta no desejo de Jesus de saciar o coração humano com a "água viva", que representa a vida eterna e a satisfação espiritual que somente Ele pode oferecer.
-O Rosário também aborda a necessidade de reconhecer e abandonar os pecados para receber essa água viva, assim como a importância de adorar a Deus em espírito e em verdade, e não apenas em lugares físicos específicos.
+## 2. Temáticas secundárias
 
-## Temáticas secundárias
+**A Busca Silenciosa de Deus**
+O Frei enfatizou que Deus, muitas vezes, está nos esperando antes mesmo de o fizermos por Ele, como Jesus estava à beira do poço quando a samaritana chegou. Isso sugere que não é o ser humano que busca primeiramente o amor divino, mas sim Deus quem nos procura primeiro. Assim, qualquer momento em que possamos buscar Sua presença, seja na madrugada ou no deserto interior, estamos sendo encontrados por Ele de forma antecipada e atenta.
 
-### A importância da oração e da fé
+**O Confrontamento do Silêncio Divino com a Fé**
+Ao abordar o sofrimento e os momentos em que parece que Deus está ausente (o silêncio divino), foi ensinado que não devemos encarar esse silêncio como abandono ou prova de que Deus nos esqueceu, mas sim como um chamado à fé e ao crescimento espiritual. Ele cita Eclesiástico para incentivar a perseverança na justiça e no temor mesmo em tempos de infelicidade ou demora na resposta divina, entendendo o sofrimento como uma forma de purificação e progresso rumo à santidade.
 
-A oração é apresentada como um meio essencial para compreender o silêncio de Deus e para se conectar com Ele. A fé é fundamental para acreditar na proximidade de Deus, mesmo em momentos de provação e sofrimento.
-Testemunhos de graças alcançadas através do Rosário, como curas físicas e libertações de vícios, reforçam a importância da fé e da oração na vida dos fiéis.
+**O Poder da Conversão sobre o Passado**
+Foi destacado que nada impede Cristo de transformar completamente uma vida após a entrega sincera do coração. O exemplo da samaritana ilustrou como Jesus confrontou um passado complexo (múltiplos casamentos) e, ao pedir "dá-me de beber" – uma metáfora para desfrutar de Seu amor –, Ele pôde oferecer o caminho da cura através da conversão total, permitindo que ela abandonasse suas velhas rotinas.
 
-### O sofrimento como parte da experiência humana
+**O Dever do Exame de Consciência em vez do Julgamento**
+Reforçada a mensagem bíblica sobre não julgar o próximo, foi ensinado que nosso foco deve ser integralmente em nós mesmos. Como juízes da nossa própria alma e pecadores, devemos examinar nossas próprias transgressões e fraquezas antes de olhar para os defeitos alheios. O orgulho é considerado o motor do julgamento; portanto, a vigilância no "eu" é essencial na caminhada cristã.
 
-O sofrimento é reconhecido como uma parte inerente da experiência humana, como demonstrado pela paixão de Cristo e pelas dificuldades enfrentadas pelos santos.
-A aceitação do sofrimento, unida à fé em Deus, é vista como um caminho para o crescimento espiritual e para a salvação. A contemplação da cruz de Cristo é um lembrete de que o sofrimento não é o fim, mas sim um meio de alcançar a glória eterna.
+## 3. Versículos da Bíblia
 
-### A necessidade de autoexame e arrependimento
+(São João 4, Versículo 7–17): Veio uma mulher da Samaria tirar água. Pediu-lhe Jesus: “Dá-me de beber”.
+**Ensinamentos:** No contexto do Rosário e dos Mistérios Gozos do Senhor, este trecho inicia a conversão da samaritana através do convite para saciar uma sede espiritual que o mundo não consegue preencher.
 
-A passagem da Samaritana destaca a importância do autoexame e do arrependimento para se aproximar de Deus. Jesus confronta a mulher com seus pecados, convidando-a a reconhecê-los e a mudar de vida.
-O Rosário encoraja os fiéis a fazerem um exame de consciência, a identificar seus "maridos" (ídolos ou pecados) e a abandoná-los para receber a água viva que Jesus oferece.
+(São João 4, Versículo 10–12): Respondeu-lhe Jesus: “Se conhecesses o dom de Deus, e quem é que te diz: Dá-me de beber, certamente lhe pedirias tu mesma e ele te daria uma água viva”.
+**Ensinamentos:** O Frei ensinou que a "água viva" não é algo material ou para satisfazer necessidades passageiras. Jesus quer suprir o desejo da alma pela vida eterna.
 
-### O chamado à evangelização
+(São João 4, Versículo 15–20): A mulher suplicou: “Senhor, dá-me desta água, para eu já não ter sede nem vir aqui tirá-la!”.
+**Ensinamentos:** Este verso demonstra que a busca por satisfação fora de Cristo é apenas uma solução temporária e insaciável.
 
-Após o encontro com Jesus, a Samaritana se torna uma evangelizadora, levando outras pessoas a conhecerem o Cristo. O Rosário enfatiza que a transformação pessoal em Cristo leva ao desejo de compartilhar essa experiência com os outros.
-Os fiéis são chamados a serem canais de graça e bênção para aqueles ao seu redor, convidando-os a se aproximarem de Jesus e a experimentarem a sua transformação.
+(São João 4, Versículo 27–28): Nisso seus discípulos chegaram e maravilharam-se de que estivesse falando com uma mulher. Ninguém, todavia, perguntou: “Que perguntas?” Ou: “Que falas com ela?”.
+**Ensinamentos:** A transformação da samaritana leva ao testemunho público. Quando somos transformados por Deus, nossa experiência desperta o desejo em partilhar essa graça e trazer outras pessoas para conhecer Jesus.
 
-### A promessa da vida eterna e da superação do sofrimento
+(2 Coríntios 11:24–25): Cinco vezes recebi dos judeus os quarenta açoites menos um...
+**Ensinamentos:** Este trecho, abordado durante a pregação no contexto do Mistério da Cruz (Doroso), não é lido em seu sentido literal de sofrimento físico, mas como prova da profundidade do sofrimento e humildade que Paulo experimentou para manifestar a glória futura na vida dos cristãos.
 
-O Rosário oferece a esperança da vida eterna e da superação do sofrimento. A passagem do Apocalipse 21:4, que fala do fim do luto, da dor e da morte, é citada como um consolo para aqueles que sofrem.
-A promessa de que Deus enxugará toda lágrima dos olhos dos fiéis é um lembrete de que o sofrimento presente não é o fim da história, mas sim um prelúdio para a alegria eterna no céu.
+(Apocalipse 8:1–4): Quando, enfim, abriu o sétimo selo, fez-se silêncio no céu durante cerca de meia hora... A fumaça dos perfumes subiu da mão do anjo com as orações dos santos diante de Deus.
+**Ensinamentos:** O "Silêncio do Céu" é ensinado como um momento pleno de adoração e comunicação entre os anjos, não indicando ausência ou indiferença divina, mas sim a manifestação perfeita de que a glória pertence a Deus.
 
-## Versículos citados na transcrição
+(Apocalipse 21:4): Enxugará toda lágrima de seus olhos e já não haverá morte, nem luto, nem grito, nem dor, porque passou a primeira condição”.
+**Ensinamentos:** Este versículo é uma promessa sobre o estado futuro da humanidade redimida. Ele reforça que Deus jamais abandonará Sua criação; Seu céu é o coração de Deus em comunhão absoluta.
 
-- São João, Capítulo 4, 1-7:
-```
-O senhor soube que os fariseus tinham ouvido dizer que ele recrutava e batizava mais discípulos que João Se bem que não era Jesus Quem batizava mais os seus discípulos deixou a Judeia e voltou para a Galileia ora Devia passar por Samaria chegou pois a uma localidade da Samaria chamada Sic junto das terras que Jacó dera a seu filho José ali havia o poço de Jacó Jesus fatigado da viagem sentou-se à beira do Poo veio uma mulher da Samaria tirar água pediu-lhe Jesus dai-me de bebê
-```
+(Gênesis 3:16–17): Disse também à mulher: “Multiplicarei os sofrimentos de teu parto... E disse em seguida ao homem porque ouvistes a voz de tua mulher...”
+**Ensinamentos:** O trecho estabelece o início do sofrimento na condição humana após a queda. É ensinado que, embora o sofrimento faça parte da nossa natureza e jornada terrena, Cristo nos oferece o caminho para superá-lo pela fé, transformando o "sofrer" em um processo de santificação através da cruz.
 
-Ensinamentos: Jesus estava esperando por alguém, assim como Ele espera por cada um de nós. Ele marca um momento específico para falar conosco, demonstrando Seu amor e cuidado.
+(Romanos 8:18): Tenho para mim que os sofrimentos da presente vida não têm proporção alguma com a glória futura que nos deve ser manifestada.
+**Ensinamentos:** Este ensinamento visa dar perspectiva ao sofredor, lembrando-o de que o propósito do seu tempo atual é crescimento e progressão espiritual. A dor nunca é abandono; pelo contrário, é o meio pelo qual Deus constrói a nossa íntima comunhão.
 
-- São João, Capítulo 4, 9:
-```
-aquela Samaritana lhe disse sendo tu judeu como pedes de beber a mim que sou Samaritana pois os judeus não se comunicavam com os samaritanos
-```
+## 4. Músicas
+Desgosto da música específica ou referências detalhadas sobre ela não foram apresentadas na transcrição fornecida. O Frei Gilson citou apenas trechos de louvores e cantos devocionais que faz parte do roteiro ritualístico, sem comentários doutrinários específicos a eles neste contexto.
 
-Ensinamentos: Jesus não faz acepção de pessoas, Ele quer o coração de todos, independentemente de quem sejam ou do que tenham feito.
+## 5. Eventos de agenda
+**Quarta-feira (Sem data específica no texto):** Recepção da banda católica Rosa de Saron para rezar junto ao Rosário pela primeira vez em seu ministério e evangelização com jovens.
 
-- São João, Capítulo 4, 10:
-```
-respondeu-lhe Jesus se você conhecesse o dom de Deus e quem é que te diz dai-me de beber certamente lhe pedirias tu mesma e ele te daria uma água viva
-```
+**Quinta-feira (Sem data específica no texto):** Recepção do casal Mano Walter e Débora, onde ele ministra música secular e ela se abre a experiências com Deus, ambos participando pelo primeiro contato com o grupo de oração.
 
-Ensinamentos: A pior coisa na vida de alguém é não conhecer a Jesus. Sem conhecê-lo, não se tem acesso à água viva.
+**Sexta-feira (Sem data específica no texto):** Recebimento do Bispo Dom Devair, bispo de Piracicaba, que retornará ao Santo Rosário para rezar junto aos participantes pela segunda vez em sua trajetória na igreja.
 
-- São João, Capítulo 4, 12:
-```
-aquela mulher Então disse és porventura maior que o nosso Pai Jacó que nos deu este poço do qual ele mesmo bebeu e também os seus filhos e seus rebanhos
-```
-
-Ensinamentos: A mulher não reconhece a divindade de Jesus, questionando se Ele é maior que Jacó.
-
-- São João, Capítulo 4, 12-14:
-```
-respondeu-lhe Jesus todo aquele que beber desta água tornará a ter sede mas o que beber da água que eu lhe der jamais terá sede mas a água que eu lhe D virar a ser nele fonte de água que jorrar até a vida eterna
-```
-
-Ensinamentos: Só Jesus pode saciar o coração humano, oferecendo a água viva que leva à vida eterna. As coisas do mundo não são suficientes para completar a alma.
-
-- São João, Capítulo 4, 15-17:
-```
-Jesus oferece para ela uma água viva a mulher suplicou senhor dai-me desta água para que eu já não para para eu já não ter sede nem vim aqui para tirá-la disse-lhe Jesus Versículo 16 Vai chama teu marido e volta cá a mulher respondeu eu não tenho marido disse-lhe Jesus tens razão em dizer que não tens marido tiveste cinco maridos e o que agora tens não é teu nisso de a verdade
-```
-
-Ensinamentos: Para receber a água viva, é preciso resolver o passado, abandonar o pecado e reconhecer a verdade sobre si mesmo.
-
-- São João, Capítulo 4, 20:
-```
-nossos pais adoraram neste monto mas vós dizeis que é em Jerusalém que se deve adorar
-```
-
-Ensinamentos: Não é preciso estar em um lugar físico específico para adorar a Deus, a adoração deve ser em espírito e em verdade.
-
-- São João, Capítulo 4, 26:
-```
-disse-lhe Jesus sou eu quem fala contigo
-```
-
-Ensinamentos: Jesus se revela como o Messias, o Cristo, para a Samaritana.
-
-- São João, Capítulo 4, 27:
-```
-nisso seus discípulos chegaram e maravilhavam se de que estivesse falando de uma com uma mulher ninguém todavia perguntou que perguntas ou que falas com ela a mulher deixou o seu cântaro e foi à cidade e disse aqueles homens vinde V de um homem que me contou tudo que tenho vivido tudo que tenho feito não seria ele porventura o Cristo eles saíram da cidade vieram ter com Jesus
-```
-
-Ensinamentos: A transformação pessoal em Cristo leva ao desejo de compartilhar essa experiência com os outros, tornando-se um canal de bênção.
-
-- Gênesis, Capítulo 3, 16-20:
-```
-disse também a mulher multiplicarei os Sofrimentos do Teu parto darás à luz com dores teus desejos te impeliram para o teu marido e tu estarás sob o seu domínio e disse em seguida ao homem porque ouvistes a voz de tua mulher e comeste do fruto da árvore que eu te havia proibido de comer maldita seja a terra por tua causa tirará dela com trabalhos penosos o teu sustento todos os dias de tua vida ela te produzirá espinhos e Abrolhos e tu comerás a erva da terra comerás o teu pão com suor do teu rosto até que voltes à terra de que foste tirado porque és pó e pó te HS de tornar
-```
-
-Ensinamentos: O sofrimento passou a fazer parte da humanidade após o pecado original.
-
-- Apocalipse, Capítulo 21, 4:
-```
-enxugará toda a Lágrima de seus olhos e já não haverá morte já não haverá luto não haverá grito não haverá dor porque passou a primeira condição
-```
-
-Ensinamentos: Há uma promessa de que um dia Deus enxugará toda lágrima e acabará com o sofrimento, a morte e a dor.
-
-- Apocalipse, Capítulo 8, 1:
-```
-quando enfim abriu o sétimo selo fez-se silêncio no céu durante cerca de meia hora
-```
-
-Ensinamentos: O silêncio do céu é um silêncio de amor, oração, oblação e adoração.
-
-- Apocalipse, Capítulo 8, 3-4:
-```
-adiantou-se outro anjo e pôs-se Junto do Altar como um turíbulo de ouro na mão foram lhe dados muitos perfumes para que os oferecesse com as orações de Todos os Santos no altar de ouro que está Diante do Trono a fumaça dos perfumes subiu da mão do anjo com as orações dos Santos diante de Deus
-```
-
-Ensinamentos: O incenso que sobe representa a adoração e as orações dos santos.
-
-- Romanos, Capítulo 8, 18:
-```
-tenho para mim que os Sofrimentos da presente vida não tem proporção alguma com a glória futura que nos deve ser manifestada
-```
-
-Ensinamentos: Os sofrimentos da vida presente não se comparam à glória que será revelada no futuro.
-
-- II Coríntios, Capítulo 11, 24:
-```
-recebi cinco vezes dos judeus os 40 açoites menos um três vezes fui flagelado com varas uma vez apedrejado três vezes naufraguei uma noite e um dia passei no abismo viagem sem conta exposto a perigos nos rios perigos de salteadores perigos perigos da parte dos meus concidadãos perigo da parte dos pagãos perigos na cidade perigos no deserto perigos no mar perigos entre falsos irmãos trabalhos e fadigas repetidas vigílias com fome e sede frequentes jejuns frio e nudez além de outras coisas a minha preocupação cotidiana a solicitude por todas as igrejas
-```
-
-Ensinamentos: Paulo era um homem de muitos sofrimentos.
-
-- Eclesiástico, Capítulo 2:
-```
-Meu filho se entrares para o serviço de Deus permanece firme na justiça e no temor e prepara a tua alma para aprovação humilha teu coração espera com paciência dá ouvidos e acolhe as palavras de Sabedoria não te perturbes no tempo da infelicidade sofre as demoras de Deus dedica-te a Deus espera com paciência a fim de que no derradeiro momento tua vida se enriqueça aceita tudo que te acontecer na dor permanece firme na humilhação tem paciência pois é pelo fogo que se experimenta o ouro e a prata e os homens agradáveis ve a Deus pelo Cadinho da humilhação põe tua confiança em Deus e ele te salvará orienta bem o teu caminho espera Nele conserva o temor dele até na velice
-```
-
-Ensinamentos: É preciso aceitar o sofrimento, permanecer firme na fé, ter paciência e confiar em Deus.
-
-## Músicas
-
-```
-Desejosa está minha alma - (Não especificado)
-A música fala sobre a sede da alma por Deus e o desejo de encontrar o Seu amor.
-
-Me Acolhe Jesus - (Não especificado)
-A música é um pedido a Jesus para que nos acolha em Sua casa e em Seu coração, renunciando ao mal e abandonando-se em Seu amor.
-
-Assim como a corça - (Não especificado)
-A música expressa a sede da alma por Deus, comparando-a à sede da corça pelas águas e da terra pelas águas puras.
-```
-
-## Eventos de Agenda
-
-Não houve eventos de agenda citados durante o Santo Rosário.
+**Sábado (Sem data específica no texto):** Recepção e colaboração de Rogério Vilela. Ele participou de um podcast mencionado e aceitou participar do evento ao vivo novamente.

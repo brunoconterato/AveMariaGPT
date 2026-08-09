@@ -74,7 +74,7 @@ class BookEnum(Enum):
     JUDITH = "Judite"
     ESTHER = "Ester"
     JOB = "Jó"
-    SALMS = "Salmos"
+    PSALMS = "Salmos"
     FIRST_MACCABEES = "1 Macabeus"
     SECOND_MACCABEES = "2 Macabeus"
     PROVERBS = "Provérbios"
@@ -150,7 +150,7 @@ ORDERED_BOOKS: List[BookEnum] = [
     BookEnum.JUDITH,
     BookEnum.ESTHER,
     BookEnum.JOB,
-    BookEnum.SALMS,
+    BookEnum.PSALMS,
     BookEnum.FIRST_MACCABEES,
     BookEnum.SECOND_MACCABEES,
     BookEnum.PROVERBS,

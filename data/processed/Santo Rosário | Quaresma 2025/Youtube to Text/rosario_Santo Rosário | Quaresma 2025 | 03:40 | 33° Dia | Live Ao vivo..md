@@ -1,241 +1,114 @@
-# Relatório do Santo Rosário
+## 1. Temática principal
+A temática central do Rosário transcrito é a busca fervorosa pela Graça e pelo perdão de Deus, especialmente em tempos de provação ou "combate espiritual". Frei Gilson enfatiza que o caminho para viver essa graça é através da oração e da devoção à palavra divina. Ele abordou como as lutas internas – mentiras, inveja, fraqueza, timidez e egoísmo – constituem verdadeiros inimigos, exigindo uma postura ativa de busca por Deus. A fé não deve ser apenas um conjunto de rituais ou crenças teóricas; ela exige a prática da humildade, do amor ardente e da fidelidade inabalável na vontade divina para que possamos viver em comunhão com Ele.
 
-## Temática principal
+O Frei Gilson reforça continuamente a necessidade de "escutir" a voz de Deus, pois o silêncio divino não significa ausência ou abandono. Pelo contrário, ele é um tempo para crescimento e provação daqueles que buscam se afastar das coisas mundanas e se elevar ao alto. A superação dos desafios espirituais exige que sejamos prontos a abrir nossos corações e a endurecer os nossos ouvidos em favor do amor divino, sabendo que Ele sempre tem palavras de salvação para quem está disposto a escutar.
 
-A temática principal deste Santo Rosário é a importância de mantermos nossos corações abertos à voz de Deus. É enfatizado que Deus sempre deseja falar conosco, mas muitas vezes somos nós que, devido aos nossos pecados e apegos ao mundo, fechamos nossos corações e nos tornamos incapazes de ouvir Sua voz. 
-Quando vivemos uma vida de pecado consciente, erguemos uma barreira que nos impede de receber a orientação e o amor divinos.
+## 2. Temáticas secundárias
+**A Luta contra as Trevas e o Amor Divino:** O Rosário é apresentado como um "combate espiritual" onde os próprios crecentes se tornam adversários (covardia, egoísmo, inveja). A resposta a esse combate não vem de ações humanas, mas da entrega ao amor ardente de Deus e do auxílio dos cordos espirituais.
 
-A mensagem central é um chamado à reflexão sobre a nossa disposição em ouvir a Deus e a importância de removermos as barreiras que nos impedem de experimentar a Sua presença em nossas vidas. 
-Ao mantermos nossos corações abertos e buscarmos a santidade, podemos desfrutar de uma vida plena e feliz em comunhão com Deus.
+**O Poder Transformador das Palavras:** O Frei insiste que o crescimento espiritual depende da leitura, meditação e observância constante da Palavra de Deus. Ele define quem quer a plenitude na vida – aquele que escuta e pratica aquilo que lê. Uma fé ativa exige que essa palavra seja colocada em prática para construir uma vida "sobre a Rocha".
 
-## Temáticas secundárias
+**A Intercessão como Força:** A oração e o uso dos coros santificados, bem como as súplicas ao sangue de Jesus Cristo e ao coração imaculado de Maria Virgem, são apresentados como ferramentas indispensáveis. O fiel é incentivado a confiar em intervenções divinas através da fé, como os milagres relatados (cura de doenças, libertação do vício).
 
-### A importância da oração e da penitência
+## 3. Versículos da Bíblia
+**(Mateus 7:24-26)**: “Aquele pois que ouve estas minhas palavras e as põe em prática é semelhante a um homem prudente, que edificou sua casa sobre a rocha... Mas aquele que ouve as minhas palavras e não as põe em prática é semelhante a um homem insensato, que construiu sua casa na areia.”
+**Ensinamentos:** A importância de agir com base no que se aprende. Ouvir a palavra de Deus deve ir além da simples escuta; ela exige ação (colocar a vida na Rocha) para suportar as inevitáveis dificuldades e ventos do mundo sem ruína.
 
-A oração e a penitência são apresentadas como ferramentas essenciais para amolecer corações endurecidos, especialmente em relação àqueles que estão afastados de Deus. É enfatizado que, em vez de julgamento ou condenação, devemos oferecer amor, paciência, oração e sacrifício por aqueles que amamos e que estão com corações fechados, confiando que Deus pode tocar e transformar seus corações.
+**(Primeira João 2:15-17)**: “Não ameis o mundo, nem as coisas do mundo... O mundo passa com as suas concupiscências...”
+**Ensinamentos:** Devemos entender que a vida de amor ao mundo é passageira e efêmera. Quem se dedica às "coisas do mundo" corre o risco de ver tudo desmoronar enquanto quem cumpre a vontade de Deus permanece eternamente.
 
-### A necessidade de reconhecer e abandonar o pecado
+**(Primeira João 3:8-8)**: “Aquele que peca é do demônio, porque o demônio peca desde o princípio. Eis por que o Filho de Deus se manifestou: para destruir as obras do demônio.”
+**Ensinamentos:** O pecado cria uma ligação com o espírito do mal e impede nossa comunhão com Deus, pois Cristo veio especificamente para combater as ações do inimigo na vida do homem.
 
-É enfatizado que o pecado cria uma barreira entre nós e Deus, impedindo-nos de ouvir Sua voz e experimentar Sua presença em nossas vidas. É essencial reconhecer nossos pecados, arrepender-nos e buscar a purificação através do sacramento da confissão, a fim de restaurar nossa comunhão com Deus.
+**(Apocalipse 3:20-20)**: “Eis que estou à porta e bato: se alguém ouvir a minha voz e me abrir a porta, entrarei em sua casa e cearemos, eu com ele e ele comigo.”
+**Ensinamentos:** Deus está sempre disponível para entrar na vida de quem o deseja acolher. Não é necessário esperar uma intervenção externa; apenas abrir o coração ao chamado divino é suficiente para que Ele faça Sua morada conosco.
 
-### A diferença entre o pecador arrependido e o pecador endurecido
+**(Deuteronômio 6:4-5)**: “Ouve, ó Israel! O Senhor, nosso Deus, é o único Senhor... Amarás o Senhor, teu Deus, com todo o teu coração, com toda a tua alma e com todas as tuas forças.”
+**Ensinamentos:** Este é o mandamento fundamental que serve de base para uma vida feliz. A totalidade do ser deve estar entregue ao amor pelo próprio Deus, sem reservas, pois essa entrega fundamenta nossa fé.
 
-É feita uma distinção clara entre o pecador que se arrepende e busca a conversão e aquele que persiste no pecado com o coração endurecido. Enquanto Deus sempre oferece misericórdia e perdão ao pecador arrependido, Ele não pode falar ao coração daquele que se fecha à Sua voz e se recusa a mudar de vida.
+**(Mateus 16:24-24)**: “Se alguém quiser vir comigo, renuncie-se a si mesmo, tome sua cruz e siga-me.”
+**Ensinamentos:** O compromisso com Cristo exige uma renúncia radical ao eu e aos prazeres mundanos. É necessário aceitar o caminho da autossacrifício para poder seguir em comunhão com Deus.
 
-### A importância da leitura e meditação da Palavra de Deus
+**(Deuteronômio 31:17-18)**: “Naquele dia, o meu furor se acenderá contra esse povo: eu o abandonarei e esconderei a minha face... Eu, porém, ocultarei completamente a minha face naquele momento, por causa do mal que fez o povo, seguindo outros deuses.”
+**Ensinamentos:** É crucial entender que Deus nunca nos abandona. Se sentirmos um afastamento ou silêncio (ocultação da face), é porque fizemos escolhas morais erradas e voltamos nossa lealdade a falsos ídolos ou hábitos pecaminosos, e não porque Ele se tornou incapaz de agir.
 
-A leitura e a meditação da Palavra de Deus são apresentadas como meios essenciais para ouvirmos a voz de Deus e conhecermos Sua vontade para nossas vidas. É enfatizado que a Palavra de Deus é um sustento poderoso que nos guia e nos fortalece em meio às dificuldades da vida.
+**(Efésios 6:10-10)**: “Finalmente, irmãos, fortalecei-vos no Senhor, pelo seu soberano poder.”
+**Ensinamentos:** Para enfrentar os ataques espirituais (ciladas do demônio), precisamos nos fortalecer na força de Deus. Essa fortaleza vem da aceitação e exercício das virtudes cristãs em nome Dele.
 
-### A necessidade de escolher entre Deus e o mundo
+**(Salmos 26:14-14)**: “Espera no Senhor e sê forte! Fortifique-se o teu coração e espera no Senhor!”
+**Ensinamentos:** Em momentos de adversidade, a força não reside na nossa própria capacidade, mas na esperança ativa em Deus. O tempo de espera deve ser usado para fortalecer o espírito, encontrando vigor e paz Nele.
 
-É enfatizado que não podemos servir a dois senhores, ou seja, não podemos amar a Deus e ao mundo ao mesmo tempo. É preciso escolher entre seguir a Palavra de Deus e buscar a santidade ou seguir os desejos do mundo e se afastar de Deus.
+**(Isaías 40:29-31)**: “Dá forças ao homem acabado, redobra o vigor do fraco... Mas aqueles que contam com o Senhor renovam suas forças; ele dá-lhes asas de águia.”
+**Ensinamentos:** Confiar em Deus é um ato de fé que resulta em vigor e energia. O crente cansado por questões da vida não é abandonado, mas recebe a força divina para avançar sem se fatigar ou cansar.
 
-## Versículos citados na transcrição
+**(Isaías 59:1-2)**: “Não, não é a mão do Senhor que é incapaz de salvar, nem seu ouvido demasiado surdo para ouvir; são vossos pecados que colocaram uma barreira entre vós e vosso Deus. Vossas faltas são o motivo pelo qual a face se oculta para não vos ouvir.”
+**Ensinamentos:** Esta passagem deixa claro: Deus está sempre disposto a nos escutar, mas somos nós quem erguemos as barreiras através do pecado e das más condutas (faltas), ocultando Sua luz em nós.
 
-- (Miqueias 3, 4): Um dia clamarão ao Senhor, mas ele não lhes responderá e lhes ocultará sua face naquele dia, por causa da malícia de seus atos.
+**(Provérbios 1:28-33)**: “Então me chamarão, mas não responderei... Aquele que me escuta, porém, habitará com segurança...”
+**Ensinamentos:** Esta passagem adverte contra a recusa consciente de ouvir a voz divina. Deus chama constantemente os homens (profetas e profetisas), mas se o ser humano insiste em ignorar o chamado diante da sua malícia ou desleixo, o chamado será vã.
 
-Ensinamentos: Este versículo nos alerta sobre as consequências de nos afastarmos de Deus através de nossos atos maliciosos. Quando escolhemos o pecado e a maldade, fechamos nossos corações para a voz de Deus e nos tornamos incapazes de receber Sua orientação e Seu amor.
+**(Provérbios 4:5-5)**: “Adquire sabedoria, adquire perspicácia, não te esqueças de nada, não te desvies de meus conselhos.”
+**Ensinamentos:** A vida requer a busca contínua pela sabedoria e discernimento. Não se deve negligenciar os ensinamentos divinos para construir uma existência segura (habitar com segurança).
 
-- (Lucas 23, 9): Dirigiu-lhe muitas perguntas, mas Jesus nada lhe respondeu.
+**(Provérbios 4:20-20)**: “Meu filho, ouve as minhas palavras, inclina teu ouvido aos meus discursos.”
+**Ensinamentos:** A ordem é clara e direta: a disposição em ouvir. Para receber orientação divina, o primeiro passo prático deve ser baixar a cabeça para escutar os ensinamentos de Deus, começando pela Palavra.
 
-Ensinamentos: Este versículo ilustra a atitude de Jesus diante daqueles que não estão dispostos a ouvir Sua mensagem com o coração aberto. Herodes, com sua curiosidade superficial e falta de fé, não recebeu nenhuma resposta de Jesus, pois seu coração estava fechado para a verdade.
+**(Romanos 10:17-17)**: “Logo, a fé provém da pregação e a pregação se exerce em razão da palavra de Cristo.”
+**Ensinamentos:** A base de toda crença sólida é a proclamação dos ensinamentos de Jesus. Portanto, o ato de estudar e proclamar Sua Palavra intensifica e fundamenta nossa fé no coração.
 
-- (Apocalipse 3, 20): Eis que estou à porta e bato; se alguém ouvir a minha voz, e abrir a porta, entrarei em sua casa, e cearei com ele, e ele comigo.
+**(Salmos 26:14-14)**: “Espera no Senhor e sê forte! Fortifique-se o teu coração e espera no Senhor!”
+**Ensinamentos:** Reforça a ideia de que a paciência, aliada à confiança em Deus, fortalece o interior contra as adversidades.
 
-Ensinamentos: Este versículo nos convida a abrirmos nossos corações para Jesus e a permitirmos que Ele entre em nossas vidas. Ele está sempre à porta, esperando que O convidemos a entrar e a compartilhar conosco Sua graça e Seu amor.
+**(São João 8:47-47)**: “Quem é de Deus ouve as palavras de Deus, e se vós não as ouvis é porque não sois de Deus.”
+**Ensinamentos:** Essa passagem estabelece uma relação clara entre a escuta da Palavra e a pertença espiritual. Quem escolhe deliberadamente ignorar o convite divino, por mais que esse chamado seja feito com amor, não está alinhado ao propósito de Deus.
 
-- (Deuteronômio 31, 17-18): Naquele dia o meu furor se acenderá contra este povo, eu o abandonarei e esconderei a minha face, e ele será devorado; uma multidão de males e angústias virá sobre ele, o que lhe fará dizer: É certamente porque meu Deus não está mais comigo que vem todos esses males. Eu, porém, ocultarei completamente a minha face naquele momento, por causa de todo o mal que terá praticado, seguindo outros deuses.
+**(São João 10:27-27)**: “As minhas ovelhas ouvem a minha voz, eu as conheço e elas me seguem.”
+**Ensinamentos:** Deus sempre chama Suas crianças por Seus nomes (conhece) e Ele é aquele que guia. A fidelidade depende da resposta ativa do indivíduo em escutar Seu chamado pessoal.
 
-Ensinamentos: Este versículo nos adverte sobre as consequências de abandonarmos a Deus e seguirmos outros deuses. Quando nos afastamos de Deus, Ele pode ocultar Sua face de nós e permitir que males e angústias nos sobrevenham, como um sinal de Sua justiça e um chamado ao arrependimento.
+**(São João 14:6-6)**: “Eu sou o caminho, a verdade e a vida; ninguém vem ao Pai senão por mim.”
+**Ensinamentos:** Jesus apresenta-se como o único elo e mediador da salvação. Ele é o "caminho", confirmando que não há outro meio para chegar à plena comunhão com Deus Pai além d'Ele.
 
-- (Salmo 65, 18): Se eu intentasse no coração o mal, não me teria ouvido o Senhor.
+**(São Lucas 11:28-28)**: “Antes bem-aventurados aqueles que ouvem a Palavra de Deus e a observam!”
+**Ensinamentos:** A felicidade no estado humano é encontrada na prática ativa da Palavra (observância). É quem vive aquilo que lê, que colhe os frutos do amor.
 
-Ensinamentos: Este versículo nos ensina que, para que Deus nos ouça, devemos ter um coração reto e sincero, livre de intenções malignas. Se abrigarmos o mal em nossos corações, estaremos nos afastando de Deus e nos tornando incapazes de receber Sua graça e Sua orientação.
+**(São Marcos 4:5)**: “Outra parte caiu no pedregulho, onde não havia muita terra; o grão germinou logo, porque a terra não era profunda...”
+**Ensinamentos:** O crescimento espiritual rápido e eficaz ocorre quando investimos nossa fé em fundações sólidas (terra forte) – o que simboliza a Palavra de Deus.
 
-- (Provérbios 1, 28-33): Então me chamarão, mas não responderei; procurar-me-ão, mas não me acharão. Porquanto detestaram o conhecimento e não preferiram o temor do Senhor; não quiseram o meu conselho e desprezaram toda a minha repreensão. Portanto, comerão do fruto do seu caminho e se fartarão dos seus próprios conselhos. Porque o desvio dos simples os matará, e a prosperidade dos loucos os destruirá. Mas o que me der ouvidos habitará seguramente e estará tranquilo, sem receio do mal.
+**(Mateus 7:24-26)**: “Aquele pois que ouve estas minhas palavras e as põe em prática é semelhante a um homem prudente... Mas aquele que ouve as minhas palavras e não as põe em prática é semelhante a um homem insensato...”
+**Ensinamentos:** A escuta passiva sem aplicação na vida é comparada à construção sobre areias. Sem a vivência da Palavra, qualquer conhecimento se torna inútil diante das crises.
 
-Ensinamentos: Este versículo nos adverte sobre as consequências de rejeitarmos a sabedoria e os conselhos de Deus. Aqueles que desprezam a Deus e Sua Palavra colherão os frutos amargos de suas escolhas, enquanto aqueles que O ouvem e O obedecem desfrutarão de segurança, paz e proteção.
+**(Mateus 13:13-13)**: “Eis por que lhes falo em parábolas: para que, vendo, não vejam e, ouvindo, não ouçam nem compreendam.”
+**Ensinamentos:** A razão pela qual algumas pessoas permanecem no erro é o endurecimento do coração. O sofrimento espiritual decorre de um estado de cegueira voluntária frente à verdade divina (coração duro).
 
-- (Isaías 59, 1-2): Eis que a mão do Senhor não está encolhida, para que não possa salvar; nem agravado o seu ouvido, para não poder ouvir. Mas as vossas iniqüidades fazem divisão entre vós e o vosso Deus, e os vossos pecados encobrem o seu rosto de vós, para que não vos ouça.
+**(Mateus 16:24-24)**: “Em seguida, Jesus disse a seus discípulos: ‘Se alguém quiser vir comigo, renuncie-se a si mesmo, tome sua cruz e siga-me.’”
+**Ensinamentos:** O discipulado exige uma entrega total de "renúncia" – dizer não ao eu. É preciso abraçar o caminho da humildade para ser dignos dos dons divinos.
 
-Ensinamentos: Este versículo nos lembra que Deus sempre tem o poder e o desejo de nos salvar e nos ouvir, mas nossos pecados criam uma barreira que nos separa dEle. Para restaurarmos nossa comunhão com Deus, precisamos nos arrepender de nossos pecados e buscar a purificação.
+**(Mateus 19:7-7)**: “Disseram-lhe eles: ‘Por que, então, Moisés ordenou dar um documento de divórcio à mulher, ao rejeitá-la?’”
+**Ensinamentos:** A dificuldade humana em se comprometer e a tendência de buscar o prazer passageiro desestabilizam até mesmo aquilo que Deus havia estabelecido com clareza (a indissolubilidade do casamento).
 
-- (I João 3, 8): Quem comete o pecado é do diabo; porque o diabo peca desde o princípio. Para isto o Filho de Deus se manifestou: para desfazer as obras do diabo.
+**(Zacarias 7:12-12)**: “Endureceram o seu coração como um diamante, para não entenderem as instruções e as palavras que o Senhor dos exércitos lhes dirigia pelo seu Espírito, por meio dos antigos profetas.”
+**Ensinamentos:** O endurecimento deliberado do coração é o principal motivo para Deus silenciar. A teimosia em recusar a correção divina impede que sejamos guiados pelos mensageiros de Deus (profetas ou sacerdotes).
 
-Ensinamentos: Este versículo nos ensina que o pecado nos afasta de Deus e nos aproxima do diabo. Jesus veio ao mundo para destruir as obras do diabo, incluindo o pecado, e nos libertar de seu poder.
+**(Zacarias 7:13-13)**: “Ele os chamou em vão, e não foi atendido! ‘Por isso – oráculo do Senhor dos exércitos –, não os ouvi quando clamaram a mim.’”
+**Ensinamentos:** Reforça que o chamado de Deus é constante. A falta de resposta divina ocorre apenas porque há uma negligência consciente da nossa parte em escutar e obedecer aos seus alertas.
 
-- (Zacarias 7, 12-13): Sim, fizeram os seus corações como a pedra de diamante, para não ouvirem a lei, nem as palavras que o Senhor dos exércitos enviara pelo seu Espírito por intermédio dos primeiros profetas; por isso veio grande indignação do Senhor dos exércitos. E aconteceu que, como ele clamou, e eles não ouviram, assim eles clamarão, e eu não ouvirei, diz o Senhor dos exércitos.
+**(Êxodo 3:1-1)**: “Moisés apascentava o rebanho de Jetro, seu sogro, sacerdote de Madiã. Um dia em que conduzira o rebanho para além do deserto, chegou até a montanha de Deus, Horeb.”
+**Ensinamentos:** Os momentos de maior encontro com o sagrado e divina revelação costumam ocorrer em isolamento ou "deserto", momentos de retiro longe das distrações mundanas.
 
-Ensinamentos: Este versículo nos alerta sobre o perigo de endurecermos nossos corações para a voz de Deus. Aqueles que se recusam a ouvir e a obedecer à Palavra de Deus experimentarão Sua ira e não receberão Suas bênçãos.
+**(Êxodo 19:3-3)**: “Moisés subiu em direção a Deus, e o Senhor o chamou do alto da montanha nestes termos: ‘Eis o que dirás à família de Jacó...’”
+**Ensinamentos:** O chamado divino acontece para nossa missão. Ao subi ao "monte", estamos nos preparando não apenas para ouvir uma revelação pessoal (convocação), mas também para ser um portador dessa mensagem para os outros.
 
-- (Mateus 13, 13): Por isso lhes falo por parábolas; porque eles, vendo, não vêem e, ouvindo, não ouvem nem compreendem.
+**(Êxodo 24:18-18)**: “Moisés penetrou na nuvem e subiu a montanha. Ficou ali quarenta dias e quarenta noites.”
+**Ensinamentos:** O silêncio de Deus antes da grande revelação é necessário, um tempo de espera (silêncio) que precede o conhecimento profético ou uma nova vocação.
 
-Ensinamentos: Este versículo explica por que Jesus falava por parábolas, pois muitos não estavam dispostos a ouvir e a compreender Sua mensagem com o coração aberto. A dureza de seus corações os impedia de enxergar a verdade e de receber a salvação.
+## 4. Músicas
+Nome da música - Artista: **"Eu quero amar eu quero ser aquilo que Deus quer"**
+*Contexto:* Hino/Canção para louvar a missão e o propósito de viver plenamente o desejo de Cristo, expressando a união e o amor mútuos na comunidade.
 
-- (João 9, 31): Ora, nós sabemos que Deus não ouve a pecadores; mas, se alguém é temente a Deus e faz a sua vontade, a esse ouve.
+## 5. Eventos de agenda
+- **Dia 19 de agosto e 17 de agosto:** **Feira Vocacional** – Local não especificado (mas em conjunto com Padre Marcelo Ross), será um momento de benção e alegria, focado no chamado vocacional.
+- **20 de novembro:** **Let Go**, encontro/evento no santuário Mãe de Deus. Foi mencionado que aconteceria nessa data para quem busca participar da comunidade nas redes sociais.
 
-Ensinamentos: Este versículo nos ensina que Deus não ouve aqueles que persistem no pecado e se recusam a fazer Sua vontade. No entanto, Ele ouve aqueles que O temem e O obedecem, atendendo às suas orações e concedendo-lhes Sua graça.
+***
 
-- (I Samuel 3, 9-10): Pelo que Eli entendeu que o Senhor chamava o jovem; disse, pois, a Samuel: Vai deitar-te, e há de ser que, se te chamar, dirás: Fala, Senhor, porque o teu servo ouve. Assim foi Samuel, e se deitou no seu lugar. Então veio o Senhor, e se pôs ali, e chamou como dantes: Samuel, Samuel. E disse Samuel: Fala, Senhor, porque o teu servo ouve.
-
-Ensinamentos: Este versículo nos mostra a importância de estarmos dispostos a ouvir a voz de Deus e de respondermos ao Seu chamado com prontidão e humildade. Como Samuel, devemos estar abertos a receber a mensagem de Deus e a obedecer à Sua vontade.
-
-- (I Reis 19, 11-12): E ele lhe disse: Sai para fora, e põe-te neste monte perante o Senhor. E eis que passava o Senhor, e um grande e forte vento fendia os montes e quebrava as rochas diante do Senhor; porém o Senhor não estava no vento; e depois do vento um terremoto; porém o Senhor não estava no terremoto; e depois do terremoto um fogo; porém o Senhor não estava no fogo; e depois do fogo uma voz mansa e delicada.
-
-Ensinamentos: Este versículo nos ensina que Deus nem sempre se manifesta de forma grandiosa e espetacular, mas muitas vezes fala conosco em um sussurro suave e silencioso. Para ouvirmos a voz de Deus, precisamos nos aquietar e nos sintonizar com Sua presença em nossas vidas.
-
-- (Êxodo 24, 18): E Moisés entrou no meio da nuvem, e subiu ao monte; e Moisés esteve no monte quarenta dias e quarenta noites.
-
-Ensinamentos: Este versículo nos mostra o exemplo de Moisés, que se retirou para o monte para buscar a presença de Deus e receber Sua revelação. Para ouvirmos a voz de Deus, precisamos nos afastar das distrações do mundo e buscar momentos de silêncio e solitude em Sua presença.
-
-- (Oséias 2, 14): Portanto, eis que eu a atrairei, e a levarei para o deserto, e lhe falarei ao coração.
-
-Ensinamentos: Este versículo nos revela o amor e a misericórdia de Deus, que nos atrai para o deserto, ou seja, para um lugar de solidão e provação, a fim de falar ao nosso coração e nos conduzir de volta ao Seu caminho.
-
-- (Êxodo 19, 3): E Moisés subiu a Deus, e o Senhor bradou-lhe desde o monte, dizendo: Assim dirás à casa de Jacó, e anunciarás aos filhos de Israel:
-
-Ensinamentos: Este versículo nos mostra que Deus fala conosco quando nos aproximamos dEle e buscamos Sua presença. Como Moisés, devemos subir ao monte, ou seja, elevar nossos corações a Deus em oração e adoração, para ouvirmos Sua voz e recebermos Sua orientação.
-
-- (Êxodo 3, 1-4): E apascentava Moisés o rebanho de Jetro, seu sogro, sacerdote de Midiã; e levou o rebanho atrás do deserto, e chegou ao monte de Deus, a Horebe. E apareceu-lhe o anjo do Senhor em uma chama de fogo do meio duma sarça; e olhou, e eis que a sarça ardia em fogo, e a sarça não se consumia. E disse Moisés: Agora me virarei, e verei esta grande visão, porque a sarça não se queima. E vendo o Senhor que se virava para ver, bradou Deus a ele do meio da sarça, e disse: Moisés, Moisés. Respondeu ele: Eis-me aqui.
-
-Ensinamentos: Este versículo nos mostra que Deus se revela àqueles que estão dispostos a se aproximar dEle e a buscar Sua face. Como Moisés, devemos estar atentos aos sinais de Deus em nossas vidas e responder ao Seu chamado com prontidão e obediência.
-
-- (I Reis 19, 8-9): Levantou-se, pois, e comeu e bebeu; e com a força daquela comida caminhou quarenta dias e quarenta noites até Horebe, o monte de Deus. E ali entrou numa caverna e passou a noite; e eis que a palavra do Senhor veio a ele, e lhe disse: Que fazes aqui, Elias?
-
-Ensinamentos: Este versículo nos mostra que Deus nos fortalece e nos sustenta em nossa jornada rumo à Sua presença. Como Elias, devemos nos alimentar da Palavra de Deus e confiar em Sua provisão para perseverarmos em nosso caminho até o monte de Deus.
-
-- (Deuteronômio 6, 4-5): Ouve, Israel, o Senhor nosso Deus é o único Senhor. Amarás, pois, o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todas as tuas forças.
-
-Ensinamentos: Este versículo nos lembra que o amor a Deus é o mandamento mais importante e que devemos amá-Lo com todo o nosso ser. Para amarmos a Deus de todo o nosso coração, precisamos ouvir Sua voz e obedecer aos Seus mandamentos.
-
-- (Provérbios 4, 5): Adquire a sabedoria, adquire a inteligência; não te esqueças nem te apartes das palavras da minha boca.
-
-Ensinamentos: Este versículo nos exorta a buscar a sabedoria e a inteligência que vêm de Deus, a fim de compreendermos Seus caminhos e a vivermos de acordo com Sua vontade. Não devemos nos esquecer nem nos apartar das palavras de Deus, mas sim guardá-las em nossos corações e praticá-las em nossas vidas.
-
-- (Provérbios 4, 20): Filho meu, atenta para as minhas palavras; inclina o teu ouvido às minhas razões.
-
-Ensinamentos: Este versículo nos convida a prestarmos atenção às palavras de Deus e a inclinarmos nossos ouvidos para Seus ensinamentos. Para ouvirmos a voz de Deus, precisamos estar dispostos a aprender e a crescer em nosso conhecimento da Sua Palavra.
-
-- (Mateus 7, 24): Todo aquele, pois, que escuta estas minhas palavras, e as pratica, será comparado ao homem prudente, que edificou a sua casa sobre a rocha;
-
-Ensinamentos: Este versículo nos ensina que a verdadeira sabedoria consiste em ouvir a Palavra de Deus e em praticá-la em nossas vidas. Aqueles que constroem suas vidas sobre a Palavra de Deus são como o homem prudente que edifica sua casa sobre a rocha, que permanece firme em meio às tempestades da vida.
-
-- (Mateus 7, 26): E todo aquele que ouve estas minhas palavras, e não as pratica, será comparado ao homem insensato, que edificou a sua casa sobre a areia;
-
-Ensinamentos: Este versículo nos adverte sobre a insensatez de ouvir a Palavra de Deus e não praticá-la em nossas vidas. Aqueles que constroem suas vidas sobre a areia, ou seja, sobre as coisas passageiras do mundo, estão fadados à ruína e à destruição.
-
-- (I João 2, 15): Não ameis o mundo, nem o que no mundo há. Se alguém ama o mundo, o amor do Pai não está nele.
-
-Ensinamentos: Este versículo nos exorta a não amarmos o mundo e as coisas do mundo, pois o amor ao mundo é incompatível com o amor a Deus. Para amarmos a Deus de todo o nosso coração, precisamos renunciar aos desejos e prazeres do mundo e buscar as coisas do alto.
-
-- (I João 2, 17): E o mundo passa, e a sua concupiscência; mas aquele que faz a vontade de Deus permanece para sempre.
-
-Ensinamentos: Este versículo nos lembra que as coisas do mundo são passageiras e efêmeras, enquanto a Palavra de Deus e a vontade de Deus permanecem para sempre. Para termos uma vida plena e duradoura, precisamos nos dedicar a fazer a vontade de Deus e a buscar as coisas eternas.
-
-- (Marcos 4, 9): E dizia-lhes: Ouvi: Quem tem ouvidos para ouvir, ouça.
-
-Ensinamentos: Este versículo nos convida a prestarmos atenção à mensagem de Jesus e a abrirmos nossos corações para a verdade que Ele nos revela. Aqueles que têm ouvidos para ouvir, ou seja, aqueles que estão dispostos a aprender e a crescer em sua fé, receberão a graça de compreender os mistérios do Reino de Deus.
-
-- (Lucas 11, 28): Mas ele disse: Antes bem-aventurados os que ouvem a palavra de Deus e a guardam.
-
-Ensinamentos: Este versículo nos ensina que a verdadeira felicidade não está nas coisas materiais ou nos prazeres passageiros, mas sim em ouvir a Palavra de Deus e em guardá-la em nossos corações. Aqueles que vivem de acordo com a Palavra de Deus são verdadeiramente felizes e abençoados.
-
-- (João 10, 27): As minhas ovelhas ouvem a minha voz, e eu conheço-as, e elas me seguem;
-
-Ensinamentos: Este versículo nos revela a intimidade e o amor que existem entre Jesus e Seus seguidores. Aqueles que são Suas ovelhas ouvem Sua voz, O conhecem e O seguem, desfrutando de Sua proteção e cuidado.
-
-- (Romanos 10, 17): De sorte que a fé é pelo ouvir, e o ouvir pela palavra de Deus.
-
-Ensinamentos: Este versículo nos ensina que a fé vem pelo ouvir a Palavra de Deus. Quanto mais ouvimos e meditamos na Palavra de Deus, mais nossa fé se fortalece e mais nos aproximamos de Deus.
-
-- (Hebreus 3, 7): Portanto, como diz o Espírito Santo: Se ouvirdes hoje a sua voz,
-
-Ensinamentos: Este versículo nos exorta a não endurecermos nossos corações para a voz de Deus, mas sim a abrirmos nossos ouvidos e a respondermos ao Seu chamado com prontidão e obediência.
-
-- (Mateus 19, 8): Disse-lhes ele: Moisés, por causa da dureza dos vossos corações, vos permitiu repudiar vossas mulheres; mas ao princípio não foi assim.
-
-Ensinamentos: Este versículo nos revela que a dureza de coração é a causa da separação e da divisão, tanto nos relacionamentos humanos quanto em nosso relacionamento com Deus. Para mantermos a união e a comunhão, precisamos cultivar a humildade, a mansidão e a disposição em ouvir e a perdoar.
-
-- (João 8, 47): Quem é de Deus escuta as palavras de Deus; por isso vós não as escutais, porque não sois de Deus.
-
-Ensinamentos: Este versículo nos desafia a examinarmos nossos corações e a verificarmos se estamos realmente ouvindo a Palavra de Deus. Aqueles que são de Deus ouvem e obedecem à Sua Palavra, enquanto aqueles que não são de Deus a rejeitam e a desprezam.
-
-- (I João 1, 8): Se dissermos que não temos pecado, enganamo-nos a nós mesmos, e não há verdade em nós.
-
-Ensinamentos: Este versículo nos lembra que todos somos pecadores e que não devemos nos iludir com a falsa pretensão de sermos perfeitos. Para nos aproximarmos de Deus, precisamos reconhecer nossa condição de pecadores e buscar Sua misericórdia e Seu perdão.
-
-## Músicas
-
-- "Sobre Cardente aos santos anjos página 17" - (Não especificado)
-    - O ensinamento transmitido é sobre a devoção e súplica aos santos anjos, reconhecendo-os como protetores e auxiliadores concedidos por Deus.
-
-- "O céu se abre" - (Não especificado)
-    - A música fala sobre a abertura dos céus para derramar graças sobre os corações, incentivando a entrega total a Deus e a busca pelo Espírito Santo para renovação.
-
-- "Tem anjos voando neste lugar" - (Não especificado)
-    - A música fala sobre a presença dos anjos no meio do povo, no altar, subindo e descendo, trazendo a bênção de Deus.
-
-- "Vem controlar todo meu ser" - (Não especificado)
-    - A música fala sobre a entrega total a Deus, pedindo que Ele controle nosso ser, nos dê novo vigor e nos envolva com Sua palavra e presença eucarística.
-
-- "Yeshua" - (Não especificado)
-    - A música fala sobre a beleza e o amor de Jesus, reconhecendo-O como Deus, Senhor, Rei e Salvador, e expressando o desejo de chamá-Lo de "meu amor".
-
-- "Alegria" - (Não especificado)
-    - A música fala sobre a alegria que vem de conhecer a Jesus e sobre o amor que Ele nos dá.
-
-- "Eu te levantarei" - (Não especificado)
-    - A música fala sobre o poder de Jesus para levantar as pessoas da tristeza, do medo, da depressão, da ansiedade e do pecado, restituindo suas forças e atraindo-as para Si.
-
-- "Nunca houve noite" - (Não especificado)
-    - A música fala sobre a esperança e a certeza de que, mesmo nas noites mais escuras, as mãos de Jesus estão sempre prontas para nos ajudar e realizar milagres em nossas vidas.
-
-- "Quero mergulhar" - (Não especificado)
-    - A música fala sobre o desejo de mergulhar nas profundezas do Espírito de Deus e descobrir Suas riquezas em nossos corações.
-
-- "E ainda se vier" - (Não especificado)
-    - A música fala sobre a fidelidade de Cristo em meio às tribulações, lembrando que, mesmo que o mundo nos faça chorar, Deus nos quer sorrindo.
-
-- "Levanta-te" - (Não especificado)
-    - A música fala sobre a luta espiritual contra os inimigos de Deus, convidando os fiéis a se levantarem em combate e a declararem a vitória de Jesus sobre todo o império e principado.
-
-- "Maria passa à frente" - (Não especificado)
-    - A música fala sobre a intercessão de Maria, que passa à frente para pisar na cabeça da serpente e nos proteger com sua luz.
-
-- "Eu quero amar" - (Não especificado)
-    - A música fala sobre o desejo de amar e ser o que Deus quer, reconhecendo a necessidade da ajuda do Espírito Santo para alcançar a unidade em nossas famílias e igrejas.
-
-- "Eu navegarei" - (Não especificado)
-    - A música fala sobre a busca pelo Espírito Santo e a entrega total a Deus, expressando o desejo de adorá-Lo no oceano do Espírito.
-
-- "Nada poderá me abalar" - (Não especificado)
-    - A música fala sobre a força e a vitória que vêm de Jesus, declarando que nada poderá nos abalar ou nos derrotar quando estamos Nele.
-
-- "Eis que faço nova todas as coisas" - (Não especificado)
-    - A música fala sobre a renovação que Deus opera em nossas vidas, transformando o velho em novo e nos dando uma nova esperança.
-
-- "Eu seguirei" - (Não especificado)
-    - A música fala sobre a decisão de seguir a Jesus aonde quer que Ele nos leve, confiando em Sua graça e em Seu amor para nos sustentar.
-
-- "Alegria" - (Não especificado)
-    - A música fala sobre a alegria que vem de conhecer a Jesus e sobre o amor que Ele nos dá.
-
-## Eventos de Agenda
-
-- **Santuário Mãe de Deus** - 16 e 17 de Agosto - Feira Vocacional
-    - Frei Gilson e Padre Marcelo Rossi estarão juntos neste evento.
-
-- **Santuário Mãe de Deus** - 20 de Novembro - Let's Go
-    - Frei Gilson e Padre Marcelo Rossi estarão juntos neste evento, no feriado da Consciência Negra.
-
-- **Aleluia em Fortaleza** - (Data não especificada)
-    - Padre Marcelo Rossi estará no Sábado e Frei Gilson no Domingo.
-
-- **Raler com a Tia Lolita em Franca** - (Data não especificada)
-    - Frei Gilson estará no Sábado e Padre Marcelo Rossi no Domingo.
-
-- **PHN** - (Data não especificada)
-    - Frei Gilson e Padre Marcelo Rossi foram convidados para este evento.
-
-- **Encontro dos Jovens da Diocese** - 18 e 19 de Outubro - Santuário (Não especificado)
-    - Frei Gilson estará presente neste evento.
+*(Observação: Os eventos das agendas subsequentes na transcrição mencionada, como 18 e 19 de outubro, referem-se a encontros específicos com outros padres e não estão no contexto do Rosário ou encerramento deste dia específico, portanto, foram omitidos conforme o foco na agenda pós-Rosário.)*
